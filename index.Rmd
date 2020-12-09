@@ -102,11 +102,13 @@ The below steps will provide you increasing levels of privacy but will have more
 ## Android Setup
 **If you have an older-model android** you should turn on full-device encryption. This paragraph impacts phones that were [made around 2016](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html) or earlier, but it’s worth a check even if your phone isn’t that old. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
 
-### In Security settings
+**In Security settings:**
+
 **Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that is unacceptable to you, choose “Hide sensitive notification content.”
 **Turn on “Power button instantly locks.”**
 
-### In the Display settings
+**In the Display settings:**
+
 Set **Sleep** to the shortest possible time, usually 15 seconds. 
 
 ### When you go to leave for the action
@@ -146,3 +148,26 @@ This adds a second check, whenever you log in, that it’s really you. The secon
 +-------+----------------------------------------------------+
 
 ## Strong Passwords
+Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
+
+Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called Diceware to come up with a random, but memorable passphrase. Someone even built a nice online tool for you, below.
+
+Diceware Password Generator: https://diceware.dmuth.org/
+
+**Don’t use the same password for multiple accounts.**
+
+## Security Questions 
+Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often easily accessible to others. 
+When you respond to security questions, try **use code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.  
+
+# Other Tips
+* Don’t use email for protest related conversation.
+* Ditch Chrome. Use Firefox or Brave.
+* Don’t use the built-in cloud backup solutions for Android or iOS. 
+* The most secure data backup is the one you make over a USB cable.
+* Use DuckDuckGo for searching.
+* Google your full name occasionally and see what comes up. 
+
+# After the Action
+Leave & delete Signal groups set up for that protest (last one to leave burns the group)
+Don’t post your protest photos on social media!

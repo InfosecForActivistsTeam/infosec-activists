@@ -62,17 +62,8 @@ If you have privacy concerns and your phone is no longer receiving software upda
 ## Day of the Action
 * Confirm meetup plans with your protest buddies before leaving for the event. 
   * Once you meet up, agree on a fallback location in case you get separated. 
-* Use Apple Maps or DuckDuckGo Maps if you need directions to the location of the protest. 
+* Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 
   * If you can, print the directions, or use Apple Maps offline mapping feature.
-
-# Maps
-| Service         | Grade | Comments                                                                                                                                               |
-|-----------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Apple Maps](https://maps.apple.com/go)      | A     | Apple’s logs randomize identity. The data on your phone is not randomized, so use secure backups. See “Maps”   https://www.apple.com/privacy/features/ |
-| [DuckDuckGo Maps](https://duckduckgo.com/) | A     | DuckDuckGo’s mapping service uses Apple Maps and is further anonymized.                                                                                |
-| [OsmAnd](https://osmand.net/)          | B     | May collect and store user information and history.                                                                                                    |
-| Sygic           | F     | Logs and stores all activity in full detail and claim they can use it for anything.                                                                    |
-| Google Maps     | F     | Logs and stores all activity in full detail by default. Disallows your phone from being offline while giving directions.                               |
 
 # Preparing your Phone
 ## iPhone Setup

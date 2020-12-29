@@ -33,17 +33,20 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Mullvad](https://mullvad.net/en/)    | VPN           | Also resold as  Mozilla VPN Protects your activity from your cable or mobile provider, who may share with police. | ~$5/mo                         |
 
 # Things to Know
-Your phone is a data goldmine, full of tracking and identifying information.  This includes where you have been, what you have said, and who you have been in communication with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
+Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have been in communication with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
 
 
-Assume the police have access to anything you send or receive.  Assume that any SMS messages you send, or phone calls that you make, can be logged & recorded (If your information is strongly encrypted, they may still have it, but can’t decrypt it). If your phone cannot be updated to the latest version of its OS series, and you have concerns about privacy, **don’t bring it.** (If you are attending a protest without a phone, don’t go alone.  Arrange pre-planned times and places where you can meet up with your buddies.)
+Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have it, but can’t decrypt it. Be sure to update your phone to the latest supported OS well before the action. For 2020, this would be iOS 14 and Android 11.
+
+
+If you have privacy concerns and your phone is no longer receiving software updates, consider not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times and places where you can meet up with your buddies, before you go to the protest.
 
 ## Do’s and Don’ts
 * **Do not “check in” to a protest on Facebook** or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
 * **Don’t post photos or videos.** These have extra information hidden in them that includes the time and place they were taken. If you send photos or videos out at all, only send them to people you trust, over secure means, long after and far away from the protest. 
 * **Don’t take anyone’s photo without permission.** 
 * **Do have a protest buddy and use Signal to communicate with them.**
-* **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high risk event, also bring the phone number of your local chapter of the [National Lawyer’s Guild](https://www.nlg.org/) in case of arrest
+* **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high risk event, also bring the phone number of your local chapter of the [National Lawyer’s Guild](https://www.nlg.org/) (in case of arrest).
 * **If you are using Signal or WhatsApp, enable “Disappearing Messages” for any sensitive conversations.**
 
 ## Getting Ready to Attend an Action

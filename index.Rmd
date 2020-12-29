@@ -102,11 +102,11 @@ The below steps will provide you increasing levels of privacy but will have more
 
 
 ## Android Setup
-**If you have an older-model android** you should turn on full-device encryption. This paragraph impacts phones that were [made around 2016](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html) or earlier, but it’s worth a check even if your phone isn’t that old. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
+**If you have an older-model android** may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
 
 **In Security settings:**
 
-**Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that is unacceptable to you, choose “Hide sensitive notification content.”
+**Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that does not work for you, choose “Hide sensitive notification content.”
 **Turn on “Power button instantly locks.”**
 
 **In the Display settings:**
@@ -117,7 +117,7 @@ Set **Sleep** to the shortest possible time, usually 15 seconds.
 * **Enable Airplane mode** to shut off all your radios.
 * **Disable location services** to turn off GPS recording.
 * Check that Bluetooth is really off. It’s highly identifiable and may stay on in airplane mode. 
-* You can turn mobile data back on without leaving airplane mode if you need it.
+* You can turn mobile data back on without leaving airplane mode if you need it. Simply press the Mobile Data button in the pull-down settings panel after you activate Airplane Mode. Those two buttons are often next to each other, conveniently.
 
 # Security Ideas
 This section is about keeping your information private while you live your life. In this document, “private” means only accessible to you, and not accessible by companies, law enforcement, or other entities, without your permission.

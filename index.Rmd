@@ -93,7 +93,7 @@ The below steps will provide you increasing levels of privacy but will have more
 
 
 ## Android Setup
-**If you have an older-model android** may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
+**If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
 
 **In Security settings:**
 
@@ -108,7 +108,7 @@ Set **Sleep** to the shortest possible time, usually 15 seconds.
 * **Enable Airplane mode** to shut off all your radios.
 * **Disable location services** to turn off GPS recording.
 * Check that Bluetooth is really off. It’s highly identifiable and may stay on in airplane mode. 
-* You can turn mobile data back on without leaving airplane mode if you need it. Simply press the Mobile Data button in the pull-down settings panel after you activate Airplane Mode. Those two buttons are often next to each other, conveniently.
+* You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.
 
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to other entities without your permission.
@@ -134,7 +134,7 @@ If neither of the above options are available for your service, you might be abl
 ## Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called Diceware to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
+Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 

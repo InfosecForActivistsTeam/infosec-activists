@@ -33,7 +33,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Mullvad](https://mullvad.net/en/)    | VPN           | Also resold as  Mozilla VPN Protects your activity from your cable or mobile provider, who may share with police. | ~$5/mo                         |
 
 # Things to Know
-Your phone is a data goldmine, full of tracking and identifying information.  This includes where you have been, what you have said, and who you have been in communication with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
+Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have been in communication with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
 
 
 Assume the police have access to anything you send or receive.  Assume that any SMS messages you send, or phone calls that you make, can be logged & recorded (If your information is strongly encrypted, they may still have it, but can’t decrypt it). If your phone cannot be updated to the latest version of its OS series, and you have concerns about privacy, **don’t bring it.** (If you are attending a protest without a phone, don’t go alone.  Arrange pre-planned times and places where you can meet up with your buddies.)

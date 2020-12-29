@@ -1,6 +1,6 @@
 ---
-title: "DRAFT Infosec for Activists DRAFT"
-author: "Drew Nichols, Mark Sherman, Ph.D., and Blake Skinner "
+title: "DRAFT Infosec 101 for Activists DRAFT"
+author: "Drew Nichols, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
 output: 
   html_document:
@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-The United States has a strong tradition of activism, dating back to the Boston Tea Party.  Today, activism in the US remains important and necessary. That being said, challenging existing power structures carries [an element of risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country ); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is easier to access than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  
+The United States has a strong tradition of activism, dating back to the Boston Tea Party. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  
 
 *If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away!  We also have sections for “Things to Know” and “Day to Day” with tips and tools to make your personal information safer at actions AND in your day to day life. 
 
@@ -55,25 +55,15 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android)
 * If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
-  * Not running the latest available OS version could expose you to security vulnerabilities which may have been fixed in later releases.
-* Set up a Signal account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
+  * Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 
+* Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
-  * For an added layer of security, enable “[Disappearing Messages](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages)” for the group.
 
 ## Day of the Action
 * Confirm meetup plans with your protest buddies before leaving for the event. 
   * Once you meet up, agree on a fallback location in case you get separated. 
-* Use Apple Maps or DuckDuckGo Maps if you need directions to the location of the protest. 
+* Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 
   * If you can, print the directions, or use Apple Maps offline mapping feature.
-
-# Maps
-| Service         | Grade | Comments                                                                                                                                               |
-|-----------------|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Apple Maps](https://maps.apple.com/go)      | A     | Apple’s logs randomize identity. The data on your phone is not randomized, so use secure backups. See “Maps”   https://www.apple.com/privacy/features/ |
-| [DuckDuckGo Maps](https://duckduckgo.com/) | A     | DuckDuckGo’s mapping service uses Apple Maps and is further anonymized.                                                                                |
-| [OsmAnd](https://osmand.net/)          | B     | May collect and store user information and history.                                                                                                    |
-| Sygic           | F     | Logs and stores all activity in full detail and claim they can use it for anything.                                                                    |
-| Google Maps     | F     | Logs and stores all activity in full detail by default. Disallows your phone from being offline while giving directions.                               |
 
 # Preparing your Phone
 ## iPhone Setup
@@ -103,11 +93,11 @@ The below steps will provide you increasing levels of privacy but will have more
 
 
 ## Android Setup
-**If you have an older-model android** you should turn on full-device encryption. This paragraph impacts phones that were [made around 2016](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html) or earlier, but it’s worth a check even if your phone isn’t that old. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
+**If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
 
 **In Security settings:**
 
-**Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that is unacceptable to you, choose “Hide sensitive notification content.”
+**Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that does not work for you, choose “Hide sensitive notification content.”
 **Turn on “Power button instantly locks.”**
 
 **In the Display settings:**
@@ -118,10 +108,10 @@ Set **Sleep** to the shortest possible time, usually 15 seconds.
 * **Enable Airplane mode** to shut off all your radios.
 * **Disable location services** to turn off GPS recording.
 * Check that Bluetooth is really off. It’s highly identifiable and may stay on in airplane mode. 
-* You can turn mobile data back on without leaving airplane mode if you need it.
+* You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.
 
 # Security Ideas
-This section is about keeping your information private while you live your life. In this document, “private” means only accessible to you, and not accessible by companies, law enforcement, or other entities, without your permission.
+This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to other entities without your permission.
 
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
@@ -144,7 +134,7 @@ If neither of the above options are available for your service, you might be abl
 ## Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called Diceware to come up with a random, but memorable passphrase. Someone even built a nice online tool for you, below.
+Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
@@ -162,5 +152,7 @@ When you respond to security questions, try **using code phrases instead of answ
 * Google your full name occasionally and see what comes up. 
 
 # After the Action
-Leave & delete Signal groups set up for that protest (last one to leave burns the group)
-Don’t post your protest photos on social media!
+* Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
+* Don’t post your protest photos on social media!
+
+Think carefully about who you can safely share your involvement in activism with.

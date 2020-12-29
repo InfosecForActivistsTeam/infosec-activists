@@ -120,7 +120,7 @@ Set **Sleep** to the shortest possible time, usually 15 seconds.
 * You can turn mobile data back on without leaving airplane mode if you need it. Simply press the Mobile Data button in the pull-down settings panel after you activate Airplane Mode. Those two buttons are often next to each other, conveniently.
 
 # Security Ideas
-This section is about keeping your information private while you live your life. In this document, “private” means only accessible to you, and not accessible by companies, law enforcement, or other entities, without your permission.
+This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to other entities without your permission.
 
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.

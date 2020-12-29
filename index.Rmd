@@ -74,7 +74,7 @@ Assume the police have access to anything you send or receive.  Assume that any 
 
 # Preparing your Phone
 ## iPhone Setup
-The below steps will provide you increasing levels of privacy but will have more impact on your normal usage. As a minimum, I would recommend performing all the steps through disabling Touch ID & Face ID. As you go further down the list, there will be diminishing returns except for particular situations (for example, if your device is confiscated during an arrest).
+The below steps will provide you increasing levels of privacy but will have more impact on your normal usage. As a minimum, I would recommend performing all the steps through disabling Touch ID & Face ID. As you go further down the list, there will be diminishing returns.
 
 * Disable Location Services
 	* Even in Airplane mode, iOS will keep the GPS receiver active
@@ -127,7 +127,7 @@ Here are some of the more popular messaging apps, with grades based on their sec
 
 # Password Safety
 
-The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability.  How can we resolve this? 
+The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we resolve this? 
 
 * Turn on two-factor authentication (2FA) everywhere it’s offered. 
 * Use long and strong passwords that are not easily guessed. 
@@ -158,7 +158,7 @@ Diceware Password Generator: https://diceware.dmuth.org/
 
 ## Security Questions 
 Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often easily accessible to others. 
-When you respond to security questions, try **use code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.  
+When you respond to security questions, try **using code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.
 
 # Other Tips
 * Don’t use email for protest related conversation.

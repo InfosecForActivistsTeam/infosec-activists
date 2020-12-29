@@ -15,7 +15,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-The United States has a strong tradition of activism, dating back to the Boston Tea Party. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country ); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  
+The United States has a strong tradition of activism, dating back to the Boston Tea Party. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  
 
 *If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away!  We also have sections for “Things to Know” and “Day to Day” with tips and tools to make your personal information safer at actions AND in your day to day life. 
 
@@ -55,10 +55,9 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android)
 * If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
-  * Not running the latest available OS version could expose you to security vulnerabilities which may have been fixed in later releases.
-* Set up a Signal account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
+  * Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 
+* Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
-  * For an added layer of security, enable “[Disappearing Messages](https://support.signal.org/hc/en-us/articles/360007320771-Set-and-manage-disappearing-messages)” for the group.
 
 ## Day of the Action
 * Confirm meetup plans with your protest buddies before leaving for the event. 

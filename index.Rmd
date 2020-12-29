@@ -126,7 +126,7 @@ To encrypt your personal communication (like messages with other people), you wa
 
 # Password Safety
 
-The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we resolve this? 
+The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we manage this? 
 
 * Turn on two-factor authentication (2FA) everywhere it’s offered. 
 * Use long and strong passwords that are not easily guessed. 

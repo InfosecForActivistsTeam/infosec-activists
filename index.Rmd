@@ -123,7 +123,6 @@ This section is about keeping your information private while you live your life.
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
 
-Here are some of the more popular messaging apps, with grades based on their security.
 
 # Password Safety
 

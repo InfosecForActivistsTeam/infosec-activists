@@ -155,8 +155,7 @@ When you respond to security questions, try **using code phrases instead of answ
 * Don’t use email for protest related conversation.
 * Ditch Chrome. Use Firefox or Brave.
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
-* The most secure data backup is the one you make over a USB cable.
-* Use DuckDuckGo for searching.
+  * The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 
 
 # After the Action

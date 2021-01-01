@@ -84,16 +84,8 @@ The below steps will provide you increasing levels of privacy but will have more
 	* *Disable Settings → Emergency SOS → Call with Side Button*
 * Disable Touch ID & Face ID
 	* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all the sliders to off.
-* Disable access to sensitive features when the device is locked
-	* Go to *Settings → Touch ID & Passcode*, disable everything under the “Allow Access When Locked” section, except for the “Wallet”, if it’s required
-* Disable app advertiser tracking requests
-	* Disable *Settings → Privacy → Tracking → Allow Apps to Request to Track*
-* Disable Wi-Fi Assist
-	* In *Settings → Cellular → Wi-Fi Assist*, toggle the slider “off”
-* Enable Data Protection
-	* *Settings → Touch ID & Passcode*, and toggle “Erase Data” to on.
-	* This will wipe your phone if the incorrect passcode is entered 10 times. **Be sure you have your passcode memorized.**
 
+For additional protection tips, see our extended document. (link to be added upon publication)
 
 ## Android Setup
 **If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.

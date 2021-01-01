@@ -67,7 +67,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 
 # Preparing your Phone
 ## iPhone Setup
-The below steps will provide you increasing levels of privacy but will have more impact on your normal usage. As a minimum, I would recommend performing all the steps through disabling Touch ID & Face ID. As you go further down the list, there will be diminishing returns.
+The below steps will provide you increasing levels of privacy but will have more impact on your normal usage. We recommend performing all the steps through disabling Touch ID & Face ID. As you go further down the list, there will be diminishing returns.
 
 * Disable Location Services
 	* Even in Airplane mode, iOS will keep the GPS receiver active

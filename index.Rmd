@@ -57,7 +57,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
-## Day of the Action
+### Day of the Action
 * Confirm meetup plans with your protest buddies before leaving for the event. 
   * Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 

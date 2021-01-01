@@ -63,7 +63,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Confirm meetup plans with your protest buddies before leaving for the event. 
   * Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 
-  * If you can, print the directions, or use Apple Maps offline mapping feature.
+  * If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.
 
 # Preparing your Phone
 ## iPhone Setup

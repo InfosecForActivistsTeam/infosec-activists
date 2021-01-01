@@ -114,8 +114,7 @@ This section is about keeping your information private in the rest of your life.
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
 
-
-# Password Safety
+## Password Safety
 
 The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we manage this? 
 
@@ -132,19 +131,19 @@ If neither of the above options are available for your service, you might be abl
 ## Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
+**Your passwords should be easy for you to remember, but too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
 **Don’t use the same password for multiple accounts.**
 
 ## Security Questions 
-Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often easily accessible to others. 
+Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often accessible to others.  
 When you respond to security questions, try **using code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.
 
 # Other Tips
 * Don’t use email for protest related conversation.
-* Ditch Chrome. Use Firefox or Brave.
+* [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/) Use Firefox or Brave.
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
   * The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 

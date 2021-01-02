@@ -1,6 +1,6 @@
 ---
 title: "DRAFT Infosec 101 for Activists DRAFT"
-author: "Drew Nichols, Mark Sherman, Ph.D., and Blake Skinner"
+author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
 output: 
   html_document:
@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 The United States has a strong tradition of activism, dating back to the Boston Tea Party. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  
 
-*If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away!  We also have sections for “Things to Know” and “Day to Day” with tips and tools to make your personal information safer at actions AND in your day to day life. 
+*If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away! We have also included tips and concepts to make your personal information safer at actions AND in your day to day life.
 
 # Tools to Use
 
@@ -29,15 +29,13 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Signal](https://signal.org/en/)     | Messaging     | Text messages, facebook messenger, other insecure instant messaging apps                                          | Free                           |
 | [Firefox](https://www.mozilla.org/en-US/firefox/new/)    | Web Browsing  | Google Chrome, Safari, Internet Explorer, Edge                                                                    | Free                           |
 | [DuckDuckGo](https://duckduckgo.com/) | Web Searching | Google Search                                                                                                     | Free                           |
-| [ProtonMail](https://protonmail.com/) | Email         | Gmail, yahoo, work email, etc                                                                                     | Free for basic ~$5/mo for more |
-| [Mullvad](https://mullvad.net/en/)    | VPN           | Also resold as  Mozilla VPN Protects your activity from your cable or mobile provider, who may share with police. | ~$5/mo                         |
+| [ProtonMail](https://protonmail.com/) | Email         | Gmail, yahoo, work email                                                                                    | Free for basic, ~$5/mo for more |
+| [ProtonVPN](https://protonvpn.com/)    | VPN           | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.                         |
 
 # Things to Know
-Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have been in communication with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
+Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have communicated with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
 
-
-Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have it, but can’t decrypt it. Be sure to update your phone to the latest supported OS well before the action. For 2020, this would be iOS 14 and Android 11.
-
+Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have it, but can’t decrypt it. Be sure to update your phone to the latest supported OS well before the action.
 
 If you have privacy concerns and your phone is no longer receiving software updates, consider not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times and places where you can meet up with your buddies, before you go to the protest.
 
@@ -49,7 +47,8 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high risk event, also bring the phone number of your local chapter of the [National Lawyer’s Guild](https://www.nlg.org/) (in case of arrest).
 * **If you are using Signal or WhatsApp, enable “Disappearing Messages” for any sensitive conversations.**
 
-## Getting Ready to Attend an Action
+# Attending an Action
+## Before
 * Do not mark yourself as “Going” on Facebook.
   * Make note of the details, and save them on a personal device or piece of paper.
 * Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android)
@@ -59,15 +58,19 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
-## Day of the Action
+## During
 * Confirm meetup plans with your protest buddies before leaving for the event. 
   * Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 
-  * If you can, print the directions, or use Apple Maps offline mapping feature.
+  * If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.
+
+## After
+* Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
+* Don’t post your protest photos on social media!
 
 # Preparing your Phone
 ## iPhone Setup
-The below steps will provide you increasing levels of privacy but will have more impact on your normal usage. As a minimum, I would recommend performing all the steps through disabling Touch ID & Face ID. As you go further down the list, there will be diminishing returns.
+The below steps will provide you increasing levels of privacy but will have more impact on your normal usage.
 
 * Disable Location Services
 	* Even in Airplane mode, iOS will keep the GPS receiver active
@@ -81,16 +84,8 @@ The below steps will provide you increasing levels of privacy but will have more
 	* *Disable Settings → Emergency SOS → Call with Side Button*
 * Disable Touch ID & Face ID
 	* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all the sliders to off.
-* Disable access to sensitive features when the device is locked
-	* Go to *Settings → Touch ID & Passcode*, disable everything under the “Allow Access When Locked” section, except for the “Wallet”, if it’s required
-* Disable app advertiser tracking requests
-	* Disable *Settings → Privacy → Tracking → Allow Apps to Request to Track*
-* Disable Wi-Fi Assist
-	* In *Settings → Cellular → Wi-Fi Assist*, toggle the slider “off”
-* Enable Data Protection
-	* *Settings → Touch ID & Passcode*, and toggle “Erase Data” to on.
-	* This will wipe your phone if the incorrect passcode is entered 10 times. **Be sure you have your passcode memorized.**
 
+For additional protection tips, see our extended document. (link to be added upon publication)
 
 ## Android Setup
 **If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
@@ -116,8 +111,7 @@ This section is about keeping your information private in the rest of your life.
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
 
-
-# Password Safety
+## Password Safety
 
 The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we manage this? 
 
@@ -134,25 +128,20 @@ If neither of the above options are available for your service, you might be abl
 ## Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-Your passwords should be **easy for you to remember, but take too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
+**Your passwords should be easy for you to remember, but too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
 **Don’t use the same password for multiple accounts.**
 
 ## Security Questions 
-Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often easily accessible to others. 
+Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often accessible to others.  
 When you respond to security questions, try **using code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.
 
 # Other Tips
+* Think carefully about who you can safely share your involvement in activism with.
 * Don’t use email for protest related conversation.
-* Ditch Chrome. Use Firefox or Brave.
+* [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/) Use Firefox or Brave.
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
   * The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 
-
-# After the Action
-* Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
-* Don’t post your protest photos on social media!
-
-Think carefully about who you can safely share your involvement in activism with.

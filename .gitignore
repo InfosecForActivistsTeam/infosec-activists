@@ -6,3 +6,4 @@
 .Rprofile
 renv/
 .python-version
+.tool-versions

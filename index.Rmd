@@ -69,8 +69,28 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Don’t post your protest photos on social media!
 
 # Preparing your Phone
+Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other entities. Phones typically record and share lots of information about your whearabouts and activity with different services. This is usually a good thing, as it allows your apps to be responsive to your needs and situation. In regards to an action, those features can provide a rich digital breadcrumb trail that is accessible to law enforcement. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that. 
+
+Attending an action brings an additional threat to privacy. If your phone is lost or confiscated by law enforcement, all the information on it could then be available to police. Below we will share advice to make your phone as strong as possible against intrusion should it fall into someone else's hands. 
+
+This section uses the word "phone" to mean a smartphone running iOS or Android, such as those manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, you may only be subject to a subset of the threats discussed below. 
+
+## Digital Breadcrumbs
+
+Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone has a **GPS** reciever built into it that enables maps and other location-based apps to work. The phone itself will keep that GPS recieveer on at all times, recording where you are, and occasionally send updates on your whearabouts to Google, Apple, or other app publishers. So we will want to turn the GPS reciever off, which prevents from the location data from being recorded at all. 
+
+**Bluetooth and WiFi** are common technologies, using short-range radio to communicate with other devices. But their operation requires your phone to broadcast identifiable information about itself. This information can be observed by a "beacon" or scanning device, which are used by stores, government agencies, and police to identify people who are nearby. Companies have deployed bluetooth beacons in their stores to identify how long customers linger in certain departments, or in front of certain displays, and then correlate that data with the person's other identifying information. This is profoundly dangerous at an action, so we need to disable Bluetooth and WiFi whenever possible. 
+
+**Your mobile carrier** can track your location by when your phone contacts its radio towers. Phones connect to towers periodically while on, even if they are not being actively used. Towers connections are sufficiently accurate to place an individual on the same block as an action. This information can be accessible to law enforcement through a subpoena. This data is slightly  more difficult for law enforcement to get than Bluetooth or Wifi, but it can be done.
+
+All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was created for travel in an airplane, out of a concern that phones would interfere with the plane's operation. This feature is useful today for being a reliable way to disable all three radios with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed below, of which the biggest is that airplane mode usually does not disable the GPS reciever. Generally, airplane mode is an important tool to prevent tracking data from being generated or collected.
+
+## Intrusion Protection
+
+If you attend an action, there is a risk that your phone may be siezed by police. This situation is different from above, as they physically have your phone and may attempt to extract information from it. All phones have lock screens, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a theif, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. These sort of biometric unlock mechanisms are not secure in this situation, and should be avoided during an action. The other unlock mechanisms are typically drawing a shape or entering a code. The code is the most secure, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. 
+
 ## iPhone Setup
-The below steps will provide you increasing levels of privacy but will have more impact on your normal usage.
+Apple has made personal security a priority in recent years, and has provided some iPhone-specific features to make securing your phone easier. These steps below can be used to reasonably secure your phone for an action. 
 
 * Disable Location Services
 	* Even in Airplane mode, iOS will keep the GPS receiver active

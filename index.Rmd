@@ -2,10 +2,17 @@
 title: "DRAFT Infosec 101 for Activists DRAFT"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
-output: 
+output:
   html_document:
     toc: true
     toc_float: true
+    self_contained: true
+    anchor_sections: false
+    includes:
+      before_body: styles.part.html
+  pdf_document: default
+urlcolor: blue
+linkcolor: blue
 ---
 
 ```{r setup, include=FALSE}
@@ -24,13 +31,13 @@ The United States has a strong tradition of activism, dating back to the Boston 
 Need secure, private communications in a hurry?  Here are services you can switch to right now!  (We do not receive kickbacks from any of these companies.  Or anybody, actually.)
 
 
-| Tools                                 | Use          | What it replaces, or what it does                                                    | What it costs                  |
-|---------------------------------------|--------------|--------------------------------------------------------------------------------------|--------------------------------|
-| [Signal](https://signal.org/en/)      | Messaging    | Text messages, facebook messenger, other insecure instant messaging apps             | Free                           |
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/)| Web Browsing  | Google Chrome, Safari, Internet Explorer, Edge                       | Free                           |
-| [DuckDuckGo](https://duckduckgo.com/) | Web Searching| Google Search                                                                        | Free                           |
-| [ProtonMail](https://protonmail.com/) | Email        | Gmail, yahoo, work email                                                             | Free for basic, ~$5/mo for more|
-| [ProtonVPN](https://protonvpn.com/)   | VPN          | Protects your activity from your cable or mobile provider, who may share with police.| Free, with paid tiers for faster service and more devices|
+| Tools      | Use           | What it replaces, or what it does                                                                                 | What it costs                  |
+|---------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------|
+| [Signal](https://signal.org/en/)     | Messaging     | Text messages, facebook messenger, other insecure instant messaging apps                                          | Free                           |
+| [Firefox](https://www.mozilla.org/en-US/firefox/new/)    | Web Browsing  | Google Chrome, Safari, Internet Explorer, Edge                                                                    | Free                           |
+| [DuckDuckGo](https://duckduckgo.com/) | Web Searching | Google Search                                                                                                     | Free                           |
+| [ProtonMail](https://protonmail.com/) | Email         | Gmail, yahoo, work email                                                                                    | Free for basic, ~$5/mo for more |
+| [ProtonVPN](https://protonvpn.com/)    | VPN           | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.                         |
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have communicated with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!

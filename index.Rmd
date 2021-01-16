@@ -10,6 +10,8 @@ output:
     self_contained: true
     includes:
       before_body: styles.part.html
+urlcolor: blue
+linkcolor: blue
 ---
 
 ```{r setup, include=FALSE}

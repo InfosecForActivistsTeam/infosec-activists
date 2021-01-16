@@ -50,19 +50,19 @@ If you have privacy concerns and your phone is no longer receiving software upda
 # Attending an Action
 ## Before
 * Do not mark yourself as “Going” on Facebook.
-  * Make note of the details, and save them on a personal device or piece of paper.
+	* Make note of the details, and save them on a personal device or piece of paper.
 * Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android)
 * If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
-  * Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 
+	* Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
 ## During
 * Confirm meetup plans with your protest buddies before leaving for the event. 
-  * Once you meet up, agree on a fallback location in case you get separated. 
+	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://duckduckgo.com/) if you need directions to the location of the protest. 
-  * If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.
+	* If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.
 
 ## After
 * Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
@@ -87,48 +87,60 @@ All phones have an option for **"airplane mode,"** which disables *all* radios. 
 
 ## Intrusion Protection
 
-If you attend an action, there is a risk that your phone may be seized by police. They physically have your phone and may attempt to extract information from it. All phones have lock screens, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, biometric unlock mechanisms should be avoided during an action. The other unlock mechanisms are typically drawing a shape or entering a code. The code is the most secure, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The power button should make the phone immediately lock, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it. 
+If you attend an action, there is a risk that your phone may be seized by police. They physically have your phone and may attempt to extract information from it. All phones have **lock screens**, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, **biometric unlock mechanisms should be avoided during an action**. The other unlock mechanisms are typically drawing a shape or entering a code. **Entering a code is the most secure**, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The **power button should make the phone immediately lock**, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it. 
 
-There are ways to access data on a phone without unlocking it. One way to defend against these methods is for the phone to be fully encrypted. A fully encrypted phone stores all of its data in an unreadable form. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone or dumping the storage contents to another device, as all of the contents will be unreadable without being unlocked in your specific phone. Luckily, this feature is turned on by default on most phones, so you probably don't have to worry about it! Only phones that are using Android versions before 6 should be concerned. Instructions for those phones are below.
+There are ways to access data on a phone without unlocking it. One way to defend against these methods is **full-disk encryption**, where all the information on the phone is stored encrypted. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone. Luckily, this feature is turned on by default on most phones, so you probably don't have to worry about it! **If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
+
+## Points as Discussed:
+
+* Disable your GPS reciever by turning off Location Services 
+* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+* Turn back on services you specifically need, like mobile data (re-activates carrier radio)
+* Lock screens
+
 
 ## iPhone Setup
 Apple has made personal security a priority in recent years, and has provided some iPhone-specific features to make securing your phone easier. These steps below can be used to reasonably secure your phone for an action. 
 
-* Enable Airplane Mode to turn off your WiFi and carrier radios.
-* Disable Location Services
-	* Even in Airplane mode, iOS will keep the GPS receiver active
+* Disable your GPS reciever by turning off Location Services 
+	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
-* Set your screen to auto-lock as quickly as possible, and require your passcode immediately
-	* *Settings → Display & Brightness → Auto-Lock*, set to 30s or 1 minute at the most
-	* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
-* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
-	* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
-	* *Disable Settings → Emergency SOS → Auto-call*
-	* *Disable Settings → Emergency SOS → Call with Side Button*
-* Disable Touch ID & Face ID
-	* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all the sliders to off.
+* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+* Turn back on services you specifically need, like mobile data (re-activates carrier radio)
+* Lock Screen Setup
+	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately
+		* *Settings → Display & Brightness → Auto-Lock*, set to 30s or 1 minute at the most
+		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
+	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
+		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
+		* *Disable Settings → Emergency SOS → Auto-call*
+		* *Disable Settings → Emergency SOS → Call with Side Button*
+	* Disable Touch ID & Face ID
+		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all the sliders to off.
 
 For additional protection tips, see our extended document. (link to be added upon publication)
 
 ## Android Setup
+Android has flexible settings that can be used to make your phone secure and usable in a number of situations. Below are steps to making your phone generally secure for the day of an action.
 
-**In Security settings:**
+* Disable your GPS reciever by turning off Location Services 
+	* Pull down the notification panel from the top of the screen. There may be a toggle button for Location Services (they often look like a satellite).
+	* If you don't have the button in the pulldown, go to *Settings → Location* and turn off "Use location."
+* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+	* Pull down the notification panel from the top of the screen. There may be a toggle button for Airplane Mode (it often look like an airplane). Ensure Airplane Mode is ON.
+	* If you don't have the button in the pulldown, go to *Settings → Network & internet* and turn on "Airplane mode."
+	* You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.
+	* Check that Bluetooth is really off. Android may keep it on of bluetooh devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off. 
+* Lock Screen Setup
+	* Go to *Settings → Security → Screen lock* and select PIN or Password.
+	* You will be asked if you want notifications to be shown on screen while the phone is locked. The safest option is “Don’t show any notifications at all.” If that does not work for you, choose “Hide sensitive notification content.”
+	* Click the gear to enter Screen lock settings: 
+		* Set "Lock after screen timeout" to Immediately.
+		* Turn on "Power button instantly locks"
+	* Disable Smart Lock, if you have it. It can keep your phone unlocked when you don't expect it, which is dangerous at an action.
+* Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible time, usually 15 seconds.
 
-**Lock your phone with a PIN or Password.** [Do not use a Swipe, Pattern, or fingerprint reader.](https://www.wired.co.uk/article/phone-lock-screen-password) When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “**Don’t show any notifications at all.**” If that does not work for you, choose “Hide sensitive notification content.”
-
-**Turn on “Power button instantly locks.”**
-
-**In the Display settings:**
-
-Set **Sleep** to the shortest possible time, usually 15 seconds. 
-
-### When you go to leave for the action
-* **Enable Airplane mode** to shut off all your radios.
-* **Disable location services** to turn off GPS recording.
-* Check that Bluetooth is really off. It’s highly identifiable and may stay on in airplane mode. 
-* You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.
-
-**If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
+For additional protection tips, see our extended document. (link to be added upon publication)
 
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to other entities without your permission.
@@ -168,5 +180,5 @@ When you respond to security questions, try **using code phrases instead of answ
 * Don’t use email for protest related conversation.
 * [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/) Use Firefox or Brave.
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
-  * The most secure data backup is the one you make over a USB cable.
+	* The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 

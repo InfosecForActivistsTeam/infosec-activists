@@ -266,7 +266,7 @@ div.tocify {
 
 <h1 class="title toc-ignore">DRAFT Infosec 101 for Activists DRAFT</h1>
 <h4 class="author">Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner</h4>
-<h4 class="date">Updated January 09, 2021</h4>
+<h4 class="date">Updated January 16, 2021</h4>
 
 </div>
 
@@ -284,9 +284,9 @@ div.tocify {
 <p>Need secure, private communications in a hurry? Here are services you can switch to right now! (We do not receive kickbacks from any of these companies. Or anybody, actually.)</p>
 <table>
 <colgroup>
-<col width="7%"></col>
+<col width="22%"></col>
 <col width="8%"></col>
-<col width="65%"></col>
+<col width="49%"></col>
 <col width="18%"></col>
 </colgroup>
 <thead>
@@ -326,7 +326,7 @@ div.tocify {
 <td><a href="https://protonvpn.com/">ProtonVPN</a></td>
 <td>VPN</td>
 <td>Protects your activity from your cable or mobile provider, who may share with police.</td>
-<td>Free, with paid tiers for faster service and more devices.</td>
+<td>Free, with paid tiers for faster service and more devices</td>
 </tr>
 </tbody>
 </table>
@@ -353,12 +353,16 @@ div.tocify {
 <div id="before" class="section level2">
 <h2>Before</h2>
 <ul>
-<li>Do not mark yourself as “Going” on Facebook.</li>
+<li>Do not mark yourself as “Going” on Facebook.
+<ul>
 <li>Make note of the details, and save them on a personal device or piece of paper.</li>
+</ul></li>
 <li>Practice your passcode. Enable and practice using <a href="https://support.apple.com/en-us/HT208076">Emergency SOS</a> (iOS) and <a href="https://support.google.com/pixelphone/answer/6093922#lockdown">Lockdown mode</a> (Android)</li>
 <li>If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.</li>
-<li>Make sure your device is updated to the latest version of your OS, and all your apps are up to date.</li>
+<li>Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
+<ul>
 <li>Check and update your <a href="https://support.google.com/android/answer/7680439">Android</a> or <a href="https://support.apple.com/en-us/HT204204">iOS</a> version to make sure you have the latest security fixes.</li>
+</ul></li>
 <li>Set up a <a href="https://signal.org/en/">Signal</a> account. If you don’t want to use your personal phone number, you can create a new phone number with Google Voice and register that with Signal.</li>
 <li>Find a friend (or several!) to go with and connect over Signal to discuss plans.</li>
 </ul>
@@ -366,10 +370,14 @@ div.tocify {
 <div id="during" class="section level2">
 <h2>During</h2>
 <ul>
-<li>Confirm meetup plans with your protest buddies before leaving for the event.</li>
+<li>Confirm meetup plans with your protest buddies before leaving for the event.
+<ul>
 <li>Once you meet up, agree on a fallback location in case you get separated.</li>
-<li>Use <a href="https://maps.apple.com/go">Apple Maps</a> or <a href="https://duckduckgo.com/">DuckDuckGo Maps</a> if you need directions to the location of the protest.</li>
+</ul></li>
+<li>Use <a href="https://maps.apple.com/go">Apple Maps</a> or <a href="https://duckduckgo.com/">DuckDuckGo Maps</a> if you need directions to the location of the protest.
+<ul>
 <li>If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.</li>
+</ul></li>
 </ul>
 </div>
 <div id="after" class="section level2">
@@ -382,30 +390,43 @@ div.tocify {
 </div>
 <div id="preparing-your-phone" class="section level1">
 <h1>Preparing your Phone</h1>
-<p>Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other entities. Phones typically record and share lots of information about your whearabouts and activity with different services. This is usually a good thing, as it allows your apps to be responsive to your needs and situation. In regards to an action, those features can provide a rich digital breadcrumb trail that is accessible to law enforcement. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that.</p>
+<p>Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other entities. Phones record and share lots of information about your whereabouts and activity with different services. This is usually a good thing, as it helps your apps respond to your needs and situation. But when you attend an action, those features can provide a rich digital breadcrumb trail. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that.</p>
 <p>Attending an action brings an additional threat to privacy. If your phone is lost or confiscated by law enforcement, all the information on it could then be available to police. Below we will share advice to make your phone as strong as possible against intrusion should it fall into someone else's hands.</p>
-<p>This section uses the word &quot;phone&quot; to mean a smartphone running iOS or Android, such as those manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, you may only be subject to a subset of the threats discussed below.</p>
+<p>This section uses the word &quot;phone&quot; to mean a smartphone running iOS or Android, such as those manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks are likely less.</p>
 <div id="digital-breadcrumbs" class="section level2">
 <h2>Digital Breadcrumbs</h2>
 <p>Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone has a <strong>GPS</strong> reciever built into it that enables maps and other location-based apps to work. The phone itself will keep that GPS recieveer on at all times, recording where you are, and occasionally send updates on your whearabouts to Google, Apple, or other app publishers. So we will want to turn the GPS reciever off, which prevents from the location data from being recorded at all.</p>
-<p><strong>Bluetooth and WiFi</strong> are common technologies, using short-range radio to communicate with other devices. But their operation requires your phone to broadcast identifiable information about itself. This information can be observed by a &quot;beacon&quot; or scanning device, which are used by stores, government agencies, and police to identify people who are nearby. Companies have deployed bluetooth beacons in their stores to identify how long customers linger in certain departments, or in front of certain displays, and then correlate that data with the person's other identifying information. This is profoundly dangerous at an action, so we need to disable Bluetooth and WiFi whenever possible.</p>
+<p><strong>Bluetooth and WiFi</strong> are common technologies that use short-range radio to communicate with other devices. Unfortunately, their operation requires your phone to broadcast identifiable information about itself. This information can be observed by a &quot;beacon&quot; or scanning device. Stores, government agencies, and police use these devices to identify people who are nearby. Companies have deployed Bluetooth beacons in their stores to identify how long customers linger in certain departments, or in front of certain displays, and then correlate that data with the person's other identifying information. This type of surveillance is profoundly dangerous at an action, so we need to disable Bluetooth and WiFi whenever possible.</p>
 <p><strong>Your mobile carrier</strong> can track your location by when your phone contacts its radio towers. Phones connect to towers periodically while on, even if they are not being actively used. Towers connections are sufficiently accurate to place an individual on the same block as an action. This information can be accessible to law enforcement through a subpoena. This data is slightly more difficult for law enforcement to get than Bluetooth or Wifi, but it can be done.</p>
-<p>All phones have an option for <strong>&quot;airplane mode,&quot;</strong> which disables <em>all</em> radios. This feature was created for travel in an airplane, out of a concern that phones would interfere with the plane's operation. This feature is useful today for being a reliable way to disable all three radios with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed below, of which the biggest is that airplane mode usually does not disable the GPS reciever. Generally, airplane mode is an important tool to prevent tracking data from being generated or collected.</p>
+<p>All phones have an option for <strong>&quot;airplane mode,&quot;</strong> which disables <em>all</em> radios. This feature was created for travel in an airplane, out of a concern that phones would interfere with the plane's operation. This feature is useful today for being a reliable way to disable all three radios with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed below, of which the biggest is that airplane mode usually does not disable the GPS receiver. Generally, airplane mode is an important tool to prevent generation and collection of tracking data.</p>
 </div>
 <div id="intrusion-protection" class="section level2">
 <h2>Intrusion Protection</h2>
-<p>If you attend an action, there is a risk that your phone may be siezed by police. This situation is different from above, as they physically have your phone and may attempt to extract information from it. All phones have lock screens, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a theif, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. These sort of biometric unlock mechanisms are not secure in this situation, and should be avoided during an action. The other unlock mechanisms are typically drawing a shape or entering a code. The code is the most secure, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The power button should make the phone immediately lock, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that ff you drop your phone or if its is stolen, the timer will expire and the phone will lock before anyone else can access it.</p>
-<p>There are ways to access data on a phone without unlocking it. One way to defend against these methods is for the phone to be fully encrypted. A fully encrypted phone stores all of its data in an unreadable form. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and contintue to store information in encyrpted form. This prevents law enforcement from removing the storage chips from your phone or dumping the storage contents to another device, as all of the contents will be unreadable without being unlocked in your specific phone. Luckily, this feature is turned on by default on most phones, so you probably don't have to worry about it! Only phones that are using Android version less than 6 should be concerned. Instructions for those phones are below.</p>
+<p>If you attend an action, there is a risk that your phone may be seized by police. They physically have your phone and may attempt to extract information from it. All phones have <strong>lock screens</strong>, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, <strong>biometric unlock mechanisms should be avoided during an action</strong>. The other unlock mechanisms are typically drawing a shape or entering a code. <strong>Entering a code is the most secure</strong>, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The <strong>power button should make the phone immediately lock</strong>, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it.</p>
+<p>There are ways to access data on a phone without unlocking it. One way to defend against these methods is <strong>full-disk encryption</strong>, where all the information on the phone is stored encrypted. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone. Luckily, this feature is turned on by default on most phones, so you probably don't have to worry about it! <strong>If you have an older-model android</strong> you may be able to turn on full-device encryption. This paragraph impacts phones that are running <a href="https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html">Android versions lower than 6</a>, but it’s worth a check even if your phone is running 6 or higher. <strong>Go to Settings, choose Security, and find the Encrypt Phone option.</strong> It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.</p>
+</div>
+<div id="points-as-discussed" class="section level2">
+<h2>Points as Discussed:</h2>
+<ul>
+<li>Disable your GPS reciever by turning off Location Services</li>
+<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode</li>
+<li>Turn back on services you specifically need, like mobile data (re-activates carrier radio)</li>
+<li>Lock screens</li>
+</ul>
 </div>
 <div id="iphone-setup" class="section level2">
 <h2>iPhone Setup</h2>
 <p>Apple has made personal security a priority in recent years, and has provided some iPhone-specific features to make securing your phone easier. These steps below can be used to reasonably secure your phone for an action.</p>
 <ul>
-<li>Disable Location Services
+<li>Disable your GPS reciever by turning off Location Services
 <ul>
-<li>Even in Airplane mode, iOS will keep the GPS receiver active</li>
+<li>Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.</li>
 <li><em>Settings → Privacy → Location Services</em>, toggle <em>Location Services</em> off.</li>
 </ul></li>
+<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode</li>
+<li>Turn back on services you specifically need, like mobile data (re-activates carrier radio)</li>
+<li>Lock Screen Setup
+<ul>
 <li>Set your screen to auto-lock as quickly as possible, and require your passcode immediately
 <ul>
 <li><em>Settings → Display &amp; Brightness → Auto-Lock</em>, set to 30s or 1 minute at the most</li>
@@ -421,25 +442,40 @@ div.tocify {
 <ul>
 <li><em>Settings → Touch ID &amp; Passcode</em>, under the section “Use Touch ID For:”, toggle all the sliders to off.</li>
 </ul></li>
+</ul></li>
 </ul>
 <p>For additional protection tips, see our extended document. (link to be added upon publication)</p>
 </div>
 <div id="android-setup" class="section level2">
 <h2>Android Setup</h2>
-<p><strong>In Security settings:</strong></p>
-<p><strong>Lock your phone with a PIN or Password.</strong> <a href="https://www.wired.co.uk/article/phone-lock-screen-password">Do not use a Swipe, Pattern, or fingerprint reader.</a> When you set up the screen lock, it will ask if you want notifications to be shown on screen while the phone is locked. The safest option is “<strong>Don’t show any notifications at all.</strong>” If that does not work for you, choose “Hide sensitive notification content.” <strong>Turn on “Power button instantly locks.”</strong></p>
-<p><strong>In the Display settings:</strong></p>
-<p>Set <strong>Sleep</strong> to the shortest possible time, usually 15 seconds.</p>
-<div id="when-you-go-to-leave-for-the-action" class="section level3">
-<h3>When you go to leave for the action</h3>
+<p>Android has flexible settings that can be used to make your phone secure and usable in a number of situations. Below are steps to making your phone generally secure for the day of an action.</p>
 <ul>
-<li><strong>Enable Airplane mode</strong> to shut off all your radios.</li>
-<li><strong>Disable location services</strong> to turn off GPS recording.</li>
-<li>Check that Bluetooth is really off. It’s highly identifiable and may stay on in airplane mode.</li>
+<li>Disable your GPS reciever by turning off Location Services
+<ul>
+<li>Pull down the notification panel from the top of the screen. There may be a toggle button for Location Services (they often look like a satellite).</li>
+<li>If you don't have the button in the pulldown, go to <em>Settings → Location</em> and turn off &quot;Use location.&quot;</li>
+</ul></li>
+<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+<ul>
+<li>Pull down the notification panel from the top of the screen. There may be a toggle button for Airplane Mode (it often look like an airplane). Ensure Airplane Mode is ON.</li>
+<li>If you don't have the button in the pulldown, go to <em>Settings → Network &amp; internet</em> and turn on &quot;Airplane mode.&quot;</li>
 <li>You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.</li>
+<li>Check that Bluetooth is really off. Android may keep it on of bluetooh devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off.</li>
+</ul></li>
+<li>Lock Screen Setup
+<ul>
+<li>Go to <em>Settings → Security → Screen lock</em> and select PIN or Password.</li>
+<li>You will be asked if you want notifications to be shown on screen while the phone is locked. The safest option is “Don’t show any notifications at all.” If that does not work for you, choose “Hide sensitive notification content.”</li>
+<li>Click the gear to enter Screen lock settings:
+<ul>
+<li>Set &quot;Lock after screen timeout&quot; to Immediately.</li>
+<li>Turn on &quot;Power button instantly locks&quot;</li>
+</ul></li>
+<li>Disable Smart Lock, if you have it. It can keep your phone unlocked when you don't expect it, which is dangerous at an action.</li>
+</ul></li>
+<li>Go to <em>Settings → Display → Advanced → Screen timeout</em> and set it to the shortest possible time, usually 15 seconds.</li>
 </ul>
-<p><strong>If you have an older-model android</strong> you may be able to turn on full-device encryption. This paragraph impacts phones that are running <a href="https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html">Android versions lower than 6</a>, but it’s worth a check even if your phone is running 6 or higher. <strong>Go to Settings, choose Security, and find the Encrypt Phone option.</strong> It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.</p>
-</div>
+<p>For additional protection tips, see our extended document. (link to be added upon publication)</p>
 </div>
 </div>
 <div id="security-ideas" class="section level1">
@@ -482,8 +518,10 @@ When you respond to security questions, try <strong>using code phrases instead o
 <li>Think carefully about who you can safely share your involvement in activism with.</li>
 <li>Don’t use email for protest related conversation.</li>
 <li><a href="https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/">Ditch Chrome.</a> Use Firefox or Brave.</li>
-<li>Don’t use the built-in cloud backup solutions for Android or iOS.</li>
+<li>Don’t use the built-in cloud backup solutions for Android or iOS.
+<ul>
 <li>The most secure data backup is the one you make over a USB cable.</li>
+</ul></li>
 <li>Google your full name occasionally and see what comes up.</li>
 </ul>
 </div>

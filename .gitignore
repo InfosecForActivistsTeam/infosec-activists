@@ -4,7 +4,6 @@
 .Ruserdata
 .DS_Store
 .python-version
-.tool-versions
 *.log
 output/
 Rplots.pdf

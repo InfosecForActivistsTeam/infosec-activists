@@ -3,9 +3,8 @@
 .RData
 .Ruserdata
 .DS_Store
-.Rprofile
-renv/
 .python-version
 .tool-versions
 *.log
 output/
+Rplots.pdf

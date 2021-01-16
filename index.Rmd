@@ -8,6 +8,7 @@ output:
     toc: true
     toc_float: true
     self_contained: true
+    anchor_sections: false
     includes:
       before_body: styles.part.html
 urlcolor: blue

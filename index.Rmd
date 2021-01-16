@@ -2,10 +2,14 @@
 title: "DRAFT Infosec 101 for Activists DRAFT"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
-output: 
+output:
+  pdf_document: default
   html_document:
     toc: true
     toc_float: true
+    self_contained: true
+    includes:
+      before_body: styles.part.html
 ---
 
 ```{r setup, include=FALSE}

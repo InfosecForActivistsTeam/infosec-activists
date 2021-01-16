@@ -3,7 +3,6 @@ title: "DRAFT Infosec 101 for Activists DRAFT"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
 output:
-  pdf_document: default
   html_document:
     toc: true
     toc_float: true
@@ -11,6 +10,7 @@ output:
     anchor_sections: false
     includes:
       before_body: styles.part.html
+  pdf_document: default
 urlcolor: blue
 linkcolor: blue
 ---

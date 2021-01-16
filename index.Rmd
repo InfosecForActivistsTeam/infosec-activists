@@ -98,14 +98,6 @@ If you attend an action, there is a risk that your phone may be seized by police
 
 There are ways to access data on a phone without unlocking it. One way to defend against these methods is **full-disk encryption**, where all the information on the phone is stored encrypted. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone. Luckily, this feature is turned on by default on most phones, so you probably don't have to worry about it! **If you have an older-model android** you may be able to turn on full-device encryption. This paragraph impacts phones that are running [Android versions lower than 6](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), but it’s worth a check even if your phone is running 6 or higher. **Go to Settings, choose Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and it will need to be plugged in to its charger to do it. You only need to do this once.
 
-## Points as Discussed:
-
-* Disable your GPS reciever by turning off Location Services 
-* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
-* Turn back on services you specifically need, like mobile data (re-activates carrier radio)
-* Lock screens
-
-
 ## iPhone Setup
 Apple has made personal security a priority in recent years, and has provided some iPhone-specific features to make securing your phone easier. These steps below can be used to reasonably secure your phone for an action. 
 

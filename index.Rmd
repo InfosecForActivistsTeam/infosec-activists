@@ -40,7 +40,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [ProtonVPN](https://protonvpn.com/)    | VPN           | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.                         |
 
 # Things to Know
-Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and who you have communicated with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
+Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and whom you have communicated with. This section will help you keep that data safe while you are attending a protest, keeping you AND those around you safer. Find instructions for iPhone and Android below! Get protected and protest ready right now!
 
 Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have it, but can’t decrypt it. Be sure to update your phone to the latest supported OS well before the action.
 

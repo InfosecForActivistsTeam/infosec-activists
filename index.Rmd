@@ -42,23 +42,23 @@ Need secure, private communications in a hurry?  Here are services you can switc
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and whom you have communicated with. This section will help you keep that data safe while you are attending a protest, protecting you AND those around you. Find instructions for iPhone and Android below! Get protected and protest-ready right now!
 
-Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have it, but can’t decrypt it. Be sure to update your phone to the latest supported OS well before the action.
+Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged & recorded by the police. If your information is strongly encrypted, they may still have access to it, but they can’t decrypt it. Be sure to update your phone to the latest supported operating system (OS) well before the action.
 
-If you have privacy concerns and your phone is no longer receiving software updates, consider not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times and places where you can meet up with your buddies, before you go to the protest.
+If you have privacy concerns and your phone is no longer receiving software updates, consider not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times and places where you can meet up with your buddies before you go to the protest.
 
 ## Do’s and Don’ts
 * **Do not “check in” to a protest on Facebook** or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
 * **Don’t post photos or videos.** These have extra information hidden in them that includes the time and place they were taken. If you send photos or videos out at all, only send them to people you trust, over secure means, long after and far away from the protest. 
 * **Don’t take anyone’s photo without permission.** 
 * **Do have a protest buddy and use Signal to communicate with them.**
-* **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high risk event, also bring the phone number of your local chapter of the [National Lawyer’s Guild](https://www.nlg.org/) (in case of arrest).
+* **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high-risk event, also bring the phone number of your local chapter of the [National Lawyers Guild](https://www.nlg.org/) (in case of arrest).
 * **If you are using Signal or WhatsApp, enable “Disappearing Messages” for any sensitive conversations.**
 
 # Attending an Action
 ## Before
 * Do not mark yourself as “Going” on Facebook.
 	* Make note of the details, and save them on a personal device or piece of paper.
-* Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android)
+* Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
 * If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
 	* Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 
@@ -75,7 +75,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
 * Don’t post your protest photos on social media!
 
-# Preparing your Phone
+# Preparing Your Phone
 Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other entities. Phones record and share lots of information about your whereabouts and activity with different services. This is usually a good thing, as it helps your apps respond to your needs and situation. But when you attend an action, those features can provide a rich digital breadcrumb trail. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that.
 
 Attending an action brings an additional threat to privacy. If your phone is lost or confiscated by law enforcement, all the information on it could then be available to police. Below we will share advice to make your phone as strong as possible against intrusion should it fall into someone else's hands. 

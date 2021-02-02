@@ -53,7 +53,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * **Don’t take anyone’s photo without permission.** 
 * **Do have a protest buddy and use Signal to communicate with them.**
 * **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high-risk event, also bring the phone number of your local chapter of the [National Lawyers Guild](https://www.nlg.org/) (in case of arrest).
-* **If you are using Signal or WhatsApp, enable “Disappearing Messages” for any sensitive conversations.**
+* **When using Signal, enable “Disappearing Messages” for any sensitive conversations.**
 
 # Attending an Action
 ## Before

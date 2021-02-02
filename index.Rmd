@@ -38,6 +38,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [DuckDuckGo](https://duckduckgo.com/) | Web Searching | Google Search                                                                                                     | Free                           |
 | [ProtonMail](https://protonmail.com/) | Email         | Gmail, yahoo, work email                                                                                    | Free for basic, ~$5/mo for more |
 | [ProtonVPN](https://protonvpn.com/)    | VPN           | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.                         |
+| [BitWarden](https://bitwarden.com/)    | Password Manager | Securely saves your passwords so you can use strong and unique passwords. | Free. $10/year for premium features. |
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and whom you have communicated with. This section will help you keep that data safe while you are attending a protest, protecting you AND those around you. Find instructions for iPhone and Android below! Get protected and protest-ready right now!
@@ -157,6 +158,7 @@ The password is the primary mechanism used to secure your online accounts, but i
 
 * Turn on two-factor authentication (2FA) everywhere it’s offered. 
 * Use long and strong passwords that are not easily guessed. 
+* Use a password manager to securely store your passwords, then use a unique password for each service. 
 
 ## Two-Factor Authentication (2FA) 
 This adds a second check, whenever you log in, that it’s really you. The second factor can be an app on your phone, text message, or email. A one-time-use code is sent to you which you then enter into the service to prove you control that second factor. Not all channels are equal in their security, but **any 2FA is worlds better than none at all.**
@@ -172,7 +174,8 @@ Longer passwords are harder to break, regardless of the types of characters they
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
-**Don’t use the same password for multiple accounts.**
+## Password Managers
+Password managers are apps that work like personal vaults for your passwords. They can save the username, password, and other information for each app and/or site that you use. This vault is heavily encrypted, and can only be unlocked by a master password. All you need to remember is the master password, and it will fill in everything else for you! This frees up mental space, which is always nice, but more importantly for security, it allows you to have each site use a completely unique and random password. Most people use variants of the same password or the exact same password across multiple sites and services, and this is a significant security vulnerability. If any of those services are breached (something that is completely out of your control), then your password could be released to the hacker community, often right next to your email. It's shockingly easy for hackers to try using those leaked credentials with other services, including with variations to the password. This is the most common way for people's accounts to be breached. This vulnerability is neutralized if the password used with the hacked service is totally unique. With a password manager, you can set every service to use a totally unguessable, randomly generated, unique password, like `7Xg*2BMVxCo!uY`. Most password managers include a random generator to make those passwords, and you never have to remember them because they stay securely recorded inside your personal vault within the manager. Our recommendation is [BitWarden,](https://bitwarden.com/) an open-source and easy-to-use password manager that uses state-of-the-art encryption for your passwords.
 
 ## Security Questions 
 Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often accessible to others.  

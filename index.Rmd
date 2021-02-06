@@ -30,7 +30,6 @@ The United States has a strong tradition of activism, dating back to the Boston 
 
 Need secure, private communications in a hurry?  Here are services you can switch to right now!  (We do not receive kickbacks from any of these companies.  Or anybody, actually.)
 
-
 | Tools                                                     | Use             | What it replaces, or what it does                                                     | What it costs                                             |
 |-----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------|
 | [Signal](https://signal.org/en/)                          | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                                      |
@@ -152,6 +151,9 @@ This section is about keeping your information private in the rest of your life.
 
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
+
+## Meeting Online
+Virtual meetings over video calls are part of modern life, and very common in activist communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work and social meet-ups but do not offer the privacy activism requires. For that reason, we recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain the content of your meetings. Jitsi is free, and does not even require a user account. You can start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No participants need to have accounts or give any personal information to Jitsi to use the platform. They take security and personal anonymity seriously. You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety
 

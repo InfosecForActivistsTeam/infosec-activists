@@ -21,13 +21,16 @@ knitr::opts_chunk$set(echo = TRUE)
 # DRAFT
 
 # Introduction
+America has a strong tradition of activism, dating back to [slave revolts](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/what-was-americas-1st-black-town/) and [indigenous uprisings](https://themihs.info/calusa-period/) even before the founding of the United States. Today, activism in the US remains critical. Street protests are an essential tool that activists use to raise awareness and push for institutional change.  That being said, challenging existing power structures carries an [element](https://www.icnl.org/usprotestlawtracker/) of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country) - exposure can lead to harassment, arrest, or [doxxing](https://www.muo.com/what-is-doxxing/).
 
-The United States has a strong tradition of activism, dating back to abolitionists and textile workers in the early 1800s. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of risk ([US Protest Law Tracker](https://www.icnl.org/usprotestlawtracker/), [Anti-Protest bills around the country](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country)); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups and agencies can leverage information against activists, and what you can do to protect yourself and others.  
+Your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others.  This document is focused on digital safety and information security for activists, who have special requirements and risks.  Others have written about [protest safety](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0) in a [general sense](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html), as well as day to day [digital](https://www.wikihow.com/Be-Safe-on-the-Internet) [safety](https://www.wikihow.com/Protect-Personal-Information).  
 
-*If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away! We have also included tips and concepts to make your personal information safer at actions AND in your day-to-day life.
+
+*If you are in a hurry, please begin with the tools chart below.* You’ll find information you can use right away! We have also included tips and concepts to make your personal information safer at actions AND in your day-to-day life.
+
+**Why should you care?** While challenging existing power structures has always carried an element of risk, the wireless digital landscape provided by today’s technology makes it far riskier. Law enforcement commonly works with tech companies to access user data, which the user (you) believed was private. Data breaches expose names and other personal information, which can have ramifications in your everyday life. Our goal is to help you conduct activism safely, without bringing unnecessary police surveillance, violence, or threats to your employment to your doorstep. This document is a guide to help you keep control over your own sensitive information.
 
 # Tools to Use
-
 Need secure, private communications in a hurry?  Here are services you can switch to right now!  (We do not receive kickbacks from any of these companies.  Or anybody, actually.)
 
 | Tools                                                     | Use             | What it replaces, or what it does                                                     | What it costs                                             |
@@ -91,7 +94,6 @@ Attending an action brings an additional threat to privacy. If your phone is los
 This section uses the word "phone" to mean a smartphone running iOS or Android, such as those manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks are likely less. 
 
 ## Digital Breadcrumbs
-
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone has a **GPS** reciever built into it that enables maps and other location-based apps to work. The phone itself will keep that GPS recieveer on at all times, recording where you are, and occasionally send updates on your whearabouts to Google, Apple, or other app publishers. So we will want to turn the GPS reciever off, which prevents from the location data from being recorded at all. 
 
 **Bluetooth and WiFi** are common technologies that use short-range radio to communicate with other devices. Unfortunately, their operation requires your phone to broadcast identifiable information about itself. This information can be observed by a "beacon" or scanning device. Stores, government agencies, and police use these devices to identify people who are nearby. Companies have deployed Bluetooth beacons in their stores to identify how long customers linger in certain departments, or in front of certain displays, and then correlate that data with the person's other identifying information. This type of surveillance is profoundly dangerous at an action, so we need to disable Bluetooth and WiFi whenever possible. 
@@ -101,7 +103,6 @@ Whether you have an iPhone or an Android, the threats to your privacy are the sa
 All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was created for travel in an airplane, out of a concern that phones would interfere with the plane's operation. This feature is useful today for being a reliable way to disable all three radios with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed below, of which the biggest is that airplane mode usually does not disable the GPS receiver. Generally, airplane mode is an important tool to prevent generation and collection of tracking data.
 
 ## Intrusion Protection
-
 If you attend an action, there is a risk that your phone may be seized by police. They physically have your phone and may attempt to extract information from it. All phones have **lock screens**, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, **biometric unlock mechanisms should be avoided during an action**. The other unlock mechanisms are typically drawing a shape or entering a code. **Entering a code is the most secure**, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The **power button should make the phone immediately lock**, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it.  
 
 There are ways to access data on a phone without unlocking it. One way to defend against these methods is **full-disk encryption**, where all the information on the phone is stored encrypted. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone.  
@@ -163,7 +164,6 @@ To encrypt your personal communication (like messages with other people), you wa
 Virtual meetings over video calls are part of modern life, and very common in activist communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work and social meet-ups but do not offer the privacy activism requires. For that reason, we recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain the content of your meetings. Jitsi is free, and does not even require a user account. You can start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No participants need to have accounts or give any personal information to Jitsi to use the platform. They take security and personal anonymity seriously. You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety
-
 The password is the primary mechanism used to secure your online accounts, but it is also a significant point of vulnerability. How can we manage this? 
 
 * Turn on two-factor authentication (2FA) everywhere it’s offered. 
@@ -198,3 +198,18 @@ When you respond to security questions, try **using code phrases instead of answ
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
 	* The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 
+
+# Closing 
+We hope that you have found this resource helpful. While at first these materials could seem intimidating, we are confident you can master them with a little time and practice. The world of information security changes frequently and quickly - while we will do our best to keep this page up to date, we encourage you to diversify your information sources.  
+
+If you'd like to continue learning, Malwarebyte's [Lock and Code](https://blog.malwarebytes.com/podcast/) podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/), and the ACLU tackles [ongoing threats to protestor's rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99). For ongoing news in the world of privacy and freedom of speech, check out the below resources!
+
+* [Techdirt](https://www.techdirt.com)
+* [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
+* [Arstechnica](https://arstechnica.com)
+* [EFF Deeplinks](https://www.eff.org/deeplinks)
+
+Acknowledgements: 
+
+Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, and Stacy for their assistance with this project. 
+We also thank our pets, Lacey, Lily, Pico and Roxy for their support in these challenging times. 

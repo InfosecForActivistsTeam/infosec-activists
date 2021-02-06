@@ -30,15 +30,15 @@ The United States has a strong tradition of activism, dating back to abolitionis
 
 Need secure, private communications in a hurry?  Here are services you can switch to right now!  (We do not receive kickbacks from any of these companies.  Or anybody, actually.)
 
-
-| Tools      | Use           | What it replaces, or what it does                                                                                 | What it costs                  |
-|---------------------------|--------------------|-------------------------------------------------------------------------------------------------------------------|--------------------------------|
-| [Signal](https://signal.org/en/)     | Messaging     | Text messages, facebook messenger, other insecure instant messaging apps                                          | Free                           |
-| [Firefox](https://www.mozilla.org/en-US/firefox/new/)    | Web Browsing  | Google Chrome, Safari, Internet Explorer, Edge                                                                    | Free                           |
-| [DuckDuckGo](https://duckduckgo.com/) | Web Searching | Google Search                                                                                                     | Free                           |
-| [ProtonMail](https://protonmail.com/) | Email         | Gmail, yahoo, work email                                                                                    | Free for basic, ~$5/mo for more |
-| [ProtonVPN](https://protonvpn.com/)    | VPN           | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.                         |
-| [BitWarden](https://bitwarden.com/)    | Password Manager | Securely saves your passwords so you can use strong and unique passwords. | Free. $10/year for premium features. |
+| Tools                                                     | Use             | What it replaces, or what it does                                                     | What it costs                                             |
+|-----------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------|-----------------------------------------------------------|
+| [Signal](https://signal.org/en/)                          | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                                      |
+| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/)| Web Browsing    | Google Chrome, Safari, Internet Explorer, Edge                                        | Free                                                      |
+| [DuckDuckGo](https://duckduckgo.com/)                     | Web Searching   | Google Search                                                                         | Free                                                      |
+| [ProtonMail](https://protonmail.com/)                     | Email           | Gmail, yahoo, work email                                                              | Free for basic, ~$5/mo for more                           |
+| [ProtonVPN](https://protonvpn.com/)         				| VPN             | Protects your activity from your cable or mobile provider, who may share with police. | Free, with paid tiers for faster service and more devices.|
+| [BitWarden](https://bitwarden.com/)    					| Password Manager| Securely saves your passwords so you can use strong and unique passwords.             | Free. $10/year for premium features. 					  |
+| [Jitsi](https://jitsi.org/)    							| Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                                      |
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and whom you have communicated with. This section will help you keep that data safe while you are attending a protest, protecting you AND those around you. Find instructions for iPhone and Android below! Get protected and protest-ready right now!
@@ -151,6 +151,9 @@ This section is about keeping your information private in the rest of your life.
 
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
+
+## Meeting Online
+Virtual meetings over video calls are part of modern life, and very common in activist communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work and social meet-ups but do not offer the privacy activism requires. For that reason, we recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain the content of your meetings. Jitsi is free, and does not even require a user account. You can start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No participants need to have accounts or give any personal information to Jitsi to use the platform. They take security and personal anonymity seriously. You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety
 

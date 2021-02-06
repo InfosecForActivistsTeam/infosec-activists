@@ -22,7 +22,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 # Introduction
 
-The United States has a strong tradition of activism, dating back to the Boston Tea Party. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of risk ([US Protest Law Tracker](https://www.icnl.org/usprotestlawtracker/), [Anti-Protest bills around the country](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country)); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups and agencies can leverage information against activists, and what you can do to protect yourself and others.  
+The United States has a strong tradition of activism, dating back to abolitionists and textile workers in the early 1800s. Today, activism in the US remains critical. That being said, challenging existing power structures carries an element of risk ([US Protest Law Tracker](https://www.icnl.org/usprotestlawtracker/), [Anti-Protest bills around the country](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country)); and your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups and agencies can leverage information against activists, and what you can do to protect yourself and others.  
 
 *If you are in a hurry, please begin with the tools chart below.*  You’ll find information you can use right away! We have also included tips and concepts to make your personal information safer at actions AND in your day-to-day life.
 
@@ -53,7 +53,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 * **Don’t take anyone’s photo without permission.** 
 * **Do have a protest buddy and use Signal to communicate with them.**
 * **Do write an emergency contact’s number somewhere conspicuous** (piece of paper, on your arm, etc) in case your device is confiscated or lost.  If you are at a high-risk event, also bring the phone number of your local chapter of the [National Lawyers Guild](https://www.nlg.org/) (in case of arrest).
-* **If you are using Signal or WhatsApp, enable “Disappearing Messages” for any sensitive conversations.**
+* **When using Signal, enable “Disappearing Messages” for any sensitive conversations.**
 
 # Attending an Action
 ## Before
@@ -134,7 +134,7 @@ Android has flexible settings that can be used to make your phone secure and usa
 	* Pull down the notification panel from the top of the screen. There may be a toggle button for Airplane Mode (it often look like an airplane). Ensure Airplane Mode is ON.
 	* If you don't have the button in the pulldown, go to *Settings → Network & internet* and turn on "Airplane mode."
 	* You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.
-	* Check that Bluetooth is really off. Android may keep it on of bluetooh devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off. 
+	* Check that Bluetooth is really off. Android may keep it on if bluetooth devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off. 
 * Lock Screen Setup
 	* Go to *Settings → Security → Screen lock* and select PIN or Password.
 	* You will be asked if you want notifications to be shown on screen while the phone is locked. The safest option is “Don’t show any notifications at all.” If that does not work for you, choose “Hide sensitive notification content.”
@@ -147,7 +147,7 @@ Android has flexible settings that can be used to make your phone secure and usa
 For additional protection tips, see our extended document. (link to be added upon publication)
 
 # Security Ideas
-This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to other entities without your permission.
+This section is about keeping your information private in the rest of your life. In this document, “private” means only accessible to you, and not to anyone else without your permission.
 
 ## Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end* encryption. Many apps claim “encryption” but only a few truly guarantee that your information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is only readable by you and your recipient. Without the “end-to-end” property, copies of messages may be sent through and saved on a central server, which the provider company has full access to.
@@ -165,12 +165,12 @@ This adds a second check, whenever you log in, that it’s really you. The secon
 
 When choosing a 2FA method, an authenticator app such as Google Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), [iOS](https://apps.apple.com/us/app/google-authenticator/id388497605)) provides a good balance between convenience and security. If more security is desired, physical tokens such as the [Yubikey](https://www.yubico.com/products/) can be used, and the [Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/) can use the physical tokens to generate one-time codes.
 
-If neither of the above options are available for your service, you might be able to use your email or phone (via SMS) to receive one-time codes. These are not as secure as the above options but, as stated above, any 2FA is worlds better than none at all.
+If neither of the above options is available for your service, you may be able to use your email or phone (via SMS) to receive one-time codes. These are not as secure as the above options but, as stated above, any 2FA is worlds better than none at all.
 
 ## Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-**Your passwords should be easy for you to remember, but too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember, but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random, but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
+**Your passwords should be easy for you to remember, but too long for a hacker to guess.** The best technique right now is to use a passphrase of multiple words that are easy for you to remember but so long that it would take centuries for a hacker to crack. You can use a technique called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random but memorable passphrase. Doug Muth built a nice online Diceware tool, below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
@@ -178,13 +178,13 @@ Diceware Password Generator: https://diceware.dmuth.org/
 Password managers are apps that work like personal vaults for your passwords. They can save the username, password, and other information for each app and/or site that you use. This vault is heavily encrypted, and can only be unlocked by a master password. All you need to remember is the master password, and it will fill in everything else for you! This frees up mental space, which is always nice, but more importantly for security, it allows you to have each site use a completely unique and random password. Most people use variants of the same password or the exact same password across multiple sites and services, and this is a significant security vulnerability. If any of those services are breached (something that is completely out of your control), then your password could be released to the hacker community, often right next to your email. It's shockingly easy for hackers to try using those leaked credentials with other services, including with variations to the password. This is the most common way for people's accounts to be breached. This vulnerability is neutralized if the password used with the hacked service is totally unique. With a password manager, you can set every service to use a totally unguessable, randomly generated, unique password, like `7Xg*2BMVxCo!uY`. Most password managers include a random generator to make those passwords, and you never have to remember them because they stay securely recorded inside your personal vault within the manager. Our recommendation is [BitWarden,](https://bitwarden.com/) an open-source and easy-to-use password manager that uses state-of-the-art encryption for your passwords.
 
 ## Security Questions 
-Personal questions are often used by services as a backup system should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often accessible to others.  
+Services often use personal questions as a backup system, should you need to reset your password. These questions often ask for personal information, like the name of your childhood pet or mother’s maiden name. This information, however, is often accessible to others.  
 When you respond to security questions, try **using code phrases instead of answering them honestly**, so that nobody familiar with your life could guess it and force a password reset without your consent. For instance, for the question “Where did you attend school in the sixth grade?” you could instead respond with your favorite cartoon character from the sixth grade.
 
 # Other Tips
 * Think carefully about who you can safely share your involvement in activism with.
 * Don’t use email for protest related conversation.
-* [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/) Use [Firefox](https://www.mozilla.org/en-US/firefox) or [Brave](https://brave.com/).
+* [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
 	* The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 

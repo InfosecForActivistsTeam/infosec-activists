@@ -4,8 +4,7 @@ author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
 output:
   html_document:
-    toc: true
-    toc_float: true
+    toc: false
     self_contained: true
     anchor_sections: false
     includes:

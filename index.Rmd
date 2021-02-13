@@ -69,7 +69,7 @@ If you have privacy concerns and your phone is no longer receiving software upda
 ## Before
 * Do not mark yourself as “Going” on Facebook.
 	* Make note of the details, and save them on a personal device or piece of paper.
-* Practice your passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
+* Practice your phone passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
 * If you need to search the internet for any information relating to the protest, use DuckDuckGo and private browsing sessions.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
 	* Check and update your [Android](https://support.google.com/android/answer/7680439) or [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest security fixes. 

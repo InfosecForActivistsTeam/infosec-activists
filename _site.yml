@@ -1,0 +1,20 @@
+name: "Infosec for Actvists 101"
+navbar:
+  title: "Infosec for Activists 101"
+  left:
+    - text: "Introduction"
+      href: index.html#introduction
+    - text: "Tools to Use"
+      href: index.html#tools-to-use
+    - text: "Things to Know"
+      href: index.html#things-to-know
+    - text: "Attending an Action"
+      href: index.html#attending-an-action
+    - text: "Preparing Your Phone"
+      href: index.html#preparing-your-phone
+    - text: "Security Ideas"
+      href: index.html#security-ideas
+    - text: "Other Tips"
+      href: index.html#other-tips
+    - text: "Closing"
+      href: index.html#closing

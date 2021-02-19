@@ -9,10 +9,26 @@ h2 {
     font-size: 20pt;
 }
 
+/* padding for bootstrap navbar */
+body {
+    padding-top: 150px;
+}
+
 :target:before {
     content: "";
     display: block;
-    height: 64px;
-    margin: -64px 0 0;
+    height: 150px;
+    margin: -150px 0 0;
 }
+
+@media screen and (max-width: 768px) {
+    body { padding-top: 50px; }
+    :target:before {
+        content: "";
+        display: block;
+        height: 50px;
+        margin: -50px 0 0;
+    }
+}
+
 </style>

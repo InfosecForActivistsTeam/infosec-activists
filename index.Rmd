@@ -404,7 +404,7 @@ For ongoing news in the world of privacy and freedom of speech, check out the be
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
 
-Acknowledgements: 
+## Acknowledgements
 
 Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. 
 We also thank our pets, Lacey, Lily, Pico and Roxy for their support in these challenging times. 

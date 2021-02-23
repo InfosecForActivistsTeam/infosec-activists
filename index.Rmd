@@ -374,6 +374,7 @@ widely-agreed-upon encryption standards for your passwords.
 Services often use personal questions as a backup system, should you need to reset your
 password. These questions often ask for personal information, like the name of your childhood
 pet or mother’s maiden name. This information, however, is often accessible to others.  
+
 When you respond to security questions, try **using code phrases instead of answering them honestly**,
 so that nobody familiar with your life could guess it and force a password reset without your
 consent. For instance, for the question “Where did you attend school in the sixth grade?” you

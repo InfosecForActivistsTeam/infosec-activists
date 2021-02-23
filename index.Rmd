@@ -77,8 +77,9 @@ Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers. 
 
-Another popular tool we must recommend against is Telegram. [Telegram has multiple issues with security](https://www.wired.com/story/telegram-encryption-whatsapp-settings/).
-While it supports end-to-end encryption (see [Messaging with Encryption](#messaging-with-encryption), below)
+Another popular tool we must recommend against is Telegram as it has a track record of
+[security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
+supports end-to-end encryption (see [Messaging with Encryption](#messaging-with-encryption), below)
 for messages between individuals, it does not apply this security to group messages. Group
 messages can be flagged as “spam” or “abuse” by Telegram staff & contractors, which means that
 their staff and contractors can see the contents of the messages. That data can be provided to

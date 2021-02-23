@@ -64,7 +64,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Jitsi](https://jitsi.org/)    							 | Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                |
 
 ## Tools NOT to Use
-In this document, we make recommendations against some wildly popular tools. Our recommendations
+In this document, we make recommendations against some popular & commonplace tools. Our recommendations
 are all based on the same guiding principles. The logic behind them is simple – **avoid tools
 that collect your information, store it outside of your control, or leave it publicly exposed.**
 The most challenging is likely Google Maps, which we believe should be avoided while attending an

@@ -1,5 +1,5 @@
 ---
-title: "DRAFT Infosec 101 for Activists DRAFT"
+title: "Infosec 101 for Activists"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
 output:
@@ -17,7 +17,6 @@ linkcolor: blue
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
-# DRAFT
 
 # Introduction
 America has a strong tradition of activism, dating back to[slave revolts](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/what-was-americas-1st-black-town/) and

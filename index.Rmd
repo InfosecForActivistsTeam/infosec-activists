@@ -54,13 +54,13 @@ Need secure, private communications in a hurry?  Here are services you can switc
 
 | Tools                                                      | Use             | What it replaces, or what it does                                                     | What it costs                       |
 |------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------|-------------------------------------|
-| [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
-| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | Web Browsing    | [Google Chrome](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/), Safari, Internet Explorer, Edge                                        | Free                                |
+| [BitWarden](https://bitwarden.com/)    					 | Password Manager| Securely saves your passwords so you can use strong and unique passwords.             | Free, more features $1/mo 			 |
 | [DuckDuckGo](https://duckduckgo.com/)                      | Web Searching   | Google Search                                                                         | Free                                |
+| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | Web Browsing    | [Google Chrome](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/), Safari, Internet Explorer, Edge                                        | Free                                |
+| [Jitsi](https://jitsi.org/)    							 | Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                |
 | [ProtonMail](https://protonmail.com/)                      | Email           | Gmail, yahoo, work email                                                              | Free, more features $5/mo           |
 | [ProtonVPN](https://protonvpn.com/)         				 | VPN             | Protects your activity from your cable or mobile provider, who may share with police. | Free, more features $5/mo or $10/mo |
-| [BitWarden](https://bitwarden.com/)    					 | Password Manager| Securely saves your passwords so you can use strong and unique passwords.             | Free, more features $1/mo 			 |
-| [Jitsi](https://jitsi.org/)    							 | Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                |
+| [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
 
 ## Tools NOT to Use
 In this document, we make recommendations against some popular & commonplace tools. Our recommendations

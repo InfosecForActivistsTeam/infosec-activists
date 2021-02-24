@@ -56,7 +56,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | Tools                                                      | Use             | What it replaces, or what it does                                                     | What it costs                       |
 |------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------|-------------------------------------|
 | [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
-| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | Web Browsing    | Google Chrome, Safari, Internet Explorer, Edge                                        | Free                                |
+| [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | Web Browsing    | [Google Chrome](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/), Safari, Internet Explorer, Edge                                        | Free                                |
 | [DuckDuckGo](https://duckduckgo.com/)                      | Web Searching   | Google Search                                                                         | Free                                |
 | [ProtonMail](https://protonmail.com/)                      | Email           | Gmail, yahoo, work email                                                              | Free, more features $5/mo           |
 | [ProtonVPN](https://protonvpn.com/)         				 | VPN             | Protects your activity from your cable or mobile provider, who may share with police. | Free, more features $5/mo or $10/mo |
@@ -370,7 +370,6 @@ could instead respond with your favorite cartoon character from the sixth grade.
 # Other Tips
 * **Think carefully about who you can safely share your involvement in activism with.**
 * Don’t use email for protest related conversation.
-* [Ditch Chrome.](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/)
 * Don’t use the built-in cloud backup solutions for Android or iOS. 
 	* The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 

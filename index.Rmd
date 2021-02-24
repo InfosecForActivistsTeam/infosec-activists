@@ -64,7 +64,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Jitsi](https://jitsi.org/)    							 | Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                |
 
 ## Tools NOT to Use
-In this document, we make recommendations against some wildly popular tools. Our recommendations
+In this document, we make recommendations against some popular & commonplace tools. Our recommendations
 are all based on the same guiding principles. The logic behind them is simple – **avoid tools
 that collect your information, store it outside of your control, or leave it publicly exposed.**
 The most challenging is likely Google Maps, which we believe should be avoided while attending an
@@ -77,8 +77,9 @@ Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers. 
 
-Another popular tool we must recommend against is Telegram. [Telegram has multiple issues with security](https://www.wired.com/story/telegram-encryption-whatsapp-settings/).
-While it supports end-to-end encryption (see [Messaging with Encryption](#messaging-with-encryption), below)
+Another popular tool we must recommend against is Telegram as it has a track record of
+[security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
+supports end-to-end encryption (see [Messaging with Encryption](#messaging-with-encryption), below)
 for messages between individuals, it does not apply this security to group messages. Group
 messages can be flagged as “spam” or “abuse” by Telegram staff & contractors, which means that
 their staff and contractors can see the contents of the messages. That data can be provided to
@@ -374,6 +375,7 @@ widely-agreed-upon encryption standards for your passwords.
 Services often use personal questions as a backup system, should you need to reset your
 password. These questions often ask for personal information, like the name of your childhood
 pet or mother’s maiden name. This information, however, is often accessible to others.  
+
 When you respond to security questions, try **using code phrases instead of answering them honestly**,
 so that nobody familiar with your life could guess it and force a password reset without your
 consent. For instance, for the question “Where did you attend school in the sixth grade?” you
@@ -403,7 +405,7 @@ For ongoing news in the world of privacy and freedom of speech, check out the be
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
 
-Acknowledgements: 
+## Acknowledgements
 
 Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. 
 We also thank our pets, Lacey, Lily, Pico and Roxy for their support in these challenging times. 

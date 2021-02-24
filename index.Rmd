@@ -19,7 +19,7 @@ knitr::opts_chunk$set(echo = TRUE)
 ```
 
 # Introduction
-America has a strong tradition of activism, dating back to[slave revolts](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/what-was-americas-1st-black-town/) and
+America has a strong tradition of activism, dating back to [slave revolts](https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/what-was-americas-1st-black-town/) and
 [indigenous uprisings](https://themihs.info/calusa-period/) even before the founding of the
 United States. Today, activism in the US remains critical. Street protests are an essential tool
 that activists use to raise awareness and push for institutional change.  That being said,

@@ -30,10 +30,10 @@ of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest
 Your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than
 it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage
 information against activists, and what you can do to protect yourself and others.  This document
-is focused on digital safety and information security for activists, who have special requirements
+is focused on digital safety and information security for activists who have special requirements
 and risks.  Others have written about [protest safety](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
 in a [general sense](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html),
-as well as day to day [digital](https://www.wikihow.com/Be-Safe-on-the-Internet) [safety](https://www.wikihow.com/Protect-Personal-Information).  
+as well as day-to-day [digital](https://www.wikihow.com/Be-Safe-on-the-Internet) [safety](https://www.wikihow.com/Protect-Personal-Information).  
 
 
 **If you are in a hurry, please begin with the tools chart below.** You’ll find information you
@@ -44,7 +44,7 @@ safer at actions AND in your day-to-day life.
 element of risk, the wireless digital landscape provided by today’s technology makes it far
 riskier. Law enforcement commonly works with tech companies to access user data, which the user
 (you) believed was private. Data breaches expose names and other personal information, which can
-have ramifications in your everyday life. Our goal is to help you conduct activism safely,
+have ramifications in your everyday life. Our goal is to help you conduct activism safely
 without bringing unnecessary police surveillance, violence, or threats to your employment to your
 doorstep. This document is a guide to help you keep control over your own sensitive information.
 

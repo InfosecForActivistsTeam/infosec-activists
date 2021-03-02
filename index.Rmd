@@ -86,10 +86,10 @@ law enforcement. To make things worse, the full encryption technique is not acti
 conversation by default, so it is not secure out of the box and [we cannot recommend it](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415).
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
-which was built from the ground-up for personal security. 
+which was built from the ground up for personal security. 
 
 Similar reasoning applies to all the recommendations we make in this document.  If you use it,
-we probably researched its security features for this project. If there are tools you are not
+we have probably researched its security features for this project. If there are tools you are not
 ready to give up, we encourage you to research their privacy policies and what you can do to
 protect your data. 
 

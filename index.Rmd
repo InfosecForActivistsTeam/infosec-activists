@@ -95,11 +95,11 @@ protect your data.
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where
-you have been, what you have said, and whom you have communicated with. This section will help
+you have been, what you have said, and with whom you have communicated with. This section will help
 you keep that data safe while you are attending a protest, protecting you AND those around you.
 Find instructions for iPhone and Android below! Get protected and protest-ready right now!
 
-Assume that any messages you send, phone calls that you make, or anything else you send or
+Assume that any messages you send, phone calls you make, or anything else you send or
 receive can be logged and recorded by the police. If your information is strongly encrypted, they
 may still have access to it, but they can’t decrypt it. Be sure to update your phone to the
 latest supported operating system (OS) well before the action.
@@ -127,8 +127,8 @@ and places where you can meet up with your buddies before you go to the protest.
 * Confirm meetup plans with your protest buddies before leaving for the event. 
 	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 
-	* If you can, print the directions. While Apple Maps does not have an explicit Offline mode,
-	if you route to a location it will retain the directions and surrounding map data.
+	* If you can, print the directions. While Apple Maps does not have an explicit offline mode,
+	if you route to a location, it will retain the directions and surrounding map data.
 
 ## After
 * Leave and delete Signal groups set up for that protest. (The last one to leave burns the group.)

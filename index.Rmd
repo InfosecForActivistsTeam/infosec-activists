@@ -218,7 +218,9 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
-## iPhone Setup
+## iPhone Setup {role="button" data-toggle="collapse" data-target="#collapseIphone"}
+
+<div class="collapse" id="collapseIphone">
 
 Apple has made personal security a priority in recent years and has provided some
 iPhone-specific features to make securing your phone easier. These steps can be used to
@@ -241,9 +243,14 @@ reasonably secure your phone for an action.
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
 		  the sliders to off.
 
+</div>
+
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
-## Android Setup
+## Android Setup {role="button" data-toggle="collapse" data-target="#collapseAndroid"}
+
+<div class="collapse" id="collapseAndroid">
+
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Below are steps to make your phone generally secure for the day of an action.
 
@@ -273,6 +280,8 @@ Below are steps to make your phone generally secure for the day of an action.
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
+
+</div>
 
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 

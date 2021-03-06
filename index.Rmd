@@ -184,34 +184,34 @@ Generally, airplane mode is an important tool to prevent generation and collecti
 data.
 
 ## Intrusion Protection
-If you attend an action, there is a risk that your phone may be seized by police. They
+If you attend an action, there is a risk that your phone may be seized by police. They will
 physically have your phone and may attempt to extract information from it. All phones have
 **lock screens**, which is the first line of defense. In day-to-day use, we want our lockscreen
-to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the
+to be prevent a thief or some other stranger from easily opening the
 phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms.
 The situation at an action is starkly different, as law enforcement may have detained you with
 your phone, and therefore may have the ability to apply your finger or face to your phone to
 unlock it, even if you resist or are unconscious. For this reason,
 **biometric unlock mechanisms should be avoided during an action**. The other unlock mechanisms
-are typically drawing a shape or entering a code. **Entering a code is the most secure**, as the
-shape can be traced from fingerprints on the screen. The code should also be long enough to
-prevent your fingerprints from giving it away, too. Related, you want your screen to lock
+typically involve drawing a shape or entering a code. **Entering a code is the most secure**, as the
+shape can be traced from fingerprints on the screen. The code should be long enough to
+prevent your fingerprints from giving it away. Related, you want your screen to lock
 quickly on its own. The **power button should make the phone immediately lock**, so that you can
 lock it quickly. Phones also let you select how long they should wait before auto-locking
 themselves. This time should be as short as possible, so that if you drop your phone or if it is
 stolen, the timer will expire and the phone will lock before anyone else can access it.  
 
 There are ways to access data on a phone without unlocking it. One way to defend against these
-methods is **full-disk encryption**, where all the information on the phone is stored encrypted.
+methods is **full-disk encryption**, where all the information on the phone is stored in encrypted form.
 When the phone is turned on, nothing can be read until the screen is unlocked the first time, at
-which point it will decrypt information as needed, and continue to store information in
+which point it will decrypt information as needed and continue to store information in
 encrypted form. This prevents law enforcement from removing the storage chips from your phone,
 as all of the contents will be unreadable without being unlocked in your specific phone.
 
 To use full-disk encryption on an iPhone, simply set a lock screen passcode. If you don't have a
 passcode, it will not activate the feature. 
 
-To see if your Android has encryption available and turned on, you can **Go to Settings, choose
+To see if your Android has encryption available and turned on, you can **go to Settings, choose
 Security, and find the Encrypt Phone option.** It will say “Encrypted” or prompt you to turn on
 encryption. Turning on encryption will take a few hours, and your device will need to be plugged
 into its charger. This is something you only need to do once.
@@ -220,61 +220,62 @@ If your Android device was shipped with [Android 6 or lower](https://www.compute
 you may not be able to use this feature.
 
 ## iPhone Setup
-Apple has made personal security a priority in recent years, and has provided some
-iPhone-specific features to make securing your phone easier. These steps below can be used to
+
+Apple has made personal security a priority in recent years and has provided some
+iPhone-specific features to make securing your phone easier. These steps can be used to
 reasonably secure your phone for an action. 
 
-* Disable your GPS reciever by turning off Location Services 
+* Disable your GPS reciever by turning off Location Services. 
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
-	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
-* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
-* Turn back on services you specifically need, like mobile data (re-activates carrier radio)
+	* *Settings → Privacy → Location Services*, toggle *Location Services* off
+* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode.
+* Turn back on services you specifically need, like mobile data (re-activates carrier radio).
 * Lock Screen Setup
-	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately
-		* *Settings → Display & Brightness → Auto-Lock*, set to 30s or 1 minute at the most
+	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
+		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
 	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
 		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
 	* Disable Touch ID & Face ID
-		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.
+		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For,” toggle all
+		  the sliders to off
 
-For additional protection tips, see our extended document. (link to be added upon publication)
+<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
 ## Android Setup
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
-Below are steps to making your phone generally secure for the day of an action.
+Below are steps to make your phone generally secure for the day of an action.
 
-* Disable your GPS reciever by turning off Location Services 
+* Disable your GPS reciever by turning off Location Services.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
 	  for Location Services (they often look like a satellite).
 	* If you don't have the button in the pulldown, go to *Settings → Location* and turn off "Use location."
-* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
 	  for Airplane Mode (it often look like an airplane). Ensure Airplane Mode is ON.
 	* If you don't have the button in the pulldown, go to *Settings → Network & internet* and turn on "Airplane mode."
 	* You can turn mobile data back on without leaving airplane mode if you need it. Press the
 	  Mobile Data button in the notification panel after you activate Airplane Mode. Those two
 	  buttons are often next to each other.
-	* Check that Bluetooth is really off. Android may keep it on if bluetooth devices are
+	* Check that Bluetooth is really off. Android may keep it on if Bluetooth devices are
 	  connected. The button in the notification panel should be grayed/uncolored to indicate it
 	  is off. 
 * Lock Screen Setup
-	* Go to *Settings → Security → Screen lock* and select PIN or Password.
+	* Go to *Settings → Security → Screen Lock* and select PIN or Password.
 	* You will be asked if you want notifications to be shown on screen while the phone is
 	  locked. The safest option is “Don’t show any notifications at all.” If that does not work
 	  for you, choose “Hide sensitive notification content.”
-	* Click the gear to enter Screen lock settings: 
+	* Click the gear to enter Screen Lock settings: 
 		* Set "Lock after screen timeout" to Immediately.
-		* Turn on "Power button instantly locks"
-	* Disable Smart Lock, if you have it. It can keep your phone unlocked when you don't expect
+		* Turn on "Power button instantly locks".
+	* Disable Smart Lock if you have it. It can keep your phone unlocked when you don't expect
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
 
-For additional protection tips, see our extended document. (link to be added upon publication)
+<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this
@@ -288,14 +289,14 @@ only readable by you and your recipient. Without the “end-to-end” property, 
 may be sent through and saved on a central server, which the provider company has full access to.
 
 ## Meeting Online
-Virtual meetings over video calls are part of modern life, and very common in activist
+Virtual meetings over video calls are part of modern life and very common in activist
 communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work
-and social meet-ups but do not offer the privacy activism requires. For that reason, we
+and social meetups but do not offer the privacy activism requires. For that reason, we
 recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain
-the content of your meetings. Jitsi is free, and does not even require a user account. You can
-start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No
-participants need to have accounts or give any personal information to Jitsi to use the
-platform. They take security and personal anonymity seriously.
+the content of your meetings. Jitsi is free and does not even require a user account. You can
+start a meeting directly from their webpage at [meet.jit.si](https://meet.jit.si/). No
+participants need to have accounts or give any personal information to use the
+platform. Jitsi takes security and personal anonymity seriously.
 You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety
@@ -308,7 +309,7 @@ significant point of vulnerability. How can we manage this?
 
 ## Two-Factor Authentication (2FA) 
 This adds a second check, whenever you log in, that it’s really you. The second factor can be an
-app on your phone, text message, or email. A one-time-use code is sent to you which you then
+app on your phone, text message, or email. A one-time-use code is sent to you, which you then
 enter into the service to prove you control that second factor. Not all channels are equal in
 their security, but **any 2FA is worlds better than none at all.**
 
@@ -316,10 +317,10 @@ When choosing a 2FA method, an authenticator app such as Google Authenticator ([
 [iOS](https://apps.apple.com/us/app/google-authenticator/id388497605)) provides a good balance
 between convenience and security. If more security is desired, physical tokens such as the
 [Yubikey](https://www.yubico.com/products/) can be used, and the [Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/)
-can use the physical tokens to generate one-time codes.
+can use physical tokens to generate one-time codes.
 
 If neither of the above options is available for your service, you may be able to use your email
-or phone (via SMS) to receive one-time codes. These are not as secure as the above options but,
+or phone (via SMS) to receive one-time codes. These are not as secure as the above options, but,
 as stated above, any 2FA is worlds better than none at all.
 
 ## Strong Passwords
@@ -327,7 +328,7 @@ Longer passwords are harder to break, regardless of the types of characters they
 hackers’ tools can try every possible character in every order for an 8-character password
 instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
 
-**Your passwords should be easy for you to remember, but too long for a hacker to guess.** The
+**Your passwords should be easy for you to remember but too long for a hacker to guess.** The
 best technique right now is to use a passphrase of multiple words that are easy for you to
 remember but so long that it would take centuries for a hacker to crack. You can use a technique
 called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random but memorable
@@ -338,7 +339,7 @@ Diceware Password Generator: https://diceware.dmuth.org/
 ## Password Managers
 Password managers are apps that work like personal vaults for your passwords. They can save the
 username, password, and other information for each app and/or site that you use. This vault is
-heavily encrypted, and can only be unlocked by a master password. All you need to remember is
+heavily encrypted and can only be unlocked by a master password. All you need to remember is
 the master password, and it will fill in everything else for you! This frees up mental space,
 which is always nice, but more importantly for security, it allows you to have each site use a
 completely unique and random password. Most people use variants of the same password or the
@@ -380,15 +381,15 @@ could instead respond with your favorite cartoon character from the sixth grade.
 * **When using Signal, enable “Disappearing Messages” for any sensitive conversations.**
 
 # Closing 
-We hope that you have found this resource helpful. While at first these materials could seem
+We hope that you have found this resource helpful. While at first these materials may seem
 intimidating, we are confident you can master them with a little time and practice. The world of
 information security changes frequently and quickly - while we will do our best to keep this
 page up to date, we encourage you to diversify your information sources.  
 
 If you'd like to continue learning, Malwarebyte's [Lock and Code](https://blog.malwarebytes.com/podcast/)
 podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/),
-and the ACLU tackles [ongoing threats to protestor's rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
-For ongoing news in the world of privacy and freedom of speech, check out the below resources!  
+and the ACLU tackles [ongoing threats to protestors' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
+For ongoing news in the world of privacy and freedom of speech, check out the resources below!  
 
 * [Techdirt](https://www.techdirt.com)
 * [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
@@ -398,4 +399,4 @@ For ongoing news in the world of privacy and freedom of speech, check out the be
 ## Acknowledgements
 
 Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. 
-We also thank our pets, Lacey, Lily, Pico and Roxy for their support in these challenging times. 
+We also thank our pets, Lacey, Lily, Pico, and Roxy for their support in these challenging times. 

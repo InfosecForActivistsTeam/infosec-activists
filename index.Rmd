@@ -241,8 +241,6 @@ reasonably secure your phone for an action.
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
 		  the sliders to off.
 
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
-
 ## Android Setup
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Below are steps to make your phone generally secure for the day of an action.
@@ -273,8 +271,6 @@ Below are steps to make your phone generally secure for the day of an action.
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this

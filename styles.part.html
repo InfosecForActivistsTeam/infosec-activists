@@ -28,6 +28,23 @@ body {
     padding-top: 150px;
 }
 
+.collapsePanelHeader {
+    color: rgb(51, 51, 51);
+}
+
+.panel-heading .collapsePanelHeader:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+    content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+    float: right;
+    color: grey;
+}
+
+.panel-heading .collapsePanelHeader.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
+}
+
 :target:before {
     content: "";
     display: block;

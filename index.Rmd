@@ -218,9 +218,15 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
-## <a role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
+<div class="panel panel-default">
+<div class="panel-heading" >
+<div class="panel-title">
 
-<div class="collapse" id="collapseIphone">
+## <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
+
+</div>
+</div>
+<div class="panel-body collapse" id="collapseIphone">
 
 Apple has made personal security a priority in recent years and has provided some
 iPhone-specific features to make securing your phone easier. These steps can be used to
@@ -244,11 +250,18 @@ reasonably secure your phone for an action.
 		  the sliders to off.
 
 </div>
+</div>
 
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
-## <a role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
+<div class="panel panel-default">
+<div class="panel-heading" >
+<div class="panel-title">
 
+## <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
+
+</div>
+</div>
 <div class="collapse" id="collapseAndroid">
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 

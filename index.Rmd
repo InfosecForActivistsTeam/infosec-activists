@@ -218,7 +218,7 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
-## iPhone Setup {role="button" data-toggle="collapse" data-target="#collapseIphone"}
+## <a role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
 
 <div class="collapse" id="collapseIphone">
 
@@ -247,7 +247,7 @@ reasonably secure your phone for an action.
 
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
-## Android Setup {role="button" data-toggle="collapse" data-target="#collapseAndroid"}
+## <a role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
 
 <div class="collapse" id="collapseAndroid">
 

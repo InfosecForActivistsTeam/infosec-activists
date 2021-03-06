@@ -30,10 +30,10 @@ of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest
 Your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than
 it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage
 information against activists, and what you can do to protect yourself and others.  This document
-is focused on digital safety and information security for activists, who have special requirements
+is focused on digital safety and information security for activists who have special requirements
 and risks.  Others have written about [protest safety](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
 in a [general sense](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html),
-as well as day to day [digital](https://www.wikihow.com/Be-Safe-on-the-Internet) [safety](https://www.wikihow.com/Protect-Personal-Information).  
+as well as day-to-day [digital](https://www.wikihow.com/Be-Safe-on-the-Internet) [safety](https://www.wikihow.com/Protect-Personal-Information).  
 
 
 **If you are in a hurry, please begin with the tools chart below.** You’ll find information you
@@ -44,7 +44,7 @@ safer at actions AND in your day-to-day life.
 element of risk, the wireless digital landscape provided by today’s technology makes it far
 riskier. Law enforcement commonly works with tech companies to access user data, which the user
 (you) believed was private. Data breaches expose names and other personal information, which can
-have ramifications in your everyday life. Our goal is to help you conduct activism safely,
+have ramifications in your everyday life. Our goal is to help you conduct activism safely
 without bringing unnecessary police surveillance, violence, or threats to your employment to your
 doorstep. This document is a guide to help you keep control over your own sensitive information.
 
@@ -64,7 +64,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
 
 ## Tools NOT to Use
-In this document, we make recommendations against some popular & commonplace tools. Our recommendations
+In this document, we make recommendations against some popular and commonplace tools. Our recommendations
 are all based on the same guiding principles. The logic behind them is simple – **avoid tools
 that collect your information, store it outside of your control, or leave it publicly exposed.**
 The most challenging is likely Google Maps, which we believe should be avoided while attending an
@@ -72,36 +72,35 @@ action. Google Maps always tracks its users, and Google keeps this tracking data
 forever. All of this data can be [given to law enforcement](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been).
 [Police and other agencies](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) can use Google's high-precision data
 to place a person at an action. Even more dangerous, they can then locate a person down to
-specific areas within an action, or near criminal acts, within a few feet, and down to the minute.
+specific areas within an action, or near criminal acts, within a few feet and down to the minute.
 Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers. 
 
-Another popular tool we must recommend against is Telegram as it has a track record of
+Another popular tool we must recommend against is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
-supports end-to-end encryption (see [Messaging with Encryption](#messaging-with-encryption), below)
-for messages between individuals, it does not apply this security to group messages. Group
-messages can be flagged as “spam” or “abuse” by Telegram staff & contractors, which means that
+supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group
+messages can be flagged as “spam” or “abuse” by Telegram staff and contractors, which means that
 their staff and contractors can see the contents of the messages. That data can be provided to
 law enforcement. To make things worse, the full encryption technique is not active for any
 conversation by default, so it is not secure out of the box and [we cannot recommend it](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415).
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
-which was built from the ground-up for personal security. 
+which was built from the ground up for personal security. 
 
 Similar reasoning applies to all the recommendations we make in this document.  If you use it,
-we probably researched its security features for this project. If there are tools you are not
+we have probably researched its security features for this project. If there are tools you are not
 ready to give up, we encourage you to research their privacy policies and what you can do to
 protect your data. 
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where
-you have been, what you have said, and whom you have communicated with. This section will help
+you have been, what you have said, and with whom you have communicated with. This section will help
 you keep that data safe while you are attending a protest, protecting you AND those around you.
 Find instructions for iPhone and Android below! Get protected and protest-ready right now!
 
-Assume that any messages you send, phone calls that you make, or anything else you send or
-receive can be logged & recorded by the police. If your information is strongly encrypted, they
+Assume that any messages you send, phone calls you make, or anything else you send or
+receive can be logged and recorded by the police. If your information is strongly encrypted, they
 may still have access to it, but they can’t decrypt it. Be sure to update your phone to the
 latest supported operating system (OS) well before the action.
 
@@ -128,15 +127,15 @@ and places where you can meet up with your buddies before you go to the protest.
 * Confirm meetup plans with your protest buddies before leaving for the event. 
 	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 
-	* If you can, print the directions. While Apple Maps does not have an explicit Offline mode,
-	if you route to a location it will retain the directions and surrounding map data.
+	* If you can, print the directions. While Apple Maps does not have an explicit offline mode,
+	if you route to a location, it will retain the directions and surrounding map data.
 
 ## After
-* Leave & delete Signal groups set up for that protest. (The last one to leave burns the group.)
+* Leave and delete Signal groups set up for that protest. (The last one to leave burns the group.)
 * Don’t post your protest photos on social media!
 
 # Preparing Your Phone
-Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other
+Your phone is a powerful tool but also a powerful tracking device for law enforcement and other
 entities. Phones record and share lots of information about your whereabouts and activity with
 different services. This is usually a good thing, as it helps your apps respond to your needs
 and situation. But when you attend an action, those features can provide a rich digital
@@ -238,9 +237,9 @@ reasonably secure your phone for an action.
 		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
-	* Disable Touch ID & Face ID
-		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For,” toggle all
-		  the sliders to off
+	* Disable Touch ID and Face ID
+		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
+		  the sliders to off.
 
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 

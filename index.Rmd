@@ -262,7 +262,7 @@ reasonably secure your phone for an action.
 
 </div>
 </div>
-<div class="collapse" id="collapseAndroid">
+<div class="panel-body collapse" id="collapseAndroid">
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Below are steps to make your phone generally secure for the day of an action.

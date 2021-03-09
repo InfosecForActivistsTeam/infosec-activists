@@ -131,7 +131,7 @@ and places where you can meet up with your buddies before you go to the protest.
 	if you route to a location, it will retain the directions and surrounding map data.
 
 ## After
-* Leave and delete Signal groups set up for that protest. (The last one to leave burns the group.)
+* Leave and delete Signal groups set up for that protest.
 * Don’t post your protest photos on social media!
 
 # Preparing Your Phone
@@ -144,8 +144,7 @@ some advice on how to do that.
 
 Attending an action brings an additional threat to privacy. If your phone is lost or confiscated
 by law enforcement, all the information on it could then be available to police. Below we will
-share advice to make your phone as strong as possible against intrusion should it fall into
-someone else's hands. 
+share advice to protect your phone against intrusion should it fall into someone else's hands. 
 
 This section uses the word "phone" to mean a smartphone running iOS or Android, such as those
 manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks
@@ -226,9 +225,8 @@ reasonably secure your phone for an action.
 
 * Disable your GPS reciever by turning off Location Services. 
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
-	* *Settings → Privacy → Location Services*, toggle *Location Services* off
-* Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode.
-* Turn back on services you specifically need, like mobile data (re-activates carrier radio).
+	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
+* Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
 * Lock Screen Setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
@@ -327,7 +325,7 @@ instantly, but a 10-character password would take hours. XKCD did a fun explanat
 best technique right now is to use a passphrase of multiple words that are easy for you to
 remember but so long that it would take centuries for a hacker to crack. You can use a technique
 called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random but memorable
-passphrase. Doug Muth built a nice online Diceware tool, below.  
+passphrase. Doug Muth built a nice online Diceware tool below.  
 
 Diceware Password Generator: https://diceware.dmuth.org/
 

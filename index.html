@@ -305,6 +305,16 @@ h2 {
     font-size: 20pt;
 }
 
+.section h1 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
+.section h2 {
+    margin-top: 0;
+    padding-top: 0;
+}
+
 .level1 {
     margin-top: 20px;
 }
@@ -312,6 +322,23 @@ h2 {
 /* padding for bootstrap navbar */
 body {
     padding-top: 150px;
+}
+
+.collapsePanelHeader {
+    color: rgb(51, 51, 51);
+}
+
+.panel-heading .collapsePanelHeader:after {
+    /* symbol for "opening" panels */
+    font-family: 'Glyphicons Halflings';  /* essential for enabling glyphicon */
+    content: "\e114";    /* adjust as needed, taken from bootstrap.css */
+    float: right;
+    color: grey;
+}
+
+.panel-heading .collapsePanelHeader.collapsed:after {
+    /* symbol for "collapsed" panels */
+    content: "\e080";    /* adjust as needed, taken from bootstrap.css */
 }
 
 :target:before {
@@ -339,7 +366,7 @@ body {
 
 <h1 class="title toc-ignore">Infosec 101 for Activists</h1>
 <h4 class="author">Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner</h4>
-<h4 class="date">Updated February 23, 2021</h4>
+<h4 class="date">Updated March 09, 2021</h4>
 
 </div>
 
@@ -347,9 +374,9 @@ body {
 <div id="introduction" class="section level1">
 <h1>Introduction</h1>
 <p>America has a strong tradition of activism, dating back to <a href="https://www.pbs.org/wnet/african-americans-many-rivers-to-cross/history/what-was-americas-1st-black-town/">slave revolts</a> and <a href="https://themihs.info/calusa-period/">indigenous uprisings</a> even before the founding of the United States. Today, activism in the US remains critical. Street protests are an essential tool that activists use to raise awareness and push for institutional change. That being said, challenging existing power structures carries an <a href="https://www.icnl.org/usprotestlawtracker/">element</a> of <a href="https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country">risk</a> - exposure can lead to harassment, arrest, or <a href="https://www.muo.com/what-is-doxxing/">doxxing</a>.</p>
-<p>Your <a href="https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6">personal information</a> is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others. This document is focused on digital safety and information security for activists, who have special requirements and risks. Others have written about <a href="https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0">protest safety</a> in a <a href="https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html">general sense</a>, as well as day to day <a href="https://www.wikihow.com/Be-Safe-on-the-Internet">digital</a> <a href="https://www.wikihow.com/Protect-Personal-Information">safety</a>.</p>
+<p>Your <a href="https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6">personal information</a> is more accessible than it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage information against activists, and what you can do to protect yourself and others. This document is focused on digital safety and information security for activists who have special requirements and risks. Others have written about <a href="https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0">protest safety</a> in a <a href="https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html">general sense</a>, as well as day-to-day <a href="https://www.wikihow.com/Be-Safe-on-the-Internet">digital</a> <a href="https://www.wikihow.com/Protect-Personal-Information">safety</a>.</p>
 <p><strong>If you are in a hurry, please begin with the tools chart below.</strong> You’ll find information you can use right away! We have also included tips and concepts to make your personal information safer at actions AND in your day-to-day life.</p>
-<p><strong>Why should you care?</strong> While challenging existing power structures has always carried an element of risk, the wireless digital landscape provided by today’s technology makes it far riskier. Law enforcement commonly works with tech companies to access user data, which the user (you) believed was private. Data breaches expose names and other personal information, which can have ramifications in your everyday life. Our goal is to help you conduct activism safely, without bringing unnecessary police surveillance, violence, or threats to your employment to your doorstep. This document is a guide to help you keep control over your own sensitive information.</p>
+<p><strong>Why should you care?</strong> While challenging existing power structures has always carried an element of risk, the wireless digital landscape provided by today’s technology makes it far riskier. Law enforcement commonly works with tech companies to access user data, which the user (you) believed was private. Data breaches expose names and other personal information, which can have ramifications in your everyday life. Our goal is to help you conduct activism safely without bringing unnecessary police surveillance, violence, or threats to your employment to your doorstep. This document is a guide to help you keep control over your own sensitive information.</p>
 </div>
 <div id="tools-to-use" class="section level1">
 <h1>Tools to Use</h1>
@@ -389,12 +416,6 @@ body {
 <td>Free</td>
 </tr>
 <tr class="even">
-<td><a href="https://duckduckgo.com/">DuckDuckGo</a></td>
-<td>Web Searching</td>
-<td>Google Search</td>
-<td>Free</td>
-</tr>
-<tr class="odd">
 <td><a href="https://www.mozilla.org/en-US/firefox/browsers/">Firefox</a></td>
 <td>Web Browsing</td>
 <td><a href="https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/">Google Chrome</a>, Safari, Internet Explorer, Edge</td>
@@ -406,13 +427,13 @@ body {
 <td>Zoom, Google Meet, WebEx</td>
 <td>Free</td>
 </tr>
-<tr class="odd">
+<tr class="even">
 <td><a href="https://protonmail.com/">ProtonMail</a></td>
 <td>Email</td>
 <td>Gmail, yahoo, work email</td>
 <td>Free, more features $5/mo</td>
 </tr>
-<tr class="even">
+<tr class="odd">
 <td><a href="https://protonvpn.com/">ProtonVPN</a></td>
 <td>VPN</td>
 <td>Protects your activity from your cable or mobile provider, who may share with police.</td>
@@ -428,15 +449,15 @@ body {
 </table>
 <div id="tools-not-to-use" class="section level2">
 <h2>Tools NOT to Use</h2>
-<p>In this document, we make recommendations against some popular &amp; commonplace tools. Our recommendations are all based on the same guiding principles. The logic behind them is simple – <strong>avoid tools that collect your information, store it outside of your control, or leave it publicly exposed.</strong> The most challenging is likely Google Maps, which we believe should be avoided while attending an action. Google Maps always tracks its users, and Google keeps this tracking data in detail, forever. All of this data can be <a href="https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been">given to law enforcement</a>. <a href="https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html">Police and other agencies</a> can use Google's high-precision data to place a person at an action. Even more dangerous, they can then locate a person down to specific areas within an action, or near criminal acts, within a few feet, and down to the minute. Our alternative suggestions, <a href="https://maps.apple.com/go">Apple Maps</a> and <a href="https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/">DuckDuckGo Maps</a>, do not track their users in this way. They also go out of their way to anonymize the data collected by the map providers.</p>
-<p>Another popular tool we must recommend against is Telegram as it has a track record of <a href="https://www.wired.com/story/telegram-encryption-whatsapp-settings/">security issues</a>. While it supports end-to-end encryption (see <a href="#messaging-with-encryption">Messaging with Encryption</a>, below) for messages between individuals, it does not apply this security to group messages. Group messages can be flagged as “spam” or “abuse” by Telegram staff &amp; contractors, which means that their staff and contractors can see the contents of the messages. That data can be provided to law enforcement. To make things worse, the full encryption technique is not active for any conversation by default, so it is not secure out of the box and <a href="https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415">we cannot recommend it</a>. WhatsApp, while popular in some activist circles, <a href="https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/">has similar issues</a>, and we recommend against that service as well. We recommend <a href="https://signal.org/en/">Signal</a>, which was built from the ground-up for personal security.</p>
-<p>Similar reasoning applies to all the recommendations we make in this document. If you use it, we probably researched its security features for this project. If there are tools you are not ready to give up, we encourage you to research their privacy policies and what you can do to protect your data.</p>
+<p>In this document, we make recommendations against some popular and commonplace tools. Our recommendations are all based on the same guiding principles. The logic behind them is simple – <strong>avoid tools that collect your information, store it outside of your control, or leave it publicly exposed.</strong> The most challenging is likely Google Maps, which we believe should be avoided while attending an action. Google Maps always tracks its users, and Google keeps this tracking data in detail, forever. All of this data can be <a href="https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been">given to law enforcement</a>. <a href="https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html">Police and other agencies</a> can use Google's high-precision data to place a person at an action. Even more dangerous, they can then locate a person down to specific areas within an action, or near criminal acts, within a few feet and down to the minute. Our alternative suggestions, <a href="https://maps.apple.com/go">Apple Maps</a> and <a href="https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/">DuckDuckGo Maps</a>, do not track their users in this way. They also go out of their way to anonymize the data collected by the map providers.</p>
+<p>Another popular tool we must recommend against is Telegram, as it has a track record of <a href="https://www.wired.com/story/telegram-encryption-whatsapp-settings/">security issues</a>. While it supports end-to-end encryption for messages between individuals (see <a href="#messaging-with-encryption">Messaging with Encryption</a> below), it does not apply this security to group messages. Group messages can be flagged as “spam” or “abuse” by Telegram staff and contractors, which means that their staff and contractors can see the contents of the messages. That data can be provided to law enforcement. To make things worse, the full encryption technique is not active for any conversation by default, so it is not secure out of the box and <a href="https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415">we cannot recommend it</a>. WhatsApp, while popular in some activist circles, <a href="https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/">has similar issues</a>, and we recommend against that service as well. We recommend <a href="https://signal.org/en/">Signal</a>, which was built from the ground up for personal security.</p>
+<p>Similar reasoning applies to all the recommendations we make in this document. If you use it, we have probably researched its security features for this project. If there are tools you are not ready to give up, we encourage you to research their privacy policies and what you can do to protect your data.</p>
 </div>
 </div>
 <div id="things-to-know" class="section level1">
 <h1>Things to Know</h1>
-<p>Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and whom you have communicated with. This section will help you keep that data safe while you are attending a protest, protecting you AND those around you. Find instructions for iPhone and Android below! Get protected and protest-ready right now!</p>
-<p>Assume that any messages you send, phone calls that you make, or anything else you send or receive can be logged &amp; recorded by the police. If your information is strongly encrypted, they may still have access to it, but they can’t decrypt it. Be sure to update your phone to the latest supported operating system (OS) well before the action.</p>
+<p>Your phone is a data goldmine, full of tracking and identifying information. This includes where you have been, what you have said, and with whom you have communicated with. This section will help you keep that data safe while you are attending a protest, protecting you AND those around you. Find instructions for iPhone and Android below! Get protected and protest-ready right now!</p>
+<p>Assume that any messages you send, phone calls you make, or anything else you send or receive can be logged and recorded by the police. If your information is strongly encrypted, they may still have access to it, but they can’t decrypt it. Be sure to update your phone to the latest supported operating system (OS) well before the action.</p>
 <p>If you have privacy concerns and your phone is no longer receiving software updates, consider not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times and places where you can meet up with your buddies before you go to the protest.</p>
 </div>
 <div id="attending-an-action" class="section level1">
@@ -467,21 +488,21 @@ body {
 </ul></li>
 <li>Use <a href="https://maps.apple.com/go">Apple Maps</a> or <a href="https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/">DuckDuckGo Maps</a> if you need directions to the location of the protest.
 <ul>
-<li>If you can, print the directions. While Apple Maps does not have an explicit Offline mode, if you route to a location it will retain the directions and surrounding map data.</li>
+<li>If you can, print the directions. While Apple Maps does not have an explicit offline mode, if you route to a location, it will retain the directions and surrounding map data.</li>
 </ul></li>
 </ul>
 </div>
 <div id="after" class="section level2">
 <h2>After</h2>
 <ul>
-<li>Leave &amp; delete Signal groups set up for that protest. (The last one to leave burns the group.)</li>
+<li>Leave and delete Signal groups set up for that protest. (The last one to leave burns the group.)</li>
 <li>Don’t post your protest photos on social media!</li>
 </ul>
 </div>
 </div>
 <div id="preparing-your-phone" class="section level1">
 <h1>Preparing Your Phone</h1>
-<p>Your phone is a powerful tool, but also a powerful tracking device for law enforcement and other entities. Phones record and share lots of information about your whereabouts and activity with different services. This is usually a good thing, as it helps your apps respond to your needs and situation. But when you attend an action, those features can provide a rich digital breadcrumb trail. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that.</p>
+<p>Your phone is a powerful tool but also a powerful tracking device for law enforcement and other entities. Phones record and share lots of information about your whereabouts and activity with different services. This is usually a good thing, as it helps your apps respond to your needs and situation. But when you attend an action, those features can provide a rich digital breadcrumb trail. We want to prevent those digital breadcrumbs from being dropped, and here is some advice on how to do that.</p>
 <p>Attending an action brings an additional threat to privacy. If your phone is lost or confiscated by law enforcement, all the information on it could then be available to police. Below we will share advice to make your phone as strong as possible against intrusion should it fall into someone else's hands.</p>
 <p>This section uses the word &quot;phone&quot; to mean a smartphone running iOS or Android, such as those manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks are likely less.</p>
 <div id="digital-breadcrumbs" class="section level2">
@@ -493,28 +514,32 @@ body {
 </div>
 <div id="intrusion-protection" class="section level2">
 <h2>Intrusion Protection</h2>
-<p>If you attend an action, there is a risk that your phone may be seized by police. They physically have your phone and may attempt to extract information from it. All phones have <strong>lock screens</strong>, which is the first line of defense. In day-to-day use, we want our lockscreen to be secure against a thief, or a taxi driver, or some other stranger, from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, <strong>biometric unlock mechanisms should be avoided during an action</strong>. The other unlock mechanisms are typically drawing a shape or entering a code. <strong>Entering a code is the most secure</strong>, as the shape can be traced from fingerprints on the screen. The code should also be long enough to prevent your fingerprints from giving it away, too. Related, you want your screen to lock quickly on its own. The <strong>power button should make the phone immediately lock</strong>, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it.</p>
-<p>There are ways to access data on a phone without unlocking it. One way to defend against these methods is <strong>full-disk encryption</strong>, where all the information on the phone is stored encrypted. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed, and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone.</p>
+<p>If you attend an action, there is a risk that your phone may be seized by police. They will physically have your phone and may attempt to extract information from it. All phones have <strong>lock screens</strong>, which is the first line of defense. In day-to-day use, we want our lockscreen to be prevent a thief or some other stranger from easily opening the phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms. The situation at an action is starkly different, as law enforcement may have detained you with your phone, and therefore may have the ability to apply your finger or face to your phone to unlock it, even if you resist or are unconscious. For this reason, <strong>biometric unlock mechanisms should be avoided during an action</strong>. The other unlock mechanisms typically involve drawing a shape or entering a code. <strong>Entering a code is the most secure</strong>, as the shape can be traced from fingerprints on the screen. The code should be long enough to prevent your fingerprints from giving it away. Related, you want your screen to lock quickly on its own. The <strong>power button should make the phone immediately lock</strong>, so that you can lock it quickly. Phones also let you select how long they should wait before auto-locking themselves. This time should be as short as possible, so that if you drop your phone or if it is stolen, the timer will expire and the phone will lock before anyone else can access it.</p>
+<p>There are ways to access data on a phone without unlocking it. One way to defend against these methods is <strong>full-disk encryption</strong>, where all the information on the phone is stored in encrypted form. When the phone is turned on, nothing can be read until the screen is unlocked the first time, at which point it will decrypt information as needed and continue to store information in encrypted form. This prevents law enforcement from removing the storage chips from your phone, as all of the contents will be unreadable without being unlocked in your specific phone.</p>
 <p>To use full-disk encryption on an iPhone, simply set a lock screen passcode. If you don't have a passcode, it will not activate the feature.</p>
-<p>To see if your Android has encryption available and turned on, you can <strong>Go to Settings, choose Security, and find the Encrypt Phone option.</strong> It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and your device will need to be plugged into its charger. This is something you only need to do once.</p>
+<p>To see if your Android has encryption available and turned on, you can <strong>go to Settings, choose Security, and find the Encrypt Phone option.</strong> It will say “Encrypted” or prompt you to turn on encryption. Turning on encryption will take a few hours, and your device will need to be plugged into its charger. This is something you only need to do once.</p>
 <p>If your Android device was shipped with <a href="https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html">Android 6 or lower</a>, you may not be able to use this feature.</p>
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">
+<h2 id="iphone-setup"><a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a></h2>
 </div>
-<div id="iphone-setup" class="section level2">
-<h2>iPhone Setup</h2>
-<p>Apple has made personal security a priority in recent years, and has provided some iPhone-specific features to make securing your phone easier. These steps below can be used to reasonably secure your phone for an action.</p>
+</div>
+<div id="collapseIphone" class="panel-body collapse">
+<p>Apple has made personal security a priority in recent years and has provided some iPhone-specific features to make securing your phone easier. These steps can be used to reasonably secure your phone for an action.</p>
 <ul>
-<li>Disable your GPS reciever by turning off Location Services
+<li>Disable your GPS reciever by turning off Location Services.
 <ul>
 <li>Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.</li>
-<li><em>Settings → Privacy → Location Services</em>, toggle <em>Location Services</em> off.</li>
+<li><em>Settings → Privacy → Location Services</em>, toggle <em>Location Services</em> off</li>
 </ul></li>
-<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode</li>
-<li>Turn back on services you specifically need, like mobile data (re-activates carrier radio)</li>
+<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode.</li>
+<li>Turn back on services you specifically need, like mobile data (re-activates carrier radio).</li>
 <li>Lock Screen Setup
 <ul>
-<li>Set your screen to auto-lock as quickly as possible, and require your passcode immediately
+<li>Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 <ul>
-<li><em>Settings → Display &amp; Brightness → Auto-Lock</em>, set to 30s or 1 minute at the most</li>
+<li><em>Settings → Display &amp; Brightness → Auto-Lock</em>, set to 30 seconds or 1 minute at the most</li>
 <li><em>Settings → Touch ID &amp; Passcode</em>, set “Require Passcode” to “Immediately”</li>
 </ul></li>
 <li>Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
@@ -523,44 +548,51 @@ body {
 <li><em>Disable Settings → Emergency SOS → Auto-call</em></li>
 <li><em>Disable Settings → Emergency SOS → Call with Side Button</em></li>
 </ul></li>
-<li>Disable Touch ID &amp; Face ID
+<li>Disable Touch ID and Face ID
 <ul>
 <li><em>Settings → Touch ID &amp; Passcode</em>, under the section “Use Touch ID For:”, toggle all the sliders to off.</li>
 </ul></li>
 </ul></li>
 </ul>
-<p>For additional protection tips, see our extended document. (link to be added upon publication)</p>
 </div>
-<div id="android-setup" class="section level2">
-<h2>Android Setup</h2>
-<p>Android has flexible settings that can be used to make your phone secure and usable in a number of situations. Below are steps to making your phone generally secure for the day of an action.</p>
+</div>
+<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
+<div class="panel panel-default">
+<div class="panel-heading">
+<div class="panel-title">
+<h2 id="android-setup"><a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a></h2>
+</div>
+</div>
+<div id="collapseAndroid" class="collapse">
+<p>Android has flexible settings that can be used to make your phone secure and usable in a number of situations. Below are steps to make your phone generally secure for the day of an action.</p>
 <ul>
-<li>Disable your GPS reciever by turning off Location Services
+<li>Disable your GPS reciever by turning off Location Services.
 <ul>
 <li>Pull down the notification panel from the top of the screen. There may be a toggle button for Location Services (they often look like a satellite).</li>
 <li>If you don't have the button in the pulldown, go to <em>Settings → Location</em> and turn off &quot;Use location.&quot;</li>
 </ul></li>
-<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode
+<li>Turn off Bluetooth, WiFi, and carrier radio by activating Airplane Mode.
 <ul>
 <li>Pull down the notification panel from the top of the screen. There may be a toggle button for Airplane Mode (it often look like an airplane). Ensure Airplane Mode is ON.</li>
 <li>If you don't have the button in the pulldown, go to <em>Settings → Network &amp; internet</em> and turn on &quot;Airplane mode.&quot;</li>
 <li>You can turn mobile data back on without leaving airplane mode if you need it. Press the Mobile Data button in the notification panel after you activate Airplane Mode. Those two buttons are often next to each other.</li>
-<li>Check that Bluetooth is really off. Android may keep it on if bluetooth devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off.</li>
+<li>Check that Bluetooth is really off. Android may keep it on if Bluetooth devices are connected. The button in the notification panel should be grayed/uncolored to indicate it is off.</li>
 </ul></li>
 <li>Lock Screen Setup
 <ul>
-<li>Go to <em>Settings → Security → Screen lock</em> and select PIN or Password.</li>
+<li>Go to <em>Settings → Security → Screen Lock</em> and select PIN or Password.</li>
 <li>You will be asked if you want notifications to be shown on screen while the phone is locked. The safest option is “Don’t show any notifications at all.” If that does not work for you, choose “Hide sensitive notification content.”</li>
-<li>Click the gear to enter Screen lock settings:
+<li>Click the gear to enter Screen Lock settings:
 <ul>
 <li>Set &quot;Lock after screen timeout&quot; to Immediately.</li>
-<li>Turn on &quot;Power button instantly locks&quot;</li>
+<li>Turn on &quot;Power button instantly locks&quot;.</li>
 </ul></li>
-<li>Disable Smart Lock, if you have it. It can keep your phone unlocked when you don't expect it, which is dangerous at an action.</li>
+<li>Disable Smart Lock if you have it. It can keep your phone unlocked when you don't expect it, which is dangerous at an action.</li>
 </ul></li>
 <li>Go to <em>Settings → Display → Advanced → Screen timeout</em> and set it to the shortest possible time, usually 15 seconds.</li>
 </ul>
-<p>For additional protection tips, see our extended document. (link to be added upon publication)</p>
+</div>
+<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 </div>
 </div>
 <div id="security-ideas" class="section level1">
@@ -572,7 +604,7 @@ body {
 </div>
 <div id="meeting-online" class="section level2">
 <h2>Meeting Online</h2>
-<p>Virtual meetings over video calls are part of modern life, and very common in activist communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work and social meet-ups but do not offer the privacy activism requires. For that reason, we recommend <a href="https://jitsi.org/">Jitsi</a>. Unlike other platforms, Jitsi does not record or retain the content of your meetings. Jitsi is free, and does not even require a user account. You can start a meeting directly from their web page at <a href="https://meet.jit.si/">meet.jit.si</a>. No participants need to have accounts or give any personal information to Jitsi to use the platform. They take security and personal anonymity seriously. You can read more on their <a href="https://jitsi.org/security/">security page</a>.</p>
+<p>Virtual meetings over video calls are part of modern life and very common in activist communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work and social meetups but do not offer the privacy activism requires. For that reason, we recommend <a href="https://jitsi.org/">Jitsi</a>. Unlike other platforms, Jitsi does not record or retain the content of your meetings. Jitsi is free and does not even require a user account. You can start a meeting directly from their webpage at <a href="https://meet.jit.si/">meet.jit.si</a>. No participants need to have accounts or give any personal information to use the platform. Jitsi takes security and personal anonymity seriously. You can read more on their <a href="https://jitsi.org/security/">security page</a>.</p>
 </div>
 <div id="password-safety" class="section level2">
 <h2>Password Safety</h2>
@@ -585,19 +617,19 @@ body {
 </div>
 <div id="two-factor-authentication-2fa" class="section level2">
 <h2>Two-Factor Authentication (2FA)</h2>
-<p>This adds a second check, whenever you log in, that it’s really you. The second factor can be an app on your phone, text message, or email. A one-time-use code is sent to you which you then enter into the service to prove you control that second factor. Not all channels are equal in their security, but <strong>any 2FA is worlds better than none at all.</strong></p>
-<p>When choosing a 2FA method, an authenticator app such as Google Authenticator (<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Android</a>, <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iOS</a>) provides a good balance between convenience and security. If more security is desired, physical tokens such as the <a href="https://www.yubico.com/products/">Yubikey</a> can be used, and the <a href="https://www.yubico.com/products/services-software/download/yubico-authenticator/">Yubico Authenticator</a> can use the physical tokens to generate one-time codes.</p>
-<p>If neither of the above options is available for your service, you may be able to use your email or phone (via SMS) to receive one-time codes. These are not as secure as the above options but, as stated above, any 2FA is worlds better than none at all.</p>
+<p>This adds a second check, whenever you log in, that it’s really you. The second factor can be an app on your phone, text message, or email. A one-time-use code is sent to you, which you then enter into the service to prove you control that second factor. Not all channels are equal in their security, but <strong>any 2FA is worlds better than none at all.</strong></p>
+<p>When choosing a 2FA method, an authenticator app such as Google Authenticator (<a href="https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2">Android</a>, <a href="https://apps.apple.com/us/app/google-authenticator/id388497605">iOS</a>) provides a good balance between convenience and security. If more security is desired, physical tokens such as the <a href="https://www.yubico.com/products/">Yubikey</a> can be used, and the <a href="https://www.yubico.com/products/services-software/download/yubico-authenticator/">Yubico Authenticator</a> can use physical tokens to generate one-time codes.</p>
+<p>If neither of the above options is available for your service, you may be able to use your email or phone (via SMS) to receive one-time codes. These are not as secure as the above options, but, as stated above, any 2FA is worlds better than none at all.</p>
 </div>
 <div id="strong-passwords" class="section level2">
 <h2>Strong Passwords</h2>
 <p>Longer passwords are harder to break, regardless of the types of characters they contain. Modern hackers’ tools can try every possible character in every order for an 8-character password instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: <a href="https://xkcd.com/936/" class="uri">https://xkcd.com/936/</a></p>
-<p><strong>Your passwords should be easy for you to remember, but too long for a hacker to guess.</strong> The best technique right now is to use a passphrase of multiple words that are easy for you to remember but so long that it would take centuries for a hacker to crack. You can use a technique called <a href="https://en.wikipedia.org/wiki/Diceware">Diceware</a> to come up with a random but memorable passphrase. Doug Muth built a nice online Diceware tool, below.</p>
+<p><strong>Your passwords should be easy for you to remember but too long for a hacker to guess.</strong> The best technique right now is to use a passphrase of multiple words that are easy for you to remember but so long that it would take centuries for a hacker to crack. You can use a technique called <a href="https://en.wikipedia.org/wiki/Diceware">Diceware</a> to come up with a random but memorable passphrase. Doug Muth built a nice online Diceware tool, below.</p>
 <p>Diceware Password Generator: <a href="https://diceware.dmuth.org/" class="uri">https://diceware.dmuth.org/</a></p>
 </div>
 <div id="password-managers" class="section level2">
 <h2>Password Managers</h2>
-<p>Password managers are apps that work like personal vaults for your passwords. They can save the username, password, and other information for each app and/or site that you use. This vault is heavily encrypted, and can only be unlocked by a master password. All you need to remember is the master password, and it will fill in everything else for you! This frees up mental space, which is always nice, but more importantly for security, it allows you to have each site use a completely unique and random password. Most people use variants of the same password or the exact same password across multiple sites and services, and this is a significant security vulnerability. If any of those services are breached (something that is completely out of your control), then your password could be released to the hacker community, often right next to your email. It's shockingly easy for hackers to try using those leaked credentials with other services, including with variations to the password. This is the most common way for people's accounts to be breached. This vulnerability is neutralized if the password used with the hacked service is totally unique.</p>
+<p>Password managers are apps that work like personal vaults for your passwords. They can save the username, password, and other information for each app and/or site that you use. This vault is heavily encrypted and can only be unlocked by a master password. All you need to remember is the master password, and it will fill in everything else for you! This frees up mental space, which is always nice, but more importantly for security, it allows you to have each site use a completely unique and random password. Most people use variants of the same password or the exact same password across multiple sites and services, and this is a significant security vulnerability. If any of those services are breached (something that is completely out of your control), then your password could be released to the hacker community, often right next to your email. It's shockingly easy for hackers to try using those leaked credentials with other services, including with variations to the password. This is the most common way for people's accounts to be breached. This vulnerability is neutralized if the password used with the hacked service is totally unique.</p>
 <p>With a password manager, you can set every service to use a totally unguessable, randomly generated, unique password, like <code>7Xg*2BMVxCo!uY</code>. Most password managers include a random generator to make those passwords, and you never have to remember them because they stay securely recorded inside your personal vault within the manager. Our recommendation is <a href="https://bitwarden.com/">BitWarden</a>, an open-source and easy-to-use password manager that uses widely-agreed-upon encryption standards for your passwords.</p>
 </div>
 <div id="security-questions" class="section level2">
@@ -625,8 +657,8 @@ body {
 </div>
 <div id="closing" class="section level1">
 <h1>Closing</h1>
-<p>We hope that you have found this resource helpful. While at first these materials could seem intimidating, we are confident you can master them with a little time and practice. The world of information security changes frequently and quickly - while we will do our best to keep this page up to date, we encourage you to diversify your information sources.</p>
-<p>If you'd like to continue learning, Malwarebyte's <a href="https://blog.malwarebytes.com/podcast/">Lock and Code</a> podcast has an episode on <a href="https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/">Why Data Privacy Day matters</a>, and the ACLU tackles <a href="https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99">ongoing threats to protestor's rights</a>. For ongoing news in the world of privacy and freedom of speech, check out the below resources!</p>
+<p>We hope that you have found this resource helpful. While at first these materials may seem intimidating, we are confident you can master them with a little time and practice. The world of information security changes frequently and quickly - while we will do our best to keep this page up to date, we encourage you to diversify your information sources.</p>
+<p>If you'd like to continue learning, Malwarebyte's <a href="https://blog.malwarebytes.com/podcast/">Lock and Code</a> podcast has an episode on <a href="https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/">Why Data Privacy Day matters</a>, and the ACLU tackles <a href="https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99">ongoing threats to protestors' rights</a>. For ongoing news in the world of privacy and freedom of speech, check out the resources below!</p>
 <ul>
 <li><a href="https://www.techdirt.com">Techdirt</a></li>
 <li><a href="https://www.wired.com/tag/privacy/page/1/">Wired: Privacy</a></li>
@@ -635,7 +667,7 @@ body {
 </ul>
 <div id="acknowledgements" class="section level2">
 <h2>Acknowledgements</h2>
-<p>Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. We also thank our pets, Lacey, Lily, Pico and Roxy for their support in these challenging times.</p>
+<p>Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. We also thank our pets, Lacey, Lily, Pico, and Roxy for their support in these challenging times.</p>
 </div>
 </div>
 

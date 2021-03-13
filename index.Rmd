@@ -152,10 +152,10 @@ are likely less.
 
 ## Digital Breadcrumbs
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone
-has a **GPS** reciever built into it that enables maps and other location-based apps to work.
-The phone itself will keep that GPS recieveer on at all times, recording where you are, and
-occasionally send updates on your whearabouts to Google, Apple, or other app publishers. So we
-will want to turn the GPS reciever off, which prevents from the location data from being
+has a **GPS** receiver built into it that enables maps and other location-based apps to work.
+The phone itself will keep that GPS receiver on at all times, recording where you are, and
+occasionally send updates on your whereabouts to Google, Apple, or other app publishers. So we
+will want to turn the GPS receiver off, which prevents from the location data from being
 recorded at all. 
 
 **Bluetooth and WiFi** are common technologies that use short-range radio to communicate with
@@ -171,7 +171,7 @@ action, so we need to disable Bluetooth and WiFi whenever possible.
 Phones connect to towers periodically while on, even if they are not being actively used. Towers
 connections are sufficiently accurate to place an individual on the same block as an action.
 This information can be accessible to law enforcement through a subpoena. This data is slightly 
-more difficult for law enforcement to get than Bluetooth or Wifi, but it can be done.
+more difficult for law enforcement to get than Bluetooth or WiFi, but it can be done.
 
 All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was
 created for travel in an airplane, out of a concern that phones would interfere with the plane's
@@ -184,7 +184,7 @@ data.
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will
 physically have your phone and may attempt to extract information from it. All phones have
-**lock screens**, which is the first line of defense. In day-to-day use, we want our lockscreen
+**lock screens**, which is the first line of defense. In day-to-day use, we want our lock screen
 to be prevent a thief or some other stranger from easily opening the
 phone. With that, fingerprint readers and face scanners make for convenient unlock mechanisms.
 The situation at an action is starkly different, as law enforcement may have detained you with
@@ -231,7 +231,7 @@ Apple has made personal security a priority in recent years and has provided som
 iPhone-specific features to make securing your phone easier. These steps can be used to
 reasonably secure your phone for an action. 
 
-* Disable your GPS reciever by turning off Location Services. 
+* Disable your GPS receiver by turning off Location Services. 
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
 * Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
@@ -265,7 +265,7 @@ reasonably secure your phone for an action.
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Below are steps to make your phone generally secure for the day of an action.
 
-* Disable your GPS reciever by turning off Location Services.
+* Disable your GPS receiver by turning off Location Services.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
 	  for Location Services (they often look like a satellite).
 	* If you don't have the button in the pulldown, go to *Settings → Location* and turn off "Use location."
@@ -313,7 +313,7 @@ communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular c
 and social meetups but do not offer the privacy activism requires. For that reason, we
 recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain
 the content of your meetings. Jitsi is free and does not even require a user account. You can
-start a meeting directly from their webpage at [meet.jit.si](https://meet.jit.si/). No
+start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No
 participants need to have accounts or give any personal information to use the
 platform. Jitsi takes security and personal anonymity seriously.
 You can read more on their [security page](https://jitsi.org/security/).
@@ -407,7 +407,7 @@ page up to date, we encourage you to diversify your information sources.
 
 If you'd like to continue learning, Malwarebyte's [Lock and Code](https://blog.malwarebytes.com/podcast/)
 podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/),
-and the ACLU tackles [ongoing threats to protestors' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
+and the ACLU tackles [ongoing threats to protesters' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
 For ongoing news in the world of privacy and freedom of speech, check out the resources below!  
 
 * [Techdirt](https://www.techdirt.com)
@@ -415,7 +415,7 @@ For ongoing news in the world of privacy and freedom of speech, check out the re
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
 
-## Acknowledgements
+## Acknowledgments
 
 Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. 
 We also thank our pets, Lacey, Lily, Pico, and Roxy for their support in these challenging times. 

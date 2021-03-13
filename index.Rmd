@@ -124,6 +124,7 @@ and places where you can meet up with your buddies before you go to the protest.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
 ## During
+* Use a protest buddy.
 * Confirm meetup plans with your protest buddies before leaving for the event. 
 	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 

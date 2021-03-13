@@ -149,7 +149,7 @@ share advice to protect your phone against intrusion should it fall into someone
 
 This section uses the word "phone" to mean a smartphone running iOS or Android, such as those
 manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks
-are likely less. 
+are likely fewer. 
 
 ## Digital Breadcrumbs
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone

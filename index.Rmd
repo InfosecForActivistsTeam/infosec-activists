@@ -217,6 +217,19 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
+## Backups
+Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
+and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that 
+employees at Apple can access them. [This weakness is attributed to pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) 
+[Anything in the backup](https://oleb.net/2020/icloud-end-to-end-encryption/), which may include 
+photos, contacts, and unencrypted messages, can be handed over to law enforcement. Keys to unlock 
+the phone's full-disk encryption are also stored in the iCloud backup. This arrangement allows law 
+enforcement to request the backup data from Apple and use the key to unlock the entire phone. It 
+also offers a convenience, where if the user forgets their unlock code, Apple can still recover the 
+device. For activists, the risk posed by your unlock keys being accessible to law enforcement is 
+potentially greater than the benefits of that convenience. 
+Therefore we **do not recommend using cloud backups.**
+
 <div class="panel panel-default">
 <div class="panel-heading" >
 <div class="panel-title">
@@ -390,8 +403,6 @@ could instead respond with your favorite cartoon character from the sixth grade.
 # Other Tips
 * **Think carefully about who you can safely share your involvement in activism with.**
 * Don’t use email for protest related conversation.
-* Don’t use the built-in cloud backup solutions for Android or iOS. 
-	* The most secure data backup is the one you make over a USB cable.
 * Google your full name occasionally and see what comes up. 
 * **Do not “check in” to a protest on Facebook** or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
 * **Don’t take anyone’s photo without permission.**

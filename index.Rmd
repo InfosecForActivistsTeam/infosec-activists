@@ -153,7 +153,7 @@ are likely less.
 
 ## Digital Breadcrumbs
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone
-has a **GPS** receiver built into it that enables maps and other location-based apps to work.
+has a built-in **GPS** receiver that enables maps and other location-based apps to work.
 The phone itself will keep that GPS receiver on at all times, recording where you are, and
 occasionally send updates on your whereabouts to Google, Apple, or other app publishers. So we
 will want to turn the GPS receiver off, which prevents from the location data from being

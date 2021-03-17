@@ -77,13 +77,13 @@ Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers. 
 
-Another popular tool we must recommend against is Telegram, as it has a track record of
+Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group
 messages can be flagged as “spam” or “abuse” by Telegram staff and contractors, which means that
 their staff and contractors can see the contents of the messages. That data can be provided to
 law enforcement. To make things worse, the full encryption technique is not active for any
-conversation by default, so it is not secure out of the box and [we cannot recommend it](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415).
+conversation by default.
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
 which was built from the ground up for personal security. 

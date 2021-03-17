@@ -258,7 +258,7 @@ reasonably secure your phone for an action.
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
 * Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
-* Lock Screen Setup
+* Lock screen setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
@@ -302,7 +302,7 @@ Below are steps to make your phone generally secure for the day of an action.
 	* Check that Bluetooth is really off. Android may keep it on if Bluetooth devices are
 	  connected. The button in the notification panel should be grayed/uncolored to indicate it
 	  is off. 
-* Lock Screen Setup
+* Lock screen setup
 	* Go to *Settings → Security → Screen Lock* and select PIN or Password.
 	* You will be asked if you want notifications to be shown on screen while the phone is
 	  locked. The safest option is “Don’t show any notifications at all.” If that does not work

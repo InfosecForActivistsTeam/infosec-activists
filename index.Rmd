@@ -120,7 +120,7 @@ and places where you can meet up with your buddies before you go to the protest.
 	  [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest
 	  security fixes. 
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal
-  phone number, you can create a new phone number with Google Voice and register that with Signal.
+  phone number, you can create a new phone number with [Google Voice](https://voice.google.com) and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
 ## During

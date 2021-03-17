@@ -192,8 +192,9 @@ The situation at an action is starkly different, as law enforcement may have det
 your phone, and therefore may have the ability to apply your finger or face to your phone to
 unlock it, even if you resist or are unconscious. For this reason,
 **biometric unlock mechanisms should be avoided during an action**. The other unlock mechanisms
-typically involve drawing a shape or entering a code. **Entering a code is the most secure**, as the
-shape can be traced from fingerprints on the screen. The code should be long enough to
+typically involve drawing a shape or entering a code. A swipe
+shape can be traced by police (or anyone) from the thin oils your finger leaves on the screen. 
+**Entering a code is the most secure.**  The code should be long enough to
 prevent your fingerprints from giving it away. Related, you want your screen to lock
 quickly on its own. The **power button should make the phone immediately lock**, so that you can
 lock it quickly. Phones also let you select how long they should wait before auto-locking

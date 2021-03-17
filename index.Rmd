@@ -411,14 +411,14 @@ consent. For instance, for the question “Where did you attend school in the si
 could instead respond with your favorite cartoon character from the sixth grade.
 
 # Other Tips
-* **Think carefully about who you can safely share your involvement in activism with.**
+* Think carefully about who you can safely share your involvement in activism with.
 * Don’t use email for protest related conversation.
 * Google your full name occasionally and see what comes up. 
-* **Do not “check in” to a protest on Facebook** or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
-* **Don’t take anyone’s photo without permission.**
-* **If you take any photos, don’t post them on social media.** Images have extra information hidden in them that includes the time and place they were taken. If you send photos or videos out at all, only send them to people you trust, over secure means, long after and far away from the protest.
-* **Have a protest buddy and use Signal to communicate with them.**
-* **When using Signal, enable “Disappearing Messages” for any sensitive conversations.**
+* Do not “check in” to a protest on Facebook or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
+* Don’t take anyone’s photo without permission.
+* If you take any photos, don’t post them on social media. Images have extra information hidden in them that includes the time and place they were taken. If you send photos or videos out at all, only send them to people you trust, over secure means, long after and far away from the protest.
+* Have a protest buddy and use Signal to communicate with them.
+* When using Signal, enable “Disappearing Messages” for any sensitive conversations.
 
 # Closing 
 We hope that you have found this resource helpful. While at first these materials may seem

@@ -350,17 +350,18 @@ significant point of vulnerability. How can we manage this?
 
 ## Two-Factor Authentication (2FA) 
 This adds a second check, whenever you log in, that it’s really you. The second factor can be an
-app on your phone, text message, or email. A one-time-use code is sent to you, which you then
+app on your phone, an email, or text message. A one-time-use code is sent to you, which you then
 enter into the service to prove you control that second factor. Not all channels are equal in
-their security, but **any 2FA is worlds better than none at all.**
+their security, but **any 2FA is worlds better than none at all.**  
 
-When choosing a 2FA method, an authenticator app such as Google Authenticator ([Android](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2),
-[iOS](https://apps.apple.com/us/app/google-authenticator/id388497605)) provides a good balance
-between convenience and security. If more security is desired, physical tokens such as the
-[Yubikey](https://www.yubico.com/products/) can be used, and the [Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/)
-can use physical tokens to generate one-time codes.
+When choosing a 2FA method, a authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
+between convenience and security. Google Authenticator is free, and available from both the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), and [Apple's App Store](https://apps.apple.com/us/app/google-authenticator/id388497605).
 
-If neither of the above options is available for your service, you may be able to use your email
+If a more secure option is desired, security keys such as the [Yubikey](https://www.yubico.com/products/) can
+be used. The keys are physical objects which act as your second factor, and can also be used with the
+[Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/) can use physical tokens to generate one-time codes.
+
+If the above options are not available for your service, you may be able to use your email
 or phone (via SMS) to receive one-time codes. These are not as secure as the above options, but,
 as stated above, any 2FA is worlds better than none at all.
 

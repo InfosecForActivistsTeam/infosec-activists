@@ -128,8 +128,8 @@ and places where you can meet up with your buddies before you go to the protest.
 * Confirm meetup plans with your protest buddies before leaving for the event. 
 	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 
-	* If you can, print the directions. While Apple Maps does not have an explicit offline mode,
-	if you route to a location, it will retain the directions and surrounding map data.
+	* If you can, print the directions before leaving for the action. Apple Maps does not have an
+	  offline mode, and will not be usable without an internet connection.
 
 ## After
 * Leave and delete Signal groups set up for that protest.

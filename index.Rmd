@@ -241,11 +241,16 @@ user's passcode. If your phone uses version 9 or newer, [this feature is automat
 as long as you have a lock screen protected with a PIN, pattern, or passcode.
 **Do not use Android cloud backups prior to version 9.**
 
+## Phone Setup Instructions
+Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and 
+are explained above. The buttons to press, however, are quite different between the two. Select the 
+iPhone or Android below to see the instructions. 
+
 <div class="panel panel-default">
 <div class="panel-heading" >
 <div class="panel-title">
 
-## <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
+### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
 
 </div>
 </div>
@@ -280,7 +285,7 @@ reasonably secure your phone for an action.
 <div class="panel-heading" >
 <div class="panel-title">
 
-## <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
+### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
 
 </div>
 </div>

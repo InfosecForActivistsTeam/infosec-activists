@@ -120,7 +120,7 @@ and places where you can meet up with your buddies before you go to the protest.
 	  [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest
 	  security fixes. 
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal
-  phone number, you can create a new phone number with Google Voice and register that with Signal.
+  phone number, you can create a new phone number with [Google Voice](https://voice.google.com) and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
 ## During
@@ -128,8 +128,8 @@ and places where you can meet up with your buddies before you go to the protest.
 * Confirm meetup plans with your protest buddies before leaving for the event. 
 	* Once you meet up, agree on a fallback location in case you get separated. 
 * Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 
-	* If you can, print the directions. While Apple Maps does not have an explicit offline mode,
-	if you route to a location, it will retain the directions and surrounding map data.
+	* If you can, print the directions before leaving for the action. Apple Maps does not have an
+	  offline mode, and will not be usable without an internet connection.
 
 ## After
 * Leave and delete Signal groups set up for that protest.
@@ -257,7 +257,7 @@ reasonably secure your phone for an action.
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
 * Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
-* Lock Screen Setup
+* Lock screen setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
@@ -301,7 +301,7 @@ Below are steps to make your phone generally secure for the day of an action.
 	* Check that Bluetooth is really off. Android may keep it on if Bluetooth devices are
 	  connected. The button in the notification panel should be grayed/uncolored to indicate it
 	  is off. 
-* Lock Screen Setup
+* Lock screen setup
 	* Go to *Settings → Security → Screen Lock* and select PIN or Password.
 	* You will be asked if you want notifications to be shown on screen while the phone is
 	  locked. The safest option is “Don’t show any notifications at all.” If that does not work

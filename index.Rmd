@@ -204,7 +204,7 @@ as all of the contents will be unreadable without being unlocked in your specifi
 To use full-disk encryption on an iPhone, simply set a lock screen passcode. If you don't have a
 passcode, it will not activate the feature. 
 
-To see if your Android has encryption available and turned on, you can **go to Settings, chooseSecurity, and find the Encrypt Phone option.** 
+To see if your Android has encryption available and turned on, you can **go to Settings, choose Security, and find the Encrypt Phone option.** 
 It will say “Encrypted” or prompt you to turn on
 encryption. Turning on encryption will take a few hours, and your device will need to be plugged
 into its charger. This is something you only need to do once.

@@ -163,24 +163,19 @@ recorded at all.
 other devices. Unfortunately, their operation requires your phone to broadcast identifiable
 information about itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
-Companies have deployed Bluetooth beacons in their stores to identify how long customers linger
-in certain departments, or in front of certain displays, and then correlate that data with the
-person's other identifying information. This type of surveillance is profoundly dangerous at an
+This type of surveillance is profoundly dangerous at an
 action, so we need to disable Bluetooth and WiFi whenever possible. 
 
 **Your mobile carrier** can track your location by when your phone contacts its radio towers.
 Phones connect to towers periodically while on, even if they are not being actively used. Towers
 connections are sufficiently accurate to place an individual on the same block as an action.
-This information can be accessible to law enforcement through a subpoena. This data is slightly 
-more difficult for law enforcement to get than Bluetooth or WiFi, but it can be done.
+This information can be accessible to law enforcement through a subpoena.
 
 All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was
 created for travel in an airplane, out of a concern that phones would interfere with the plane's
-operation. This feature is useful today for being a reliable way to disable all three radios
-with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed
-below, of which the biggest is that airplane mode usually does not disable the GPS receiver.
-Generally, airplane mode is an important tool to prevent generation and collection of tracking
-data.
+operation. Today it is a reliable way for you to disable all three radios
+with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed in the 
+iPhone and Android setup instructions, below.
 
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will

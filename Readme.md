@@ -1,19 +1,12 @@
 #
 
-## setup
+## Rendering the document locally
 ### macOS
 #### dependencies
-##### [homebrew](https://brew.sh/)
-```
-curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh -o install.sh
+_All the below dependencies require the use of [homebrew](https://brew.sh/). _
+_Be sure to install it before continuing._
 
-# Sanity check the file first!
-cat install.sh
-
-/bin/bash install.sh
-```
-
-#### [pandoc](https://pandoc.org/)
+##### [pandoc](https://pandoc.org/)
 ```
 brew install librsvg python homebrew/cask/basictex
 ```
@@ -28,7 +21,7 @@ brew install asdf
 asdf plugin add R
 ```
 
-#### first run
+##### first run
 ```
 git clone git@github.com:marksherman/infosec-activists-r.git
 cd infosec-activists-r

@@ -80,7 +80,7 @@ track their users in this way. They also go out of their way to anonymize the da
 Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group messages
-may be reported at "spam" or "abuse", and the full contents of messages may be subjected to review
+may be reported as "spam" or "abuse", and the full contents of messages may be subjected to review
 by Telegram staff and contractors. That data can then be provided to law enforcement. To make things
 worse, the full encryption technique is not active for all conversations by default.  
 

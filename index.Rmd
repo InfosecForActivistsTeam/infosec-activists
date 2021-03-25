@@ -215,7 +215,7 @@ you may not be able to use this feature.
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
 and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that 
-employees at Apple can access them. [This weakness is attributed to pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) 
+employees at Apple can access them. This weakness is attributed to [pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) 
 Anything in the backup, which may include photos, contacts, unencrypted messages, [and more,](https://oleb.net/2020/icloud-end-to-end-encryption/) 
 can be handed over to law enforcement. Keys to unlock the phone's full-disk encryption are also 
 stored in the iCloud backup. This arrangement allows law enforcement to request the backup data from 

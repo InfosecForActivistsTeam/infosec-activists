@@ -5,5 +5,5 @@
 renv::restore()
 
 rmarkdown::render("index.Rmd",
-    output_dir="output",
-    output_format=c("html_document","pdf_document"))
+    output_file="Infosec_for_Activists",
+    output_format=c("pdf_document"))

@@ -3,8 +3,8 @@
 ## Rendering the document locally
 ### macOS
 #### dependencies
-_All the below dependencies require the use of [homebrew](https://brew.sh/). _
-_Be sure to install it before continuing._
+_All the below dependencies require the use of [homebrew](https://brew.sh/)._  
+_Be sure to install it before continuing._  
 
 ##### [pandoc](https://pandoc.org/)
 ```

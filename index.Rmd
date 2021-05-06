@@ -257,18 +257,18 @@ Apple has made personal security a priority in recent years and has provided som
 iPhone-specific features to make securing your phone easier. These steps can be used to
 reasonably secure your phone for an action. 
 
-* Disable your GPS receiver by turning off Location Services. 
-	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
+* Disable your GPS receiver by turning off Location Services.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
+	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 * Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
 * Lock screen setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
 	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
-		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
+		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
 		  the sliders to off.  

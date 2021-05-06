@@ -257,6 +257,13 @@ Apple has made personal security a priority in recent years and has provided som
 iPhone-specific features to make securing your phone easier. These steps can be used to
 reasonably secure your phone for an action. 
 
+#### AirDrop
+Despite Apple's focus on security, there are still points of vulnerability with their software and one
+of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. We recommend
+keeping AirDrop [disabled](https://support.apple.com/en-us/HT204144#setoptions) unless you are actively
+sharing files with someone, and at all times when near or at an action. While AirDrop is enabled, the
+feature has the potential to leak personally identifying information (PII) to [nearby devices.](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).
+
 * Disable your GPS receiver by turning off Location Services. 
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.

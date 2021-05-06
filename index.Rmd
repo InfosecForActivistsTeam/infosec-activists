@@ -240,7 +240,7 @@ as long as you have a lock screen protected with a PIN, pattern, or passcode.
 
 ## Phone Setup Instructions
 Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and 
-are explained above. The buttons to press, however, are quite different between the two. Select the 
+are explained above. The buttons to press, however, are quite different between the two. Select 
 iPhone or Android below to see the instructions. 
 
 <div class="panel panel-default">

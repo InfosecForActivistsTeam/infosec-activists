@@ -253,9 +253,8 @@ iPhone or Android below to see the instructions.
 </div>
 <div class="panel-body collapse" id="collapseIphone">
 
-Apple has made personal security a priority in recent years and has provided some
-iPhone-specific features to make securing your phone easier. These steps can be used to
-reasonably secure your phone for an action. 
+Apple has prioritized personal security in recent years and now offers features to make securing
+your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
 
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
 	* *Settings → General → AirDrop*, select “Receiving Off”
@@ -277,11 +276,13 @@ reasonably secure your phone for an action.
   
   
 #### AirDrop
-Despite Apple's focus on security, there are still points of vulnerability with their software and one
+Despite Apple’s focus on security, there are still points of vulnerability with their software. One
 of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. We recommend
 keeping AirDrop disabled unless you are actively sharing files with someone, and at all times when
-near or at an action. While AirDrop is enabled, your phone has the potential to leak personally
-identifying information (PII) such as your phone number and email address to [nearby devices.](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/)
+near or at an action.  When AirDrop is enabled, your phone could leak personally identifying
+information (PII) such as your phone number and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
+ 
+We recommend keeping AirDrop disabled at all times when near or at an action (and in everyday life, unless you are actively sharing files with someone)., and at all times when near or at an action.
 
 </div>
 </div>

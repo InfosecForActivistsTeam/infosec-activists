@@ -276,9 +276,9 @@ your iPhone easier. Following these steps will make your phone reasonably secure
   
   
 #### AirDrop
-Despite Apple’s focus on security, there are still points of vulnerability with their software. One
+Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
 of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
-enabled, your phone could leak personally identifying information (PII) such as your phone number
+enabled, your phone could leak personally identifiable information (PII) such as your phone number
 and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
  
 We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone.  

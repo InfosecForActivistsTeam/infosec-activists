@@ -240,7 +240,7 @@ as long as you have a lock screen protected with a PIN, pattern, or passcode.
 
 ## Phone Setup Instructions
 Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and 
-are explained above. The buttons to press, however, are quite different between the two. Select the 
+are explained above. The buttons to press, however, are quite different between the two. Select 
 iPhone or Android below to see the instructions. 
 
 <div class="panel panel-default">
@@ -253,25 +253,35 @@ iPhone or Android below to see the instructions.
 </div>
 <div class="panel-body collapse" id="collapseIphone">
 
-Apple has made personal security a priority in recent years and has provided some
-iPhone-specific features to make securing your phone easier. These steps can be used to
-reasonably secure your phone for an action. 
+Apple has prioritized personal security in recent years and now offers features to make securing
+your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
 
-* Disable your GPS receiver by turning off Location Services. 
-	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
+* Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
+	* *Settings → General → AirDrop*, select “Receiving Off”
+* Disable your GPS receiver by turning off Location Services.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
+	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
 * Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
 * Lock screen setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
 	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
-		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
+		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.
+		  the sliders to off.  
+  
+  
+#### AirDrop
+Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
+of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
+enabled, your phone could leak personally identifiable information (PII) such as your phone number
+and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
+ 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone.  
 
 </div>
 </div>

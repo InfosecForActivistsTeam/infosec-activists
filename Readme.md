@@ -12,7 +12,7 @@ If you’re *still* here, we will assume you’re ready to use GitHub’s collab
 
 This page is built using [Hugo](https://gohugo.io/). <!-- There are two output components- the HTML website itself, and the matching PDF file to go with it.--> <!--Using the R “knit” feature will generate the HTML page.--> <!--We separated the PDF generation into its own tool in the file `build.r`. Run that code and it will make a fresh PDF.-->
 
-The editing tool we use for development is [Visual Studio Code](https://code.visualstudio.com/).
+The editing tool we use for development is [Visual Studio Code](https://code.visualstudio.com/). If you want a free version without Microsoft telemetrics or branding, see [VSCodium](https://vscodium.com/).
 
 # Recommended Setup Process for MacOS
 

@@ -10,9 +10,9 @@ If editing code isn’t your thing, you can use our [feedback form](https://docs
 
 If you’re *still* here, we will assume you’re ready to use GitHub’s collaboration features. Feel free to file issues to bring bugs or suggestions to our attention, fork this project, make edits, and send pull requests for us to evaluate. Everyone who contributes is expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
 
-This page is built using [R Markdown](https://rmarkdown.rstudio.com/). There are two output components- the HTML website itself, and the matching PDF file to go with it. Using the R “knit” feature will generate the HTML page. We separated the PDF generation into its own tool in the file `build.r`. Run that code and it will make a fresh PDF. 
+This page is built using [Hugo](https://gohugo.io/). <!-- There are two output components- the HTML website itself, and the matching PDF file to go with it.--> <!--Using the R “knit” feature will generate the HTML page.--> <!--We separated the PDF generation into its own tool in the file `build.r`. Run that code and it will make a fresh PDF.-->
 
-The editing tool we use for development is [Visual Studio Code](https://code.visualstudio.com/), with the [R plugin](https://marketplace.visualstudio.com/items?itemName=Ikuyadeu.r) by Yuki Ueda. The plugin is listed as recommended in the project. This plugin does require [R](https://www.r-project.org/) to be installed on your system. 
+The editing tool we use for development is [Visual Studio Code](https://code.visualstudio.com/).
 
 # Recommended Setup Process for MacOS
 

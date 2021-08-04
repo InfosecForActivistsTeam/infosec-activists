@@ -1,3 +1,9 @@
 baseURL = "https://infosecforactivists.org/"
 title = "Infosec 101 for Activists"
 theme = "book"
+enableGitInfo = true #provides 'Last Modified' date
+
+[markup]
+[markup.tableOfContents]
+startLevel = 1
+endLevel = 2

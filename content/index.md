@@ -1,23 +1,7 @@
 ---
 title: "Infosec 101 for Activists"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
-date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
-output:
-  html_document:
-    toc: false
-    self_contained: true
-    anchor_sections: false
-    includes:
-      before_body: styles.part.html
-  pdf_document: default
-urlcolor: blue
-linkcolor: blue
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
 
 PDF: [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
@@ -28,8 +12,7 @@ America has a strong tradition of activism, dating back to [slave revolts](https
 United States. Today, activism in the US remains critical. Street protests are an essential tool
 that activists use to raise awareness and push for institutional change.  That being said,
 challenging existing power structures carries an [element](https://www.icnl.org/usprotestlawtracker/)
-of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country)
-- exposure can lead to harassment, arrest, or [doxxing](https://www.muo.com/what-is-doxxing/).
+of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country) - exposure can lead to harassment, arrest, or [doxxing](https://www.muo.com/what-is-doxxing/).
 
 Your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than
 it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage

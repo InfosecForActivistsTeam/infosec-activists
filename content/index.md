@@ -458,11 +458,5 @@ beer, & mead, and spending time with his dog, Lacey.
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
   
-![](img/GitHub-Mark-32px.png)  
+![GitHub Logo](media/GitHub-Mark-32px.png)  
 See a mistake, or want to help us improve this document? Contribute to the project on [Github](https://github.com/InfosecForActivistsTeam/infosec-activists).  
-  
-\begin{flushleft}
-  \includegraphics[]{img/by-nc-sa-80x15.png}
-\end{flushleft}
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="img/by-nc-sa-80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Infosec 101 for Activists</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://infosecforactivists.org/" property="cc:attributionName" rel="cc:attributionURL">Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

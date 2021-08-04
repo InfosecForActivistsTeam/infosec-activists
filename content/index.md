@@ -407,8 +407,6 @@ so that nobody familiar with your life could guess it and force a password reset
 consent. For instance, for the question “Where did you attend school in the sixth grade?” you
 could instead respond with your favorite cartoon character from the sixth grade.
 
-\newpage
-
 # Other Tips
 These tips don't just protect you, but protect the safety and privacy of others as well!
 

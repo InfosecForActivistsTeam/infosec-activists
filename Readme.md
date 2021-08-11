@@ -45,3 +45,6 @@ hugo server
 
 ### Render the PDF
 We're working on it!
+
+# Translations
+The version of the English text that is in the Spanish translation is tagged in git as `0.2.0`. **This is not the latest English text.** 

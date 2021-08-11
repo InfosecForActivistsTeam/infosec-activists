@@ -10,35 +10,38 @@ If editing code isn’t your thing, you can use our [feedback form](https://docs
 
 If you’re *still* here, we will assume you’re ready to use GitHub’s collaboration features. Feel free to file issues to bring bugs or suggestions to our attention, fork this project, make edits, and send pull requests for us to evaluate. Everyone who contributes is expected to follow our [Code of Conduct](CODE_OF_CONDUCT.md). 
 
-This page is built using [Hugo](https://gohugo.io/). <!-- There are two output components- the HTML website itself, and the matching PDF file to go with it.--> <!--Using the R “knit” feature will generate the HTML page.--> <!--We separated the PDF generation into its own tool in the file `build.r`. Run that code and it will make a fresh PDF.-->
+This page is built using [Hugo](https://gohugo.io/). The current version we're using is `0.87.0`.
 
 The editing tool we use for development is [Visual Studio Code](https://code.visualstudio.com/). If you want a free version without Microsoft telemetrics or branding, see [VSCodium](https://vscodium.com/).
 
-# Recommended Setup Process for MacOS
+## Recommended Setup Process for MacOS
 
-If you haven’t, install [homebrew](https://brew.sh/).
+If you haven’t, install [homebrew](https://brew.sh/), then continue with these steps:
 
-##### [pandoc](https://pandoc.org/)
+### Install Hugo
 ```
-brew install librsvg python homebrew/cask/basictex
-```
-
-##### [asdf](https://asdf-vm.com)
-```
-brew install coreutils curl git
-brew install asdf
-
-# Follow the instructions for your shell
-## https://asdf-vm.com/#/core-manage-asdf?id=add-to-your-shell
-asdf plugin add R
+brew install hugo
 ```
 
-##### first run
+### Initial Setup
 ```
-git clone git@github.com:marksherman/infosec-activists-r.git
-cd infosec-activists-r
-asdf install
+git clone git@github.com:InfosecForActivistsTeam/infosec-activists.git
+cd infosec-activists
+```
+Open the `infosec-activists` folder using VSCode or VSCodium, and there you have it!
 
-# Renders the documents
-./build.r
+### Render the Site
+There are two ways to render the sources into a website. 
+
+The first is a one-shot command that will render it, put it in the `public` folder, and then quit. Just run `hugo` with no other arguments. Really!
 ```
+hugo
+```
+
+The second is to run a server that will render the site to memory (not disk), and watch the files in the project. You can view this site in your browser at `http://localhost:1313/`. Whenever a project file changes, it will re-render the site and cause your browser to referesh. 
+```
+hugo server
+```
+
+### Render the PDF
+We're working on it!

@@ -41,7 +41,7 @@ el control sobre su información confidencial.
 
 En este documento, hacemos recomendaciones en contra de algunas herramientas populares y comunes.
 Nuestras recomendaciones se basan todas en los mismos principios rectores. La lógica detrás de ellos
-es simple: evite las herramientas que recopilan su información;, la almacenan fuera de su control o
+es simple: evite las herramientas que recopilan su información; la almacenan fuera de su control o
 la dejan expuesta públicamente. El más desafiante probablemente sea Google Maps, el cual aconsejamos
 que evite mientras asiste a una marcha. Google Maps siempre rastrea a sus usuarios y Google mantiene
 estos datos de rastreo en detalle para siempre. Todos estos datos pueden ser entregados a las
@@ -54,11 +54,11 @@ mapas.
 
 Otra herramienta popular que no recomendamos es Telegram, ya que tiene un historial de problemas de
 seguridad. Aunque admite encriptación de extremo a extremo para mensajes entre personas (consulte
-Mensajería con encriptación abajo), no aplica esta seguridad a los mensajes grupales. Los mensajes
-grupales pueden ser reportados como "spam" o "abuso", y el personal y los contratistas de Telegram
-pueden revisar el contenido completo de los mensajes. Luego, esos datos se pueden compartirser
-compartidos con las autoridades. Para empeorar las cosas, la técnica de encriptación completa no
-está activa para todas las conversaciones por defecto.
+[Mensajería con encriptación](#mensajería-con-Encriptación) abajo), no aplica esta seguridad a los
+mensajes grupales. Los mensajes grupales pueden ser reportados como "spam" o "abuso", y el personal
+y los contratistas de Telegram pueden revisar el contenido completo de los mensajes. Luego, esos
+datos se pueden compartir con las autoridades. Para empeorar las cosas, la técnica de encriptación
+completa no está activa para todas las conversaciones por defecto.
 
 WhatsApp, aunque es popular en algunos círculos de activistas, tiene problemas similares y también
 recomendamos no utilizar ese servicio. Recomendamos Signal, que se construyó desde el principio para
@@ -69,11 +69,11 @@ usa, probablemente hayamos investigado sus características de seguridad para es
 herramientas a las que no está dispuesto a renunciar, le recomendamos que investigue sus políticas
 de privacidad y lo que puede hacer para proteger sus datos. 
 
-Cosas que Debe Saber 
+# Cosas que Debe Saber 
 
 Su teléfono es una mina de oro de datos, llena de información de rastreo e identificación. Esto
 incluye dónde ha estado, qué ha dicho y con quién se ha comunicado. Esta sección le ayudará a
-mantener esos datos seguros mientras asiste a una protesta, protegiéndolo a usted y a quienes lo
+mantener esos datos seguros mientras asiste a una protesta, protegiéndose a usted y a quienes lo
 rodean. ¡Encuentra instrucciones para iPhone y Android a continuación! ¡Protéjase y prepárese para
 protestar ahora mismo!
 
@@ -86,11 +86,10 @@ Si tiene inquietudes sobre su privacidad y su teléfono ya no recibe actualizaci
 considere no traerlo. Si asiste a una protesta sin teléfono, no vaya solo. Organice horarios y
 lugares donde puede reunirse con sus amigos antes de ir a la protesta. 
 
-Asistir a una acción 
-
-Antes
+# Asistir a una acción
+## Antes 
 - No se marque a sí mismo como "Yendo" en Facebook.
-- Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
+  - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
 - Practica la contraseña de tu teléfono. Habilite y practique el uso de Emergency SOS (iOS) y el
 modo Lockdown (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
@@ -103,20 +102,20 @@ que todas sus aplicaciones estén actualizadas.
 un nuevo número de teléfono con Google Voice y registrarlo en Signal.
 - Encuentre un amigo (¡o varios!) cCon quien ir y conéctese a través de Signal para discutir planes.
 
-Durante
+## Durante
 - Utilice un compañero de protesta.
 - Confirme los planes de la reunión con sus compañeros de protesta antes de partir hacia el evento.
-- Una vez que se reúnan, acuerden un lugar alternativo en caso de que se separen.
+  - Una vez que se reúnan, acuerden un lugar alternativo en caso de que se separen.
 - Utilice Apple Maps o DuckDuckGo Maps si necesita indicaciones para llegar a la ubicación de la
 protesta.
-- Si puede, imprima las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo
+  - Si puede, imprima las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo
 fuera de línea y no se podrá utilizar sin una conexión a Internet.
 
-Después
+## Después
 - Deje y elimine los grupos de señales creados para esa protesta.
 - ¡No publique sus fotos de protesta en las redes sociales!
 
-Preparando su teléfono
+# Preparando su teléfono
 Su teléfono es una herramienta poderosa, pero también un dispositivo de rastreo poderoso para las
 autoridades y otras entidades. Los teléfonos registran y comparten mucha información sobre su
 paradero y actividad con diferentes servicios. Esto suele ser algo bueno, ya que ayuda a que sus
@@ -133,15 +132,15 @@ Esta sección utiliza la palabra "teléfono" para referirse a un teléfono intel
 Android, como los fabricados por Apple, Google, Samsung y otros. Si está utilizando un teléfono más
 simple, es probable que sus riesgos sean menores. 
 
-Migas de Pan Digitales
+## Migas de Pan Digitales
 Ya sea que tenga un iPhone o un Android, las amenazas a su privacidad son las mismas. Su teléfono
-tiene un receptor GPS integrado que permite que funcionen mapas y otras aplicaciones basadas en la
+tiene un receptor **GPS** integrado que permite que funcionen mapas y otras aplicaciones basadas en la
 ubicación. El propio teléfono mantendrá ese receptor GPS encendido en todo momento, registrando
 dónde se encuentra y, ocasionalmente, enviará actualizaciones sobre su paradero a Google, Apple u
-otros editores de aplicaciones. Por lo tanto, queremosquerremos apagar el receptor GPS, lo que evita
+otros editores de aplicaciones. Por lo tanto, queremos apagar el receptor GPS, lo que evita
 que los datos de ubicación se registren. 
 
-Bluetooth y WiFi son tecnologías comunes que utilizan radio de corto alcance para comunicarse con
+**Bluetooth y WiFi** son tecnologías comunes que utilizan radio de corto alcance para comunicarse con
 otros dispositivos. Desafortunadamente, su funcionamiento requiere que su teléfono transmita
 información identificable sobre sí mismo. Esta información puede ser observada por una "señal" o
 dispositivo de escaneo. Las tiendas, las agencias gubernamentales y la policía utilizan estos
@@ -149,7 +148,7 @@ dispositivos para identificar a las personas que se encuentran cerca. Este tipo 
 profundamente peligrosa en una marcha, por lo que debemos desactivar Bluetooth y WiFi siempre que
 sea posible.
 
-Su operador de telefonía móvil puede rastrear su ubicación cuando su teléfono contacta con sus
+**Su operador de telefonía móvil** puede rastrear su ubicación cuando su teléfono contacta con sus
 torres de radio. Los teléfonos se conectan a las torres periódicamente mientras están encendidos,
 incluso si no se están utilizando activamente. Las conexiones de las torres son lo suficientemente
 precisas para colocar a un individuo en la misma cuadra de una marcha. Esta información puede ser
@@ -162,7 +161,7 @@ tres radios con un solo botón: WiFi, Bluetooth y operador de telefonía móvil.
 advertencias leves, detalladas en las instrucciones de configuración de iPhone y Android, a
 continuación. 
 
-Protección contra intrusiones
+## Protección contra intrusiones
 Si asiste a una marcha, existe el riesgo de que la policía confisque su teléfono. Tendrán
 físicamente su teléfono y pueden intentar extraer información. Todos los teléfonos tienen pantallas
 de bloqueo, que es la primera línea de defensa. En el uso diario, queremos que nuestra pantalla de
@@ -198,7 +197,7 @@ algo que solo se necesita hacer una vez.
 Si su dispositivo Android se envió con Android 6 o una versión anterior, es posible que no pueda
 utilizar esta función. 
 
-Copias de seguridad del teléfono
+## Copias de seguridad del teléfono
 
 Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
 seguridad integradas en la nube de iOS y Android representan un problema para los activistas. Las
@@ -211,21 +210,23 @@ soliciten los datos de respaldo de Apple y así usar la clave para desbloquear t
 También ofrece una conveniencia, donde si el usuario olvida su código de desbloqueo, Apple aún puede
 recuperar el dispositivo. Para los activistas, el riesgo que representa el hecho de que sus claves
 de desbloqueo sean accesibles para las autoridades es potencialmente mayor que los beneficios de esa
-comodidad. No recomendamos el uso de copias de seguridad de iCloud. 
+comodidad.
+**No recomendamos el uso de copias de seguridad de iCloud.** 
 
-Android utiliza Google Drive para la copia de seguridad de datos, que generalmente no contiene
+<!-- Different in the english version, needs to be retranslated -->
+_Android utiliza Google Drive para la copia de seguridad de datos, que generalmente no contiene
 claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
 contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
 a otro que ni siquiera ellos pueden abrir sin la contraseña del usuario. Si su teléfono usa la
 versión 9 o más reciente, esta función se activa automáticamente siempre que tenga una pantalla de
 bloqueo protegida con un PIN, patrón o código de acceso. No utilice copias de seguridad en la nube
-de Android anteriores a la versión 9.
-
-Instrucciones de configuración de su móvil 
+de Android anteriores a la versión 9._
+## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
+<!-- End Retranslation -->
 
-Configuración de iPhone 
+### Configuración de iPhone 
 
 Apple le ha dado prioridad a la seguridad en los últimos añosanos y han proveído características
 específicasespecificas para el iPhone las cuales facilitan la seguridad de su móvil. Estos pasos

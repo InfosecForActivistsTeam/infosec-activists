@@ -260,9 +260,12 @@ and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/ap
 We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
 <!-- End Collapse panel: iOS -->
 
+<!-- Start Collapse panel: Android -->
+### Configuración de Android
 Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu teléfono y hacerlo usable en varias situaciones. A continuación, presentamos pasos para asegurar tu móvil para una marcha. 
-Desactivar su receptor de GPS deshabilitando los servicios de localización. 
-Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
+
+* Desactivar su receptor de GPS deshabilitando los servicios de localización. 
+  * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
 Si no tiene un botón al bajar el panel de notificaciones, entonces vaya a 
 Ajustes 🡪 Localización y apagar “Utilizar Localización” 
 Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
@@ -278,6 +281,7 @@ Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente.
 Marque la opción “Bloquear con tecla encendido” 
 Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
 Vaya a configuración 🡪 Pantalla y brillo🡪 Avanzado 🡪 Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
+<!-- End Collapse panel: Android -->
 
 Ideas de Seguridad 
 Esta sección tratasección se trata de mantener su información privada en el resto de su vida. En

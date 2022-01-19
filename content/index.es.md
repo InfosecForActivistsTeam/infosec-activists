@@ -226,31 +226,40 @@ de Android anteriores a la versión 9._
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
 <!-- End Retranslation -->
 
+<!-- Start Collapse panel: iOS -->
 ### Configuración de iPhone 
 
 Apple le ha dado prioridad a la seguridad en los últimos añosanos y han proveído características
 específicasespecificas para el iPhone las cuales facilitan la seguridad de su móvil. Estos pasos
 pueden ser usados para asegurar razonablemente su móvil para una marcha.
 
-<!--
-* Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
-  * *Settings → General → AirDrop*, select “Receiving Off”
--->
-Desactivar su receptor de GPS deshabilitando los servicios de localización. 
-Aun en modo de vuelo, IOS mantendrá su receptor de GPS activo a menos que haga esto. 
-Ajustes > Privacidad > Localización, apagar Servicios de Localización 
-Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
-Instalación de Pantalla de bloqueo
-Configuración > Pantalla y Brillo > Bloqueo Automático, poner a 30 segundos o 1 minuto, máximo. 
-configuración > Touch ID y código, poner “solicitar código” a “De inmediato”
-Practicar con IOS modo Emergencia SOS y desactivar la característica de llamada automática.
-Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
-Desactivar Configuraciones 🡪 Emergencia SOS  🡪 Llamada automática
-Desactivar Configuraciones 🡪 Emergencia SOS 🡪 Llamar con botón activación/ reposo
-Desactivar Touch ID y Face ID
-configuración > Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos. 
+* [es] Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
+  * [es] *Settings → General → AirDrop*, select “Receiving Off”
+* Desactivar su receptor de GPS deshabilitando los servicios de localización. 
+  * Aun en modo de vuelo, iOS mantendrá su receptor de GPS activo a menos que haga esto. 
+  * *Configuración → Privacidad → _Localización_*, apagar Servicios de Localización 
+* Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
+* Instalación de Pantalla de bloqueo
+  * [es] Set your screen to auto-lock as quickly as possible, and
+  require your passcode immediately.
+    * Configuración > Pantalla y Brillo > Bloqueo Automático, poner a 30 segundos o 1 minuto, máximo. 
+    * Configuración > Touch ID y código, poner “solicitar código” a “De inmediato”
+  * Practicar con iOS modo Emergencia SOS y desactivar la característica de llamada automática.
+    * Desactivar Configuraciones 🡪 Emergencia SOS  🡪 Llamada automática
+    * Desactivar Configuraciones 🡪 Emergencia SOS 🡪 Llamar con botón activación/ reposo
+    * Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
+* Desactivar Touch ID y Face ID
+    * Configuración > Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
 
-Configuración de Android
+#### [es] AirDrop
+[es] Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
+of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
+enabled, your phone could leak personally identifiable information (PII) such as your phone number
+and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+ 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
+<!-- End Collapse panel: iOS -->
+
 Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu teléfono y hacerlo usable en varias situaciones. A continuación, presentamos pasos para asegurar tu móvil para una marcha. 
 Desactivar su receptor de GPS deshabilitando los servicios de localización. 
 Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)

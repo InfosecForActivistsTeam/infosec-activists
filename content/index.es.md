@@ -154,7 +154,7 @@ incluso si no se están utilizando activamente. Las conexiones de las torres son
 precisas para colocar a un individuo en la misma cuadra de una marcha. Esta información puede ser
 accesible por las autoridades a través de una citación. 
 
-Todos los teléfonos tienen una opción para "modo avión", que desactiva todas las radios. Esta
+Todos los teléfonos tienen una opción para **"modo avión",** que desactiva todas las radios. Esta
 función se creó para viajar en un avión, debido a la preocupación de que los teléfonos pudieran
 interferir con el funcionamiento del avión. Hoy en día, es una forma confiable de desactivar las
 tres radios con un solo botón: WiFi, Bluetooth y operador de telefonía móvil. Hay algunas
@@ -163,34 +163,35 @@ continuación.
 
 ## Protección contra intrusiones
 Si asiste a una marcha, existe el riesgo de que la policía confisque su teléfono. Tendrán
-físicamente su teléfono y pueden intentar extraer información. Todos los teléfonos tienen pantallas
-de bloqueo, que es la primera línea de defensa. En el uso diario, queremos que nuestra pantalla de
+físicamente su teléfono y pueden intentar extraer información. Todos los teléfonos tienen **pantallas
+de bloqueo**, que es la primera línea de defensa. En el uso diario, queremos que nuestra pantalla de
 bloqueo evite que un ladrón u otro extraño abra fácilmente el teléfono. Con eso, los lectores de
 huellas dactilares y los escáneres faciales crean mecanismos de desbloqueo convenientes. La
 situación en una marcha es completamente diferente, ya que las autoridades pueden tener la
 capacidad de aplicar su dedo o la cara a su teléfono para desbloquearlo, incluso si se resiste o
-está inconsciente. Por esta razón, se deben evitar los mecanismos de desbloqueo biométrico durante
-una acción. Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar
+está inconsciente. Por esta razón, **se deben evitar los mecanismos de desbloqueo biométrico durante
+una acción.** Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar
 un código. La policía (o cualquier persona) puede rastrear un deslizamiento, una forma o un código
-corto a partir de los aceites finos que deja el dedo en la pantalla. Ingresar un código es lo más
-seguro. El código debe ser lo suficientemente largo para evitar que sus huellas digitales lo
+corto a partir de los aceites finos que deja el dedo en la pantalla. **Ingresar un código es lo más
+seguro.** El código debe ser lo suficientemente largo para evitar que sus huellas digitales lo
 revelen. 
 
 Los teléfonos también le permiten seleccionar cuánto tiempo deben esperar antes de auto bloquearse.
 Debe configurar este tiempo para que sea lo más corto posible, de modo que, si deja caer su teléfono
 o si es robado, el temporizador expirará y el teléfono se bloqueará antes de que alguien más pueda
-acceder a él. El botón de encendido debe hacer que el teléfono se bloquee inmediatamente. 
+acceder a él. El **botón de encendido debe hacer que el teléfono se bloquee inmediatamente.** 
 
 Hay formas de acceder a los datos de un teléfono sin desbloquearlo. Una forma de defenderse de estos
-métodos es la encriptación de disco completo, donde toda la información del teléfono se almacena de
+métodos es **la encriptación de disco completo**, donde toda la información del teléfono se almacena de
 forma cifrada. Esto evita que la policía elimine los chips de almacenamiento de su teléfono, ya que
 todo el contenido será ilegible sin que su código de desbloqueo específico lo desbloquee en su
 teléfono específico. 
 
 Para usar la encriptación de disco completo en un iPhone, simplemente configure un código de acceso
 a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función.
-Para ver si su Android tiene la encriptación disponible y activada, puede ir a Configuración, elegir
-Seguridad y buscar la opción Encriptar teléfono. Dirá "Cifrado" o le pedirá que active el cifrado.
+
+Para ver si su Android tiene la encriptación disponible y activada, puede **ir a Configuración, elegir
+Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedirá que active el cifrado.
 Activar el cifrado tardará unas horas y su dispositivo deberá estar conectado a su cargador. Esto es
 algo que solo se necesita hacer una vez. 
 
@@ -220,8 +221,9 @@ contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de 
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
 a otro que ni siquiera ellos pueden abrir sin la contraseña del usuario. Si su teléfono usa la
 versión 9 o más reciente, esta función se activa automáticamente siempre que tenga una pantalla de
-bloqueo protegida con un PIN, patrón o código de acceso. No utilice copias de seguridad en la nube
-de Android anteriores a la versión 9._
+bloqueo protegida con un PIN, patrón o código de acceso. 
+**No utilice copias de seguridad en la nube
+de Android anteriores a la versión 9._** 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
 <!-- End Retranslation -->
@@ -288,7 +290,7 @@ Esta sección tratasección se trata de mantener su información privada en el r
 este documento, “Privado” significa que algo es solamente accesible a usted y a nadie másmas sin su
 permiso. 
 
-mensajería con Encriptación 
+## Mensajería con Encriptación 
 Para encriptar su comunicación personal (como mensajes con otras personas), usted quiere encriptado
 de punto a punto (E2EE). Muchas aplicaciones dicen tener “encriptación” pero solamente pocas
 garantizan que su información permanezca encriptada de su teléfono a el recipiente. El encriptado de
@@ -296,7 +298,7 @@ punto a punto significa que es solamente legible por usted y su recipiente. Sin 
 a punto”, las copias de mensajes serian enviadas y guardadas en un servidor central al que la
 empresa proveedora tendría acceso completo. 
 
-Reunión Virtual
+## Reunión Virtual
 Las reunionesReuniones virtuales por medio de videollamadasvideo llamadas son parte de la vida
 moderna y muy común en comunidades activistas. Soluciones como Zoom, Google Meet y Microsoft Teams
 son opciones populares para el trabajo y reuniones sociales, pero no ofrecen la privacidad que el
@@ -307,7 +309,7 @@ página web meet.jit.si. Los participantes no necesitan tener cuentas o dar info
 poder usar esta plataforma. Jitsi toma en serio la seguridad y el anonimato personal seriamente.
 Puede leer más en su página de seguridad security page.
 
-Protección de contraseña 
+## Protección de contraseña 
 La contraseña es el mecanismo principal que se usa para asegurar sus cuentas en línea, pero también
 es un punto significante de vulnerabilidad. ¿CómoComo podemos administrar esto?
 
@@ -316,12 +318,12 @@ Usar contraseñas largas y fuertes que no pueden ser fácilmente adivinadas.
 Use un administrador de contraseñas para almacenar sus contraseñas de manera segura. Después, use
 una contraseña única para cada dispositivo. 
 
-Autenticación de Dos Factores (A2F)
+## Autenticación de Dos Factores (A2F)
 Esto agrega una segunda verificación, cada vez que inicie una sesión, para verificar su identidad.
 El segundo factor puede ser una aplicación en su móvil, un correo electrónico o un mensaje de texto.
 Se le envía un código de acceso de un solo uso, el cual entra en el servicio para comprobar que
-usted controla el segundo factor. No todos los medios de seguridad son iguales, pero cualquier A2F
-es mejor que ninguno. 
+usted controla el segundo factor. No todos los medios de seguridad son iguales, pero **cualquier A2F
+es mejor que ninguno.** 
 
 Al elegir un método de A2F, una aplicación de verificación como Google Authenticator provee un buen
 balance entre conveniencia y seguridad. Google Authenticator es gratis y está disponible en la
@@ -337,15 +339,15 @@ electrónico o móvil (por medio de mensaje) para recibir su código de acceso d
 opciones no son tan seguras como las opciones mencionadas previamente, pero, como tal se ha
 explicado másmas arriba, cualquier A2F es mejor que ninguno. 
 
-Contraseñas Seguras 
+## Contraseñas Seguras 
 Las contraseñas largas son más difíciles de adivinar sin importar las clases de caracteres que
 incluya. Las técnicas de los hackers modernos pueden intentar cualquier carácter posible en todas
 las maneras posibles en contraseñas de 8 caracteres instantáneamente, pero una contraseña de 10
 caracteres tomaría horas. XKCD hizo una explicación divertida sobre esto:
 https://xkcd.com/936/ 
 
-Sus contraseñas deberían ser fácilfacial de recordar, pero largas para que nopara no se sea fácil a
-un hacker de adivinar. La mejor técnica en este momento es utilizar una frase de contraseña de
+**Sus contraseñas deberían ser fácilfacial de recordar, pero largas para que nopara no se sea fácil a
+un hacker de adivinar.** La mejor técnica en este momento es utilizar una frase de contraseña de
 varias palabras que son fácil de recordar, pero tan largas, que le tomaría siglos a un hacker para
 adivinar. Se puede usar una técnica que se llama Diceware que le propone diferentes frases de
 contraseñas fácil de recordar. Doug Muth construyó una buena herramienta de Diceware en línea, ver
@@ -353,7 +355,7 @@ másmas abajo.
 
 Generador de contraseñas Diceware: https://diceware.dmuth.org/
 
-Administrador de contraseñas 
+## Administrador de contraseñas 
 Los administradores de contraseñas son aplicaciones que funcionan como cajas fuertes para tus
 contraseñas personales. Ellos guardan su nombre de usuario, contraseña y otros tipos de información
 para cada aplicación y otras páginaspaginas de web que usted visita. Esta caja fuerte está muy
@@ -378,18 +380,18 @@ dentro de su caja fuerte personal dentro del administrador. Nuestra recomendaci�
 administrador de contraseña de código abierto y fácil de usar que utiliza encriptaciones con
 estándares de amplio consenso para sus contraseñas. 
 
-Preguntas de Seguridad
+## Preguntas de Seguridad
 Normalmente diferentes servicios usan preguntas personales como sistema de respaldo por si
 necesitanecesite restablecer su contraseña. Estas preguntas frecuentemente piden información
 personal como el nombre de la mascota que tuvo en su niñez o el apellido de soltera de su mamá. Esta
 información, desafortunadamente, es accesible a otras personas. 
 
-Cuando usted responda estas preguntas de seguridad, trate de usar palabras claves en vez de
-responderlas honestamente para que nadie familiar pueda adivinar y cambiar la contraseña sin su
+Cuando usted responda estas preguntas de seguridad, trate de **usar palabras claves en vez de
+responderlas honestamente** para que nadie familiar pueda adivinar y cambiar la contraseña sin su
 consentimiento. Por ejemplo, para la pregunta “¿QuéQue escuela asistió en el sexto grado?” usted
 puede responder con su caricatura favorita en el sexto grado. 
 
-Otras Recomendaciones 
+# Otras Recomendaciones 
 * ¡Estas sugerencias no solamente lo protegen a usted, sinopero también protegen la seguridad y
 privacidad de otros!
 * Piense cuidadosamente con quien puede compartir con toda seguridad su participación en el
@@ -407,7 +409,7 @@ solamente envié a personas de confianza, de manera segura, mucho después y lej
 * Asegúrese de tener un amigo(a) en la marcha y utiliceUtilice Signal para comunicarse con ellos.
 * Cuanto utilice Signal, active “Desaparición de Mensajes” para cualquier conversación delicada
 
-Clausura
+# Clausura
 Esperamos que haya encontradoencontrada esta información de mucha ayuda. Aunque al principio esta
 información puede verse intimidante, esperamos que pueda dominarla en poco tiempo y con práctica. El
 mundo de la seguridad informática cambia a diario y rápidamente- Nosotros trataremos de mantener
@@ -423,12 +425,12 @@ Wired: Privacy
 Arstechnica
 EFF Deeplinks
  
-Reconocimientos
+## Reconocimientos
 Blake, Drew, y Mark quieren agradecerles a Clare, Deb, Moe, Sasha, Stacy, y Vincent por su
 asistencia con este proyecto. También le agradecemos a nuestras mascotas, Lacey, Lily, Pico, y Roxy
 por su apoyo en estos tiempos difíciles. 
  
-Sobre el Autor
+## Sobre el Autor
 Drew pProvee administración de proyectos y revisión lingüística para este medio. Cuando Drew no está
 enardeciendo a la multitud, le gusta pasear en bicicleta, hornear y leer. 
 Mark es un profesor de informática y se enfoca en la enseñanza informática, la democratización de

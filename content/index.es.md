@@ -283,7 +283,7 @@ Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando 
 Vaya a configuración 🡪 Pantalla y brillo🡪 Avanzado 🡪 Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
 <!-- End Collapse panel: Android -->
 
-Ideas de Seguridad 
+# Ideas de Seguridad 
 Esta sección tratasección se trata de mantener su información privada en el resto de su vida. En
 este documento, “Privado” significa que algo es solamente accesible a usted y a nadie másmas sin su
 permiso. 

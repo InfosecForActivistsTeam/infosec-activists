@@ -1,6 +1,6 @@
 ---
 title: "Infosec 101 para Activistas"
-author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
+author: "Drew Bjorn, Mark Sherman, Ph.D., y Blake Skinner"
 ---
 
 # Introducción
@@ -245,14 +245,14 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
 * Instalación de Pantalla de bloqueo
   * [es] Set your screen to auto-lock as quickly as possible, and
   require your passcode immediately.
-    * Configuración > Pantalla y Brillo > Bloqueo Automático, poner a 30 segundos o 1 minuto, máximo. 
-    * Configuración > Touch ID y código, poner “solicitar código” a “De inmediato”
+    * Configuración → Pantalla y Brillo → Bloqueo Automático, poner a 30 segundos o 1 minuto, máximo. 
+    * Configuración → Touch ID y código, poner “solicitar código” a “De inmediato”
   * Practicar con iOS modo Emergencia SOS y desactivar la característica de llamada automática.
-    * Desactivar Configuraciones 🡪 Emergencia SOS  🡪 Llamada automática
-    * Desactivar Configuraciones 🡪 Emergencia SOS 🡪 Llamar con botón activación/ reposo
+    * Desactivar Configuraciones → Emergencia SOS → Llamada automática
+    * Desactivar Configuraciones → Emergencia SOS → Llamar con botón activación/ reposo
     * Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
 * Desactivar Touch ID y Face ID
-    * Configuración > Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
+    * Configuración → Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
 
 #### [es] AirDrop
 [es] Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
@@ -270,20 +270,20 @@ Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu t
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
   * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
 Si no tiene un botón al bajar el panel de notificaciones, entonces vaya a 
-Ajustes 🡪 Localización y apagar “Utilizar Localización” 
+Ajustes → Localización y apagar “Utilizar Localización” 
 Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
 Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Modo de Vuelo (Suele verse como un avión). Asegúrese que el Modoque Modo de vuelo estéeste encendido.
-Si usted no tiene el botón al bajar el panel de notificaciones, vaya a Ajustes 🡪 Red e Internet y encienda “Modo de Vuelo”
+Si usted no tiene el botón al bajar el panel de notificaciones, vaya a Ajustes → Red e Internet y encienda “Modo de Vuelo”
 Usted puede encender su data móvil sin dejar Modo de vuelo, si lo necesita. Presione el botón Data móvil en el panel de notificaciones después de activar el Modoactivar Modo de Vuelo. Esos dos botones se encuentran, frecuentemente, a la par.
 Asegúrese que Bluetooth estéeste verdaderamente apagado. Android puedepuedo ser que lo mantenga encendido si los dispositivossi dispositivos de bluetooth están conectados. El botón en el panel de notificaciones debe ser gris/ sin color para indicar que estáesta apagado. 
 Instalación de Pantalla de bloqueo
-Vaya a Ajustes 🡪 Seguridad 🡪 Pantalla de Bloqueo y seleccionar PIN o contraseña 
+Vaya a Ajustes → Seguridad → Pantalla de Bloqueo y seleccionar PIN o contraseña 
 Se le dará la opción de decidir si quiere que las notificaciones sean mostradas en la pantalla en lo que su móvil estáesta bloqueado. La opción másmas segura es “Nunca”. Si eso no le funciona, escoja “ocultar notificaciones sensibles”
 Toque el icono de ajustes para abrir el menú configuración:
 Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
 Marque la opción “Bloquear con tecla encendido” 
 Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
-Vaya a configuración 🡪 Pantalla y brillo🡪 Avanzado 🡪 Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
+Vaya a configuración → Pantalla y brillo → Avanzado → Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
 <!-- End Collapse panel: Android -->
 
 # Ideas de Seguridad 
@@ -300,19 +300,19 @@ a punto”, las copias de mensajes serian enviadas y guardadas en un servidor ce
 empresa proveedora tendría acceso completo. 
 
 ## Reunión Virtual
-Las reunionesReuniones virtuales por medio de videollamadasvideo llamadas son parte de la vida
-moderna y muy común en comunidades activistas. Soluciones como Zoom, Google Meet y Microsoft Teams
-son opciones populares para el trabajo y reuniones sociales, pero no ofrecen la privacidad que el
-activismo requiere. Por esa razón, nosotros recomendamos Jitsi. A diferenciaA la diferencia de otras
-plataformas, Jitsi no mantiene registro o retiene el contenido de sus reuniones. Jitsi es gratis y
-no requiereni requiere una cuenta de usuario. Usted puede comenzar una reunión directamente desde la
-página web meet.jit.si. Los participantes no necesitan tener cuentas o dar información personal para
-poder usar esta plataforma. Jitsi toma en serio la seguridad y el anonimato personal seriamente.
-Puede leer más en su página de seguridad security page.
+Las reuniones virtuales por medio de videollamadas son parte de la vida moderna y muy común en 
+comunidades activistas. Soluciones como Zoom, Google Meet y Microsoft Teams son opciones populares 
+para el trabajo y reuniones sociales, pero no ofrecen la privacidad que el activismo requiere. Por 
+esa razón, nosotros recomendamos [Jitsi](https://jitsi.org/). A diferencia de otras plataformas, 
+Jitsi no mantiene registro o retiene el contenido de sus reuniones. Jitsi es gratis y no requiere 
+una cuenta de usuario. Usted puede comenzar una reunión directamente desde la página web 
+[meet.jit.si](https://meet.jit.si/). Los participantes no necesitan tener cuentas o dar información 
+personal para poder usar esta plataforma. Jitsi toma en serio la seguridad y el anonimato personal. 
+Puede leer más en su [página de seguridad](https://jitsi.org/security/).
 
 ## Protección de contraseña 
 La contraseña es el mecanismo principal que se usa para asegurar sus cuentas en línea, pero también
-es un punto significante de vulnerabilidad. ¿CómoComo podemos administrar esto?
+es un punto significante de vulnerabilidad. ¿Cómo podemos administrar esto?
 
 Encender la autenticación de dos factores (A2F) en todas partes donde se ofrece.
 Usar contraseñas largas y fuertes que no pueden ser fácilmente adivinadas. 
@@ -324,16 +324,17 @@ Esto agrega una segunda verificación, cada vez que inicie una sesión, para ver
 El segundo factor puede ser una aplicación en su móvil, un correo electrónico o un mensaje de texto.
 Se le envía un código de acceso de un solo uso, el cual entra en el servicio para comprobar que
 usted controla el segundo factor. No todos los medios de seguridad son iguales, pero **cualquier A2F
-es mejor que ninguno.** 
+es mejor que ninguno.**
 
 Al elegir un método de A2F, una aplicación de verificación como Google Authenticator provee un buen
 balance entre conveniencia y seguridad. Google Authenticator es gratis y está disponible en la
 tienda de Google Play y Apple. 
 
-Si desea una opción más segura, claves de seguridad como Yubikey pueden ser usadas. Las claves son
-objetosso objectos físicos que actúan como su segundo factor y también pueden ser usadas con el
-Yubico Authenticator donde puede usar autentificadores físicos para generar códigos de acceso de un
-solo uso. 
+Si desea una opción más segura, claves de seguridad como [Yubikey](https://www.yubico.com/products/)
+pueden ser usadas. Las claves son objetosso objectos físicos que actúan como su segundo factor y
+también pueden ser usadas con el 
+[Yubico Authenticator](https://www.yubico.com/products/services-software/download/yubico-authenticator/)
+donde puede usar autentificadores físicos para generar códigos de acceso de un solo uso.
 
 Si las opciones anteriores no están disponibles para su servicio, usted podría usar su correo
 electrónico o móvil (por medio de mensaje) para recibir su código de acceso de un solo uso. Estas

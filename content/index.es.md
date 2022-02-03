@@ -4,20 +4,20 @@ author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 ---
 
 # Introducción
-América tiene una tradición muy fuerte de activismo que se remonta a las revueltas de esclavos y los
-levantamientos indígenas que ocurrieron antes de la fundación de los Estados Unidos. En este día, el
+América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos] (https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
+levantamientos indígenas] (https://themihs.info/calusa-period/) que ocurrieron antes de la fundación de los Estados Unidos. En este día, el
 activismo en los Estados Unidos continúa siendo una cuestión crucial. Las manifestaciones se han
 convertido en una herramienta esencial utilizada por los activistas para crear conciencia y lograr
 cambios a nivel institucional. Dicho esto, desafiar las estructuras de poder existentes puede tener
-un factor de riesgo. Por ejemplo, la publicidad puede resultar en acoso, arresto o en la divulgación
-de información privada. 
+[un factor] (https://www.icnl.org/usprotestlawtracker/) de [riesgo] (https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country). Por ejemplo, la publicidad puede resultar en acoso, arresto o en [la divulgación
+de información privada] (https://www.muo.com/what-is-doxxing/). 
 
-Su información personal es más accesible que nunca. En este documento, hablaremos sobre cómo los
+Su [información personal] (https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) es más accesible que nunca. En este documento, hablaremos sobre cómo los
 grupos hostiles pueden utilizar información en contra de los activistas y lo que puede hacer usted
 para protegerse a sí mismo y a los demás. Este documento se enfoca en la seguridad digital y en la
 seguridad de la información para los activistas que tienen requisitos y riesgos especiales. Otros
-han escrito sobre la seguridad durante las manifestaciones en sentido general al igual que la
-seguridad digital diaria.
+han escrito sobre [la seguridad durante las manifestaciones] (https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0) en [sentido general] (https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html) al igual que la
+[seguridad digital] (https://www.wikihow.com/Protect-Personal-Information) diaria.
 
 **Si tiene prisa, comience con la tabla de herramientas que se encuentra abajo.** ¡Usted encontrará
 información que puede usar de inmediato! También hemos incluido sugerencias y conceptos para

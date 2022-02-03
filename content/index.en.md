@@ -351,7 +351,7 @@ app on your phone, an email, or text message. A one-time-use code is sent to you
 enter into the service to prove you control that second factor. Not all channels are equal in
 their security, but **any 2FA is worlds better than none at all.**  
 
-When choosing a 2FA method, a authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
+When choosing a 2FA method, an authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
 between convenience and security. Google Authenticator is free, and available from both the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), and [Apple's App Store](https://apps.apple.com/us/app/google-authenticator/id388497605).
 
 If a more secure option is desired, security keys such as the [Yubikey](https://www.yubico.com/products/) can

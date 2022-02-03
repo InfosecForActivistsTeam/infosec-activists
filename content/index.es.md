@@ -44,24 +44,24 @@ Nuestras recomendaciones se basan todas en los mismos principios rectores. La l�
 es simple: evite las herramientas que recopilan su información; la almacenan fuera de su control o
 la dejan expuesta públicamente. El más desafiante probablemente sea Google Maps, el cual aconsejamos
 que evite mientras asiste a una marcha. Google Maps siempre rastrea a sus usuarios y Google mantiene
-estos datos de rastreo en detalle para siempre. Todos estos datos pueden ser entregados a las
-autoridades. La policía y otras agencias pueden usar los datos de alta precisión de Google para
+estos datos de rastreo en detalle para siempre. Todos estos datos pueden ser [entregados a las
+autoridades] (https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been). [La policía y otras agencias] (https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) pueden usar los datos de alta precisión de Google para
 ubicar a una persona en una marcha. Aún más peligroso, pueden ubicar a una persona en áreas
 específicas dentro de una marcha o cerca de actos criminales, a unos pocos pies y sin perder tiempo.
-Nuestras sugerencias alternativas, Apple Maps y DuckDuckGo Maps, no rastrean a sus usuarios de esta
+Nuestras sugerencias alternativas, [Apple Maps] (https://maps.apple.com/go) y [DuckDuckGo Maps] (https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), no rastrean a sus usuarios de esta
 manera. También hacen todo lo posible por anonimizar los datos recopilados por los proveedores de
 mapas.
 
-Otra herramienta popular que no recomendamos es Telegram, ya que tiene un historial de problemas de
-seguridad. Aunque admite encriptación de extremo a extremo para mensajes entre personas (consulte
+Otra herramienta popular [que no recomendamos] (https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) es Telegram, ya que tiene un historial de [problemas de
+seguridad](https://www.wired.com/story/telegram-encryption-whatsapp-settings/) . Aunque admite encriptación de extremo a extremo para mensajes entre personas (consulte
 [Mensajería con encriptación](#mensajería-con-Encriptación) abajo), no aplica esta seguridad a los
 mensajes grupales. Los mensajes grupales pueden ser reportados como "spam" o "abuso", y el personal
 y los contratistas de Telegram pueden revisar el contenido completo de los mensajes. Luego, esos
 datos se pueden compartir con las autoridades. Para empeorar las cosas, la técnica de encriptación
 completa no está activa para todas las conversaciones por defecto.
 
-WhatsApp, aunque es popular en algunos círculos de activistas, tiene problemas similares y también
-recomendamos no utilizar ese servicio. Recomendamos Signal, que se construyó desde el principio para
+WhatsApp, aunque es popular en algunos círculos de activistas, [tiene problemas similares] (https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/) y también
+recomendamos no utilizar ese servicio. Recomendamos [Signal,] (https://signal.org/en/) que se construyó desde el principio para
 la seguridad personal.
 
 Un razonamiento similar se aplica a todas las recomendaciones que hacemos en este documento. Si lo
@@ -90,23 +90,23 @@ lugares donde puede reunirse con sus amigos antes de ir a la protesta.
 ## Antes 
 - No se marque a sí mismo como "Yendo" en Facebook.
   - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practica la contraseña de tu teléfono. Habilite y practique el uso de Emergency SOS (iOS) y el
-modo Lockdown (Android).
+- Practica la contraseña de tu teléfono. Habilite y practique el uso de [Emergency SOS] (https://support.apple.com/en-us/HT208076) (iOS) y [el
+modo Lockdown] (https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
 y las sesiones de navegación privada.
 - Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
 que todas sus aplicaciones estén actualizadas.
-  - Verifique y actualice su versión de Android o iOS para asegurarse de tener las últimas
+  - Verifique y actualice su versión de [Android] (https://support.google.com/android/answer/7680439) o [iOS] (https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
-- Configura una cuenta de Signal. Si no desea utilizar su número de teléfono personal, puede crear
-un nuevo número de teléfono con Google Voice y registrarlo en Signal.
+- Configura una cuenta de [Signal.] (https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
+un nuevo número de teléfono con [Google Voice] (https://voice.google.com) y registrarlo en Signal.
 - Encuentre un amigo (¡o varios!) cCon quien ir y conéctese a través de Signal para discutir planes.
 
 ## Durante
 - Utilice un compañero de protesta.
 - Confirme los planes de la reunión con sus compañeros de protesta antes de partir hacia el evento.
   - Una vez que se reúnan, acuerden un lugar alternativo en caso de que se separen.
-- Utilice Apple Maps o DuckDuckGo Maps si necesita indicaciones para llegar a la ubicación de la
+- Utilice [Apple Maps] (https://maps.apple.com/go) o [DuckDuckGo Maps] (https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) si necesita indicaciones para llegar a la ubicación de la
 protesta.
   - Si puede, imprima las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo
 fuera de línea y no se podrá utilizar sin una conexión a Internet.
@@ -169,8 +169,9 @@ bloqueo evite que un ladrón u otro extraño abra fácilmente el teléfono. Con 
 huellas dactilares y los escáneres faciales crean mecanismos de desbloqueo convenientes. La
 situación en una marcha es completamente diferente, ya que las autoridades pueden tener la
 capacidad de aplicar su dedo o la cara a su teléfono para desbloquearlo, incluso si se resiste o
-está inconsciente. Por esta razón, **se deben evitar los mecanismos de desbloqueo biométrico durante
-una acción.** Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar
+está inconsciente. Por esta razón, 
+**se deben evitar los mecanismos de desbloqueo biométrico durante
+una acción**. Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar
 un código. La policía (o cualquier persona) puede rastrear un deslizamiento, una forma o un código
 corto a partir de los aceites finos que deja el dedo en la pantalla. **Ingresar un código es lo más
 seguro.** El código debe ser lo suficientemente largo para evitar que sus huellas digitales lo
@@ -195,7 +196,7 @@ Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedir
 Activar el cifrado tardará unas horas y su dispositivo deberá estar conectado a su cargador. Esto es
 algo que solo se necesita hacer una vez. 
 
-Si su dispositivo Android se envió con Android 6 o una versión anterior, es posible que no pueda
+Si su dispositivo Android se envió con [Android 6  o una versión anterior] (https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
 utilizar esta función. 
 
 ## Copias de seguridad del teléfono
@@ -203,8 +204,8 @@ utilizar esta función.
 Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
 seguridad integradas en la nube de iOS y Android representan un problema para los activistas. Las
 copias de seguridad realizadas con iCloud están encriptadas de tal manera que los empleados de Apple
-pueden acceder a ellas. Esta debilidad se atribuye a la presión del FBI. Cualquier cosa en la copia
-de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar y más, se puede entregar a las
+pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI] (https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia
+de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más] (https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las
 autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se
 almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que
 soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono.
@@ -215,12 +216,12 @@ comodidad.
 **No recomendamos el uso de copias de seguridad de iCloud.** 
 
 <!-- Different in the english version, needs to be retranslated -->
-_Android utiliza Google Drive para la copia de seguridad de datos, que generalmente no contiene
+_[Android utiliza Google Drive] (https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
 claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
 contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
-a otro que ni siquiera ellos pueden abrir sin la contraseña del usuario. Si su teléfono usa la
-versión 9 o más reciente, esta función se activa automáticamente siempre que tenga una pantalla de
+a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html)  sin la contraseña del usuario. Si su teléfono usa la
+versión 9 o más reciente, [esta función se activa automáticamente] (https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
 bloqueo protegida con un PIN, patrón o código de acceso. 
 **No utilice copias de seguridad en la nube
 de Android anteriores a la versión 9._** 

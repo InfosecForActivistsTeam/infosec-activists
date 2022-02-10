@@ -88,19 +88,18 @@ lugares donde puede reunirse con sus amigos antes de ir a la protesta.
 
 # Asistir a una acción
 ## Antes 
-- No se marque a sí mismo como "Yendo" en Facebook.
+- No se marque a sí mismo como "Asistire" en Facebook.
   - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practica la contraseña de tu teléfono. Habilite y practique el uso de [Emergency SOS] (https://support.apple.com/en-us/HT208076) (iOS) y [el
-modo Lockdown] (https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
+- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergency SOS] (https://support.apple.com/en-us/HT208076) (iOS) y [el modo Lockdown] (https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
 y las sesiones de navegación privada.
 - Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
 que todas sus aplicaciones estén actualizadas.
   - Verifique y actualice su versión de [Android] (https://support.google.com/android/answer/7680439) o [iOS] (https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
-- Configura una cuenta de [Signal.] (https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
+- Configure una cuenta de [Signal.] (https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
 un nuevo número de teléfono con [Google Voice] (https://voice.google.com) y registrarlo en Signal.
-- Encuentre un amigo (¡o varios!) cCon quien ir y conéctese a través de Signal para discutir planes.
+- Encuentre un amigo (¡o varios!) con quien ir y conéctese a través de Signal para discutir planes.
 
 ## Durante
 - Utilice un compañero de protesta.
@@ -196,7 +195,7 @@ Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedir
 Activar el cifrado tardará unas horas y su dispositivo deberá estar conectado a su cargador. Esto es
 algo que solo se necesita hacer una vez. 
 
-Si su dispositivo Android se envió con [Android 6  o una versión anterior] (https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
+Si su dispositivo Android se envió con [Android 6 o una versión anterior] (https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
 utilizar esta función. 
 
 ## Copias de seguridad del teléfono

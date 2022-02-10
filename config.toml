@@ -1,9 +1,10 @@
-baseURL = "https://infosecforactivists.org/"
+baseURL = "https://preview.infosecforactivists.org/"
 title = "Infosec 101 for Activists"
 theme = "book"
+relativeURLs = true
 
 # provides 'Last Modified' date
-enableGitInfo = true 
+enableGitInfo = true
 
 [markup]
   [markup.tableOfContents]

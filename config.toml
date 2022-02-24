@@ -2,6 +2,7 @@ baseURL = "https://preview.infosecforactivists.org/"
 title = "Infosec 101 for Activists"
 theme = "book"
 relativeURLs = true
+publishDir = "docs"
 
 # provides 'Last Modified' date
 enableGitInfo = true

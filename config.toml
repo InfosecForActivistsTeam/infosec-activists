@@ -1,4 +1,3 @@
-baseURL = "https://preview.infosecforactivists.org/"
 title = "Infosec 101 for Activists"
 theme = "book"
 relativeURLs = true

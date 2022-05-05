@@ -2,6 +2,9 @@
 title: "Infosec 101 para Activistas"
 author: "Drew Bjorn, Mark Sherman, Ph.D., y Blake Skinner"
 ---
+Sitio web: [https://infosecforactivists.org/](https://infosecforactivists.org/)
+
+Archivo digital (PDF): [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
 
 # Introducción
 América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos] (https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
@@ -34,6 +37,10 @@ lleguen a su empleo o a la puerta de su casa. Este documento es una guía que le
 el control sobre su información confidencial. 
 
 # ${l10n.es.ToolsToUse}
+
+Herramientos para usar:
+
+¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras)
 
 <!-- Table needs translation -->
 
@@ -254,12 +261,10 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
     * Configuración → Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
 
 #### [es] AirDrop
-[es] Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
-of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
-enabled, your phone could leak personally identifiable information (PII) such as your phone number
-and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+[es] A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop] (https://support.apple.com/en-us/HT204144) . Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato.] (https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/) 
+
+Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
  
-We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
 <!-- End Collapse panel: iOS -->
 
 <!-- Start Collapse panel: Android -->
@@ -421,10 +426,10 @@ ACLU trata sobre las continuas amenazas de los derechos de los protestantes ongo
 protesters' rights. ¡Para seguir las noticias del mundo de la privacidad y la libertad de expresión,
 ¡visita los recursos abajo!
 
-Techdirt
-Wired: Privacy
-Arstechnica
-EFF Deeplinks
+* [Techdirt](https://www.techdirt.com)
+* [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
+* [Arstechnica](https://arstechnica.com)
+* [EFF Deeplinks](https://www.eff.org/deeplinks)
  
 ## Reconocimientos
 Blake, Drew, y Mark quieren agradecerles a Clare, Deb, Moe, Sasha, Stacy, y Vincent por su
@@ -432,7 +437,7 @@ asistencia con este proyecto. También le agradecemos a nuestras mascotas, Lacey
 por su apoyo en estos tiempos difíciles. 
  
 ## Sobre el Autor
-Drew pProvee administración de proyectos y revisión lingüística para este medio. Cuando Drew no está
+Drew provee administración de proyectos y revisión lingüística para este medio. Cuando Drew no está
 enardeciendo a la multitud, le gusta pasear en bicicleta, hornear y leer. 
 Mark es un profesor de informática y se enfoca en la enseñanza informática, la democratización de
 computación y en recursos de ciudadanía digital. Cuando no estáesta trabajando para atajar un Elíseo
@@ -440,3 +445,11 @@ social, Mark disfruta de D&D, monatr en bicicleta, manejar, cocinar y sus perros
 Blake es el Principal Desarrollador Móvil, ofrece conocimientos técnicos y un amor malsano de puns y
 Git a este proyecto. Cuando no estáesta atormentando el idioma inglés Ingles, éel disfruta de
 cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lacey.
+
+---
+
+[Envíenos sugerencias:] (https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
+(Este enlace usa un formulario de Google. No ponga información personal.)
+
+![GitHub Logo](media/GitHub-Mark-32px.png) 
+¿Ve un error, o quiere ayudarnos mejorar este document? Contribuya al proyecto en [Github](https://github.com/InfosecForActivistsTeam/infosec-activists)

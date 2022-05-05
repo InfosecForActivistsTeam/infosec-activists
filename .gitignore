@@ -38,4 +38,6 @@ Rplots.pdf
 
 ## Hugo
 /public
+/docs
 /resources/_gen
+.hugo_build.lock

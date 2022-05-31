@@ -8,5 +8,6 @@
     ],
     "editor.rulers": [
         100
-    ]
+    ],
+    "ltex.language": "auto"
 }

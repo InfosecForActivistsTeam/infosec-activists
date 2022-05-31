@@ -234,12 +234,13 @@ Below we have specific steps to prepare your iPhone or Android. The goals for bo
 are explained above. The buttons to press, however, are quite different between the two. Select 
 iPhone or Android below to see the instructions. 
 
+{{< tabs >}}
+{{< tab "iPhone" >}}
 ### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
 your iPhone easier. Click below to see steps to make your phone reasonably secure for an action. 
 
-{{< details "iPhone Setup Instructions" >}}
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
 	* *Settings → General → AirDrop*, select “Receiving Off”
 * Disable your GPS receiver by turning off Location Services.
@@ -257,14 +258,14 @@ your iPhone easier. Click below to see steps to make your phone reasonably secur
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
 		  the sliders to off.   
-{{< /details >}}
+{{< /tab >}}
 
+{{< tab "Android" >}}
 ### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Click below to see steps to make your phone generally secure for the day of an action.
 
-{{< details "Android Setup Instructions" >}}
 * Disable your GPS receiver by turning off Location Services.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
 	  for Location Services (they often look like a satellite).
@@ -291,8 +292,8 @@ Click below to see steps to make your phone generally secure for the day of an a
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-{{< /details >}}
-
+{{< /tab >}}
+{{< /tabs >}}
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this
 document, “private” means only accessible to you, and not to anyone else without your permission.

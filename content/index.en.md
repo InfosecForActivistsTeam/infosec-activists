@@ -267,8 +267,6 @@ your iPhone easier. Following these steps will make your phone reasonably secure
 </div>
 </div>
 
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
-
 <div class="panel panel-default">
 <div class="panel-heading" >
 <div class="panel-title">
@@ -305,7 +303,6 @@ Below are steps to make your phone generally secure for the day of an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
 
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this

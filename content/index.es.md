@@ -205,6 +205,11 @@ algo que solo se necesita hacer una vez.
 Si su dispositivo Android se envió con [Android 6 o una versión anterior] (https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
 utilizar esta función. 
 
+## [es] AirDrop
+[es] A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop] (https://support.apple.com/en-us/HT204144) . Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato.] (https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/) 
+
+Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
+
 ## Copias de seguridad del teléfono
 
 Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
@@ -231,6 +236,7 @@ versión 9 o más reciente, [esta función se activa automáticamente] (https://
 bloqueo protegida con un PIN, patrón o código de acceso. 
 **No utilice copias de seguridad en la nube
 de Android anteriores a la versión 9._** 
+
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
 <!-- End Retranslation -->
@@ -259,11 +265,6 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
     * Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
 * Desactivar Touch ID y Face ID
     * Configuración → Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
-
-#### [es] AirDrop
-[es] A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop] (https://support.apple.com/en-us/HT204144) . Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato.] (https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/) 
-
-Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
  
 <!-- End Collapse panel: iOS -->
 

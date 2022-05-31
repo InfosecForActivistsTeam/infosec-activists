@@ -199,6 +199,14 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
+## AirDrop
+Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
+of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
+enabled, your phone could leak personally identifiable information (PII) such as your phone number
+and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
+ 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
+
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
 and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that 
@@ -255,17 +263,7 @@ your iPhone easier. Following these steps will make your phone reasonably secure
 		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.  
-  
-  
-#### AirDrop
-Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
-of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
-enabled, your phone could leak personally identifiable information (PII) such as your phone number
-and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
- 
-We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone.  
-
+		  the sliders to off.   
 </div>
 </div>
 
@@ -275,11 +273,7 @@ We recommend keeping AirDrop disabled at all times when near or at an action, an
 <div class="panel-heading" >
 <div class="panel-title">
 
-### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
-
-</div>
-</div>
-<div class="panel-body collapse" id="collapseAndroid">
+### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
 Below are steps to make your phone generally secure for the day of an action.
@@ -310,8 +304,6 @@ Below are steps to make your phone generally secure for the day of an action.
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-
-</div>
 
 <!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
 

@@ -234,18 +234,12 @@ Below we have specific steps to prepare your iPhone or Android. The goals for bo
 are explained above. The buttons to press, however, are quite different between the two. Select 
 iPhone or Android below to see the instructions. 
 
-<div class="panel panel-default">
-<div class="panel-heading" >
-<div class="panel-title">
-
-### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
-
-</div>
-</div>
-<div class="panel-body collapse" id="collapseIphone">
+{{< tabs >}}
+{{< tab "iPhone" >}}
+### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
-your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
+your iPhone easier. These steps to make your phone reasonably secure for an action. 
 
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
 	* *Settings → General → AirDrop*, select “Receiving Off”
@@ -264,17 +258,13 @@ your iPhone easier. Following these steps will make your phone reasonably secure
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
 		  the sliders to off.   
-</div>
-</div>
+{{< /tab >}}
 
-<div class="panel panel-default">
-<div class="panel-heading" >
-<div class="panel-title">
-
+{{< tab "Android" >}}
 ### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
-Below are steps to make your phone generally secure for the day of an action.
+Click below to see steps to make your phone generally secure for the day of an action.
 
 * Disable your GPS receiver by turning off Location Services.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
@@ -302,8 +292,8 @@ Below are steps to make your phone generally secure for the day of an action.
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-
-
+{{< /tab >}}
+{{< /tabs >}}
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this
 document, “private” means only accessible to you, and not to anyone else without your permission.

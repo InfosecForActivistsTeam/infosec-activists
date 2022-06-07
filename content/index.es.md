@@ -241,7 +241,8 @@ de Android anteriores a la versión 9._**
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
 <!-- End Retranslation -->
 
-<!-- Start Collapse panel: iOS -->
+{{< tabs >}}
+{{< tab "iPhone" >}}
 ### Configuración de iPhone 
 
 Apple le ha dado prioridad a la seguridad en los últimos añosanos y han proveído características
@@ -265,10 +266,9 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
     * Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
 * Desactivar Touch ID y Face ID
     * Configuración → Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
- 
-<!-- End Collapse panel: iOS -->
+{{< /tab >}}
 
-<!-- Start Collapse panel: Android -->
+{{< tab "Android" >}}
 ### Configuración de Android
 Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu teléfono y hacerlo usable en varias situaciones. A continuación, presentamos pasos para asegurar tu móvil para una marcha. 
 
@@ -289,7 +289,8 @@ Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente.
 Marque la opción “Bloquear con tecla encendido” 
 Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
 Vaya a configuración → Pantalla y brillo → Avanzado → Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
-<!-- End Collapse panel: Android -->
+{{< /tab >}}
+{{< /tabs >}}
 
 # Ideas de Seguridad 
 Esta sección tratasección se trata de mantener su información privada en el resto de su vida. En

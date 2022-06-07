@@ -36,9 +36,7 @@ se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y a
 lleguen a su empleo o a la puerta de su casa. Este documento es una guía que le ayudará a mantener
 el control sobre su información confidencial. 
 
-# ${l10n.es.ToolsToUse}
-
-Herramientos para usar:
+# Herramientos para usar
 
 ¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras)
 
@@ -77,7 +75,6 @@ herramientas a las que no está dispuesto a renunciar, le recomendamos que inves
 de privacidad y lo que puede hacer para proteger sus datos. 
 
 # Cosas que Debe Saber 
-
 Su teléfono es una mina de oro de datos, llena de información de rastreo e identificación. Esto
 incluye dónde ha estado, qué ha dicho y con quién se ha comunicado. Esta sección le ayudará a
 mantener esos datos seguros mientras asiste a una protesta, protegiéndose a usted y a quienes lo

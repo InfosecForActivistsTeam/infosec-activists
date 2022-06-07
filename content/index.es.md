@@ -241,13 +241,14 @@ de Android anteriores a la versión 9._**
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
 <!-- End Retranslation -->
 
+{{< tabs >}}
+{{< tab "iPhone" >}}
 ### Configuración de iPhone 
 
 Apple le ha dado prioridad a la seguridad en los últimos añosanos y han proveído características
 específicasespecificas para el iPhone las cuales facilitan la seguridad de su móvil. Estos pasos
 pueden ser usados para asegurar razonablemente su móvil para una marcha.
 
-{{< details "Instrucciones para iPhone" >}}
 * [es] Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
   * [es] *Settings → General → AirDrop*, select “Receiving Off”
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
@@ -265,12 +266,12 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
     * Presiona and mantenga pulsado el botón de encendido y el botón de volumen hasta que el Emergencia SOS de Emergencia aparezca en la pantalla de bloqueo. Face ID y Touch ID serán desactivados hasta que el código sea ingresado.
 * Desactivar Touch ID y Face ID
     * Configuración → Touch ID y Código, debajo de la sección “Usa Touch ID para:”, arrastra todos los controles deslizantes a la derecha para apagarlos.
-{{< /details >}} 
+{{< /tab >}}
 
+{{< tab "Android" >}}
 ### Configuración de Android
 Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu teléfono y hacerlo usable en varias situaciones. A continuación, presentamos pasos para asegurar tu móvil para una marcha. 
 
-{{< details "Instrucciones para Android" >}}
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
   * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
 Si no tiene un botón al bajar el panel de notificaciones, entonces vaya a 
@@ -288,7 +289,8 @@ Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente.
 Marque la opción “Bloquear con tecla encendido” 
 Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
 Vaya a configuración → Pantalla y brillo → Avanzado → Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
-{{< /details >}}
+{{< /tab >}}
+{{< /tabs >}}
 
 # Ideas de Seguridad 
 Esta sección tratasección se trata de mantener su información privada en el resto de su vida. En

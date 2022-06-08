@@ -24,3 +24,7 @@ defaultContentLanguage = 'en'
     languageNameShort = 'Es'
     title = 'Infosec para Activistas'
     weight = 2
+
+[module]
+[[module.imports]]
+  path = "github.com/alex-shpak/hugo-book"

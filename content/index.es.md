@@ -7,20 +7,23 @@ Sitio web: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 Archivo digital (PDF): [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
 
 # Introducción
-América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos] (https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
-levantamientos indígenas] (https://themihs.info/calusa-period/) que ocurrieron antes de la fundación de los Estados Unidos. En este día, el
-activismo en los Estados Unidos continúa siendo una cuestión crucial. Las manifestaciones se han
-convertido en una herramienta esencial utilizada por los activistas para crear conciencia y lograr
-cambios a nivel institucional. Dicho esto, desafiar las estructuras de poder existentes puede tener
-[un factor] (https://www.icnl.org/usprotestlawtracker/) de [riesgo] (https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country). Por ejemplo, la publicidad puede resultar en acoso, arresto o en [la divulgación
-de información privada] (https://www.muo.com/what-is-doxxing/). 
+América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
+levantamientos indígenas](https://themihs.info/calusa-period/) que ocurrieron antes de la fundación
+de los Estados Unidos. En este día, el activismo en los Estados Unidos continúa siendo una cuestión
+crucial. Las manifestaciones se han convertido en una herramienta esencial utilizada por los
+activistas para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las
+estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/)
+de [riesgo](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country).
+Por ejemplo, la publicidad puede resultar en acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/). 
 
-Su [información personal] (https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) es más accesible que nunca. En este documento, hablaremos sobre cómo los
-grupos hostiles pueden utilizar información en contra de los activistas y lo que puede hacer usted
-para protegerse a sí mismo y a los demás. Este documento se enfoca en la seguridad digital y en la
-seguridad de la información para los activistas que tienen requisitos y riesgos especiales. Otros
-han escrito sobre [la seguridad durante las manifestaciones] (https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0) en [sentido general] (https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html) al igual que la
-[seguridad digital] (https://www.wikihow.com/Protect-Personal-Information) diaria.
+Su [información personal](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6)
+es más accesible que nunca. En este documento, hablaremos sobre cómo los grupos hostiles pueden
+utilizar información en contra de los activistas y lo que puede hacer usted para protegerse a sí
+mismo y a los demás. Este documento se enfoca en la seguridad digital y en la seguridad de la
+información para los activistas que tienen requisitos y riesgos especiales. Otros han escrito sobre
+[la seguridad durante las manifestaciones](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
+en [sentido general](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html)
+al igual que la [seguridad digital](https://www.wikihow.com/Protect-Personal-Information) diaria.
 
 **Si tiene prisa, comience con la tabla de herramientas que se encuentra abajo.** ¡Usted encontrará
 información que puede usar de inmediato! También hemos incluido sugerencias y conceptos para
@@ -36,9 +39,7 @@ se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y a
 lleguen a su empleo o a la puerta de su casa. Este documento es una guía que le ayudará a mantener
 el control sobre su información confidencial. 
 
-# ${l10n.es.ToolsToUse}
-
-Herramientos para usar:
+# Herramientos para usar
 
 ¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras)
 
@@ -52,14 +53,14 @@ es simple: evite las herramientas que recopilan su información; la almacenan fu
 la dejan expuesta públicamente. El más desafiante probablemente sea Google Maps, el cual aconsejamos
 que evite mientras asiste a una marcha. Google Maps siempre rastrea a sus usuarios y Google mantiene
 estos datos de rastreo en detalle para siempre. Todos estos datos pueden ser [entregados a las
-autoridades] (https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been). [La policía y otras agencias] (https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) pueden usar los datos de alta precisión de Google para
+autoridades](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been). [La policía y otras agencias](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) pueden usar los datos de alta precisión de Google para
 ubicar a una persona en una marcha. Aún más peligroso, pueden ubicar a una persona en áreas
 específicas dentro de una marcha o cerca de actos criminales, a unos pocos pies y sin perder tiempo.
-Nuestras sugerencias alternativas, [Apple Maps] (https://maps.apple.com/go) y [DuckDuckGo Maps] (https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), no rastrean a sus usuarios de esta
+Nuestras sugerencias alternativas, [Apple Maps](https://maps.apple.com/go) y [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), no rastrean a sus usuarios de esta
 manera. También hacen todo lo posible por anonimizar los datos recopilados por los proveedores de
 mapas.
 
-Otra herramienta popular [que no recomendamos] (https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) es Telegram, ya que tiene un historial de [problemas de
+Otra herramienta popular [que no recomendamos](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) es Telegram, ya que tiene un historial de [problemas de
 seguridad](https://www.wired.com/story/telegram-encryption-whatsapp-settings/) . Aunque admite encriptación de extremo a extremo para mensajes entre personas (consulte
 [Mensajería con encriptación](#mensajería-con-Encriptación) abajo), no aplica esta seguridad a los
 mensajes grupales. Los mensajes grupales pueden ser reportados como "spam" o "abuso", y el personal
@@ -67,9 +68,9 @@ y los contratistas de Telegram pueden revisar el contenido completo de los mensa
 datos se pueden compartir con las autoridades. Para empeorar las cosas, la técnica de encriptación
 completa no está activa para todas las conversaciones por defecto.
 
-WhatsApp, aunque es popular en algunos círculos de activistas, [tiene problemas similares] (https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/) y también
-recomendamos no utilizar ese servicio. Recomendamos [Signal,] (https://signal.org/en/) que se construyó desde el principio para
-la seguridad personal.
+WhatsApp, aunque es popular en algunos círculos de activistas,[tiene problemas similares](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/) y también
+recomendamos no utilizar ese servicio. Recomendamos [Signal,](https://signal.org/en/) que se
+construyó desde el principio para la seguridad personal.
 
 Un razonamiento similar se aplica a todas las recomendaciones que hacemos en este documento. Si lo
 usa, probablemente hayamos investigado sus características de seguridad para este proyecto. Si hay
@@ -97,22 +98,22 @@ lugares donde puede reunirse con sus amigos antes de ir a la protesta.
 ## Antes 
 - No se marque a sí mismo como "Asistire" en Facebook.
   - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergency SOS] (https://support.apple.com/en-us/HT208076) (iOS) y [el modo Lockdown] (https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
+- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
 y las sesiones de navegación privada.
 - Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
 que todas sus aplicaciones estén actualizadas.
-  - Verifique y actualice su versión de [Android] (https://support.google.com/android/answer/7680439) o [iOS] (https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
+  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439) o [iOS](https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
-- Configure una cuenta de [Signal.] (https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
-un nuevo número de teléfono con [Google Voice] (https://voice.google.com) y registrarlo en Signal.
+- Configure una cuenta de [Signal.](https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
+un nuevo número de teléfono con [Google Voice](https://voice.google.com) y registrarlo en Signal.
 - Encuentre un amigo (¡o varios!) con quien ir y conéctese a través de Signal para discutir planes.
 
 ## Durante
 - Utilice un compañero de protesta.
 - Confirme los planes de la reunión con sus compañeros de protesta antes de partir hacia el evento.
   - Una vez que se reúnan, acuerden un lugar alternativo en caso de que se separen.
-- Utilice [Apple Maps] (https://maps.apple.com/go) o [DuckDuckGo Maps] (https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) si necesita indicaciones para llegar a la ubicación de la
+- Utilice [Apple Maps](https://maps.apple.com/go) o [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) si necesita indicaciones para llegar a la ubicación de la
 protesta.
   - Si puede, imprima las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo
 fuera de línea y no se podrá utilizar sin una conexión a Internet.
@@ -202,11 +203,11 @@ Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedir
 Activar el cifrado tardará unas horas y su dispositivo deberá estar conectado a su cargador. Esto es
 algo que solo se necesita hacer una vez. 
 
-Si su dispositivo Android se envió con [Android 6 o una versión anterior] (https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
+Si su dispositivo Android se envió con [Android 6 o una versión anterior](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
 utilizar esta función. 
 
-## [es] AirDrop
-[es] A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop] (https://support.apple.com/en-us/HT204144) . Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato.] (https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/) 
+## AirDrop
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/en-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
 
 Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
 
@@ -215,8 +216,8 @@ Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acci
 Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
 seguridad integradas en la nube de iOS y Android representan un problema para los activistas. Las
 copias de seguridad realizadas con iCloud están encriptadas de tal manera que los empleados de Apple
-pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI] (https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia
-de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más] (https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las
+pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia
+de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más](https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las
 autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se
 almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que
 soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono.
@@ -227,15 +228,14 @@ comodidad.
 **No recomendamos el uso de copias de seguridad de iCloud.** 
 
 <!-- Different in the english version, needs to be retranslated -->
-_[Android utiliza Google Drive] (https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
+_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
 claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
 contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
 a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html)  sin la contraseña del usuario. Si su teléfono usa la
-versión 9 o más reciente, [esta función se activa automáticamente] (https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
+versión 9 o más reciente, [esta función se activa automáticamente](https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
 bloqueo protegida con un PIN, patrón o código de acceso. 
-**No utilice copias de seguridad en la nube
-de Android anteriores a la versión 9._** 
+**No utilice copias de seguridad en la nube de Android anteriores a la versión 9.** 
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
@@ -450,7 +450,7 @@ cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lac
 
 ---
 
-[Envíenos sugerencias:] (https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
+[Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 
 ![GitHub Logo](media/GitHub-Mark-32px.png) 

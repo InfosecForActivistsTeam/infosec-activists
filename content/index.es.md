@@ -206,8 +206,8 @@ algo que solo se necesita hacer una vez.
 Si su dispositivo Android se envió con [Android 6 o una versión anterior](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
 utilizar esta función. 
 
-## [es] AirDrop
-[es] A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/en-us/HT204144) . Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+## AirDrop
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/en-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
 
 Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
 
@@ -235,8 +235,7 @@ en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encr
 a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html)  sin la contraseña del usuario. Si su teléfono usa la
 versión 9 o más reciente, [esta función se activa automáticamente](https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
 bloqueo protegida con un PIN, patrón o código de acceso. 
-**No utilice copias de seguridad en la nube
-de Android anteriores a la versión 9._** 
+**No utilice copias de seguridad en la nube de Android anteriores a la versión 9.** 
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 

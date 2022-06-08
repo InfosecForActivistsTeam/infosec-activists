@@ -239,7 +239,7 @@ iPhone or Android below to see the instructions.
 ### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
-your iPhone easier. These steps to make your phone reasonably secure for an action. 
+your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
 
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
 	* *Settings → General → AirDrop*, select “Receiving Off”

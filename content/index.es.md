@@ -273,22 +273,22 @@ pueden ser usados para asegurar razonablemente su móvil para una marcha.
 Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu teléfono y hacerlo usable en varias situaciones. A continuación, presentamos pasos para asegurar tu móvil para una marcha. 
 
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
-  * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
-Si no tiene un botón al bajar el panel de notificaciones, entonces vaya a 
-Ajustes → Localización y apagar “Utilizar Localización” 
-Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
-Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Modo de Vuelo (Suele verse como un avión). Asegúrese que el Modoque Modo de vuelo estéeste encendido.
-Si usted no tiene el botón al bajar el panel de notificaciones, vaya a Ajustes → Red e Internet y encienda “Modo de Vuelo”
-Usted puede encender su data móvil sin dejar Modo de vuelo, si lo necesita. Presione el botón Data móvil en el panel de notificaciones después de activar el Modoactivar Modo de Vuelo. Esos dos botones se encuentran, frecuentemente, a la par.
-Asegúrese que Bluetooth estéeste verdaderamente apagado. Android puedepuedo ser que lo mantenga encendido si los dispositivossi dispositivos de bluetooth están conectados. El botón en el panel de notificaciones debe ser gris/ sin color para indicar que estáesta apagado. 
-Instalación de Pantalla de bloqueo
-Vaya a Ajustes → Seguridad → Pantalla de Bloqueo y seleccionar PIN o contraseña 
-Se le dará la opción de decidir si quiere que las notificaciones sean mostradas en la pantalla en lo que su móvil estáesta bloqueado. La opción másmas segura es “Nunca”. Si eso no le funciona, escoja “ocultar notificaciones sensibles”
-Toque el icono de ajustes para abrir el menú configuración:
-Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
-Marque la opción “Bloquear con tecla encendido” 
-Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
-Vaya a configuración → Pantalla y brillo → Avanzado → Bloqueo Automático y escoja la opción más corta posible, normalmente 15 segundos. 
+    * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Servicios de Localización (suelen verse como un satélite”)
+    * Si no tiene un botón al bajar el panel de notificaciones, entonces vaya a 
+*Ajustes → Localización* y apagar “Utilizar Localización” 
+* Apagar Bluetooth, Wi-fi y el portador de radio telefónico activando modo de vuelo
+    * Deslice hacia abajo desdedese la parte superior de la pantalla del dispositivo. Puede haber un control deslizante para Modo de Vuelo (Suele verse como un avión). Asegúrese que el Modoque Modo de vuelo estéeste encendido.
+    * Si usted no tiene el botón al bajar el panel de notificaciones, vaya a *Ajustes → Red e Internet* y encienda “Modo de Vuelo.”
+    * Usted puede encender su data móvil sin dejar Modo de vuelo, si lo necesita. Presione el botón Data móvil en el panel de notificaciones después de activar el Modoactivar Modo de Vuelo. Esos dos botones se encuentran, frecuentemente, a la par.
+    * Asegúrese que Bluetooth estéeste verdaderamente apagado. Android puedepuedo ser que lo mantenga encendido si los dispositivossi dispositivos de bluetooth están conectados. El botón en el panel de notificaciones debe ser gris/ sin color para indicar que estáesta apagado. 
+* Instalación de Pantalla de bloqueo
+	* Vaya a *Ajustes → Seguridad → Pantalla de Bloqueo* y seleccionar PIN o contraseña 
+    * Se le dará la opción de decidir si quiere que las notificaciones sean mostradas en la pantalla en lo que su móvil estáesta bloqueado. La opción másmas segura es “Nunca”. Si eso no le funciona, escoja “ocultar notificaciones sensibles.”
+	* Toque el icono de ajustes para abrir el menú configuración:
+		* Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
+		* Marque la opción “Bloquear con tecla encendido” 
+	* Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
+* Vaya a *configuración → Pantalla y brillo → Avanzado → Bloqueo Automático* y escoja la opción más corta posible, normalmente 15 segundos. 
 {{< /tab >}}
 {{< /tabs >}}
 

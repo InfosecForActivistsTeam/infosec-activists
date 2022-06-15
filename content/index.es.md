@@ -453,5 +453,5 @@ cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lac
 [Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 
-![GitHub Logo](media/GitHub-Mark-32px.png) 
+![GitHub Logo](../media/GitHub-Mark-32px.png) 
 ¿Ve un error, o quiere ayudarnos mejorar este document? Contribuya al proyecto en [Github](https://github.com/InfosecForActivistsTeam/infosec-activists)

@@ -1,4 +1,4 @@
-module infosec-for-activists
+module github.com/InfosecForActivistsTeam/infosec-activists
 
 go 1.17
 

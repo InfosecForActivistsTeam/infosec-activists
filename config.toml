@@ -1,5 +1,4 @@
 title = "Infosec 101 for Activists"
-theme = "book"
 relativeURLs = true
 publishDir = "docs"
 
@@ -28,3 +27,4 @@ defaultContentLanguage = 'en'
 [module]
 [[module.imports]]
   path = "github.com/alex-shpak/hugo-book"
+  disable = false

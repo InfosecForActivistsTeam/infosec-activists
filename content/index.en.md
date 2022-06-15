@@ -1,23 +1,7 @@
 ---
 title: "Infosec 101 for Activists"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
-date: 'Updated `r format(Sys.Date(), "%B %d, %Y")`'
-output:
-  html_document:
-    toc: false
-    self_contained: true
-    anchor_sections: false
-    includes:
-      before_body: styles.part.html
-  pdf_document: default
-urlcolor: blue
-linkcolor: blue
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
-
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
 
 PDF: [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
@@ -28,8 +12,7 @@ America has a strong tradition of activism, dating back to [slave revolts](https
 United States. Today, activism in the US remains critical. Street protests are an essential tool
 that activists use to raise awareness and push for institutional change.  That being said,
 challenging existing power structures carries an [element](https://www.icnl.org/usprotestlawtracker/)
-of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country)
-- exposure can lead to harassment, arrest, or [doxxing](https://www.muo.com/what-is-doxxing/).
+of [risk](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country) - exposure can lead to harassment, arrest, or [doxxing](https://www.muo.com/what-is-doxxing/).
 
 Your [personal information](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) is more accessible than
 it has ever been in the past. In this document, we’ll talk about how hostile groups can leverage
@@ -84,7 +67,7 @@ track their users in this way. They also go out of their way to anonymize the da
 Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group messages
-may be reported as "spam" or "abuse", and the full contents of messages may be subjected to review
+may be reported as "spam" or "abuse", and the full contents of messages may be subject to review
 by Telegram staff and contractors. That data can then be provided to law enforcement. To make things
 worse, the full encryption technique is not active for all conversations by default.  
 
@@ -216,6 +199,14 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
+## AirDrop
+Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
+of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
+enabled, your phone could leak personally identifiable information (PII) such as your phone number
+and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
+ 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
+
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
 and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that 
@@ -243,15 +234,9 @@ Below we have specific steps to prepare your iPhone or Android. The goals for bo
 are explained above. The buttons to press, however, are quite different between the two. Select 
 iPhone or Android below to see the instructions. 
 
-<div class="panel panel-default">
-<div class="panel-heading" >
-<div class="panel-title">
-
-### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseIphone">iPhone Setup</a>
-
-</div>
-</div>
-<div class="panel-body collapse" id="collapseIphone">
+{{< tabs >}}
+{{< tab "iPhone" >}}
+### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
 your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
@@ -272,34 +257,14 @@ your iPhone easier. Following these steps will make your phone reasonably secure
 		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
 	* Disable Touch ID and Face ID
 		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.  
-  
-  
-#### AirDrop
-Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
-of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
-enabled, your phone could leak personally identifiable information (PII) such as your phone number
-and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
- 
-We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone.  
+		  the sliders to off.   
+{{< /tab >}}
 
-</div>
-</div>
-
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
-
-<div class="panel panel-default">
-<div class="panel-heading" >
-<div class="panel-title">
-
-### <a class="collapsePanelHeader" role="button" data-toggle="collapse" data-target="#collapseAndroid">Android Setup</a>
-
-</div>
-</div>
-<div class="panel-body collapse" id="collapseAndroid">
+{{< tab "Android" >}}
+### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
-Below are steps to make your phone generally secure for the day of an action.
+Click below to see steps to make your phone generally secure for the day of an action.
 
 * Disable your GPS receiver by turning off Location Services.
 	* Pull down the notification panel from the top of the screen. There may be a toggle button
@@ -327,11 +292,8 @@ Below are steps to make your phone generally secure for the day of an action.
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-
-</div>
-
-<!--- For additional protection tips, see our extended document. (link to be added upon publication) -->
-
+{{< /tab >}}
+{{< /tabs >}}
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this
 document, “private” means only accessible to you, and not to anyone else without your permission.
@@ -368,7 +330,7 @@ app on your phone, an email, or text message. A one-time-use code is sent to you
 enter into the service to prove you control that second factor. Not all channels are equal in
 their security, but **any 2FA is worlds better than none at all.**  
 
-When choosing a 2FA method, a authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
+When choosing a 2FA method, an authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
 between convenience and security. Google Authenticator is free, and available from both the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), and [Apple's App Store](https://apps.apple.com/us/app/google-authenticator/id388497605).
 
 If a more secure option is desired, security keys such as the [Yubikey](https://www.yubico.com/products/) can
@@ -424,8 +386,6 @@ so that nobody familiar with your life could guess it and force a password reset
 consent. For instance, for the question “Where did you attend school in the sixth grade?” you
 could instead respond with your favorite cartoon character from the sixth grade.
 
-\newpage
-
 # Other Tips
 These tips don't just protect you, but protect the safety and privacy of others as well!
 
@@ -475,11 +435,5 @@ beer, & mead, and spending time with his dog, Lacey.
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
   
-![](img/GitHub-Mark-32px.png)  
+![GitHub Logo](media/GitHub-Mark-32px.png)  
 See a mistake, or want to help us improve this document? Contribute to the project on [Github](https://github.com/InfosecForActivistsTeam/infosec-activists).  
-  
-\begin{flushleft}
-  \includegraphics[]{img/by-nc-sa-80x15.png}
-\end{flushleft}
-
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="img/by-nc-sa-80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/Text" property="dct:title" rel="dct:type">Infosec 101 for Activists</span> by <a xmlns:cc="http://creativecommons.org/ns#" href="http://infosecforactivists.org/" property="cc:attributionName" rel="cc:attributionURL">Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner</a> is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

@@ -1,13 +1,11 @@
 title = "Infosec 101 for Activists"
-theme = "book"
 relativeURLs = true
 publishDir = "docs"
 
 # provides 'Last Modified' date
 enableGitInfo = true
 
-[markup]
-  [markup.tableOfContents]
+[markup]  [markup.tableOfContents]
     startLevel = 1
     endLevel = 2
 

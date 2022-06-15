@@ -28,12 +28,16 @@ brew install hugo
 git clone git@github.com:InfosecForActivistsTeam/infosec-activists.git
 cd infosec-activists
 ```
+You'll need to initialize hugo's modules, which is where the site theme comes from:
+```
+hugo mod get -u
+```
 Open the `infosec-activists` folder using VSCode or VSCodium, and there you have it!
 
 ### Render the Site
 There are two ways to render the sources into a website. 
 
-The first is a one-shot command that will render it, put it in the `public` folder, and then quit. Just run `hugo` with no other arguments. Really!
+The first is a one-shot command that will render it, put it in the `public` folder, and then quit. Just run `hugo` with no other arguments. Really! We use this feature to render the site the we put on the internet.
 ```
 hugo
 ```

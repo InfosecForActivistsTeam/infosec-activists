@@ -19,7 +19,7 @@ defaultContentLanguage = 'en'
     weight = 1
 
   [languages.es]
-    languageName = 'Spanish'
+    languageName = 'Español'
     languageNameShort = 'Es'
     title = 'Infosec para Activistas'
     weight = 2

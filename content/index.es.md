@@ -107,12 +107,12 @@ lugares donde puede reunirse con sus amigos antes de ir a la protesta.
 ## Antes 
 - No se marque a sí mismo como "Asistire" en Facebook.
   - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
+- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergencia SOS](https://support.apple.com/es-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922?hl=es-419#lockdown) (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
 y las sesiones de navegación privada.
 - Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
 que todas sus aplicaciones estén actualizadas.
-  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439) o [iOS](https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
+  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439?hl=es-419) o [iOS](https://support.apple.com/es-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
 - Configure una cuenta de [Signal.](https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
 un nuevo número de teléfono con [Google Voice](https://voice.google.com) y registrarlo en Signal.
@@ -205,7 +205,7 @@ todo el contenido será ilegible sin que su código de desbloqueo específico lo
 teléfono específico. 
 
 Para usar la encriptación de disco completo en un iPhone, simplemente configure un código de acceso
-a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función.
+a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función. 
 
 Para ver si su Android tiene la encriptación disponible y activada, puede **ir a Configuración, elegir
 Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedirá que active el cifrado.
@@ -216,7 +216,7 @@ Si su dispositivo Android se envió con [Android 6 o una versión anterior](http
 utilizar esta función. 
 
 ## AirDrop
-A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/en-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
 
 Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
 
@@ -258,7 +258,7 @@ Apple le ha dado prioridad a la seguridad en los últimos añosanos y han prove�
 específicasespecificas para el iPhone las cuales facilitan la seguridad de su móvil. Estos pasos
 pueden ser usados para asegurar razonablemente su móvil para una marcha.
 
-* [es] Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
+* [es] Set AirDrop to [Receiving Off](https://support.apple.com/es-us/HT204144#setoptions)
   * [es] *Settings → General → AirDrop*, select “Receiving Off”
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
   * Aun en modo de vuelo, iOS mantendrá su receptor de GPS activo a menos que haga esto. 

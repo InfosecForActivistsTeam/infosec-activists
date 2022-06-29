@@ -291,12 +291,12 @@ Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu t
     * Usted puede encender su data móvil sin dejar Modo de vuelo, si lo necesita. Presione el botón Data móvil en el panel de notificaciones después de activar el Modoactivar Modo de Vuelo. Esos dos botones se encuentran, frecuentemente, a la par.
     * Asegúrese que Bluetooth estéeste verdaderamente apagado. Android puedepuedo ser que lo mantenga encendido si los dispositivossi dispositivos de bluetooth están conectados. El botón en el panel de notificaciones debe ser gris/ sin color para indicar que estáesta apagado. 
 * Instalación de Pantalla de bloqueo
-	* Vaya a *Ajustes → Seguridad → Pantalla de Bloqueo* y seleccionar PIN o contraseña 
+  * Vaya a *Ajustes → Seguridad → Pantalla de Bloqueo* y seleccionar PIN o contraseña 
     * Se le dará la opción de decidir si quiere que las notificaciones sean mostradas en la pantalla en lo que su móvil estáesta bloqueado. La opción másmas segura es “Nunca”. Si eso no le funciona, escoja “ocultar notificaciones sensibles.”
-	* Toque el icono de ajustes para abrir el menú configuración:
-		* Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
-		* Marque la opción “Bloquear con tecla encendido” 
-	* Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
+  * Toque el icono de ajustes para abrir el menú configuración:
+    * Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
+    * Marque la opción “Bloquear con tecla encendido” 
+  * Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
 * Vaya a *configuración → Pantalla y brillo → Avanzado → Bloqueo Automático* y escoja la opción más corta posible, normalmente 15 segundos. 
 {{< /tab >}}
 {{< /tabs >}}

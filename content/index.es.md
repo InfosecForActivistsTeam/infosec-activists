@@ -41,7 +41,7 @@ el control sobre su información confidencial.
 
 # Herramientos para usar
 
-¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras)
+¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras.)
 
 | Herramientos                                                                        	| Uso                             	| Lo que reemplaza, o lo que hace                                                                                                                 	| Lo que cuesta                                                 	|
 |-------------------------------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|

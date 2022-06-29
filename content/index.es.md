@@ -114,7 +114,7 @@ y las sesiones de navegación privada.
 que todas sus aplicaciones estén actualizadas.
   - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439?hl=es-419) o [iOS](https://support.apple.com/es-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
-- Configure una cuenta de [Signal.](https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
+- Configure una cuenta de [Signal.](https://signal.org/es/)  Si no desea utilizar su número de teléfono personal, puede crear
 un nuevo número de teléfono con [Google Voice](https://voice.google.com) y registrarlo en Signal.
 - Encuentre un amigo (¡o varios!) con quien ir y conéctese a través de Signal para discutir planes.
 
@@ -236,8 +236,7 @@ de desbloqueo sean accesibles para las autoridades es potencialmente mayor que l
 comodidad.
 **No recomendamos el uso de copias de seguridad de iCloud.** 
 
-<!-- Different in the english version, needs to be retranslated -->
-_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
+_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
 claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
 contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
@@ -248,7 +247,6 @@ bloqueo protegida con un PIN, patrón o código de acceso.
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
-<!-- End Retranslation -->
 
 {{< tabs >}}
 {{< tab "iPhone" >}}

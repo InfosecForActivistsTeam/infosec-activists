@@ -2,53 +2,53 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://preview.infosecforactivists.org/categories/</loc>
+    <loc>/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://preview.infosecforactivists.org/es/categories/"
+                href="/es/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://preview.infosecforactivists.org/categories/"
+                href="/categories/"
                 />
   </url><url>
-    <loc>https://preview.infosecforactivists.org/</loc>
-    <lastmod>2022-06-07T19:43:30-04:00</lastmod>
+    <loc>/</loc>
+    <lastmod>2022-06-07T20:09:13-04:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://preview.infosecforactivists.org/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://preview.infosecforactivists.org/"
+                href="/"
                 />
   </url><url>
-    <loc>https://preview.infosecforactivists.org/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://preview.infosecforactivists.org/es/"
+                href="/es/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://preview.infosecforactivists.org/"
+                href="/"
                 />
   </url><url>
-    <loc>https://preview.infosecforactivists.org/tags/</loc>
+    <loc>/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="https://preview.infosecforactivists.org/es/tags/"
+                href="/es/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://preview.infosecforactivists.org/tags/"
+                href="/tags/"
                 />
   </url>
 </urlset>

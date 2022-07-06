@@ -41,9 +41,18 @@ el control sobre su información confidencial.
 
 # Herramientos para usar
 
-¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras)
+¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras.)
 
-<!-- Table needs translation -->
+| Herramientos                                                                        	| Uso                             	| Lo que reemplaza, o lo que hace                                                                                                                 	| Lo que cuesta                                                 	|
+|-------------------------------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
+| [BitWarden](https://bitwarden.com/)                                                 	| Administrador de contraseñas    	| Guarda seguramente su contraseña para que pueda usar contraseñas fuertes y únicas                                                               	| Gratis, algunas partes cuestan $1 por mes                     	|
+| [DuckDuckGo](https://duckduckgo.com/)                                               	| Buscador de internet            	| Reemplaza el Buscador de Google                                                                                                                 	| Gratis                                                        	|
+| [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) 	| Mapas, indicaciones             	| Reemplaza Google Maps                                                                                                                           	| Gratis                                                        	|
+| [Firefox](https://www.mozilla.org/es-MX/firefox/browsers/)                          	| Navegador de internet           	| Reemplaza Google Chrome, Safari, etc.                                                                                                           	| Gratis                                                        	|
+| [Jitsi](https://jitsi.org/)                                                         	| Reuniones virtuales en línea    	| Reemplaza Zoom, Google Meet, etc.                                                                                                               	| Gratis                                                        	|
+| [ProtonMail](https://proton.me/mail)                                                	| Correo electrónico              	| Reemplaza Gmail, yahoo, correo electrónico de trabajo                                                                                           	| Gratis, algunas partes cuestan cinco dólares por mes          	|
+| [ProtonVPN](https://protonvpn.com/)                                                 	| VPN (red privada virtual)       	| Es una red privada que protege tu actividad de tus proveedores de televisión o teléfono, los cuales pueden compartir información con la policía 	| Gratis, algunas partes cuestan 5 dólares o 10 dólares por mes 	|
+| [Signal](https://signal.org/es/)                                                    	| Aplicación para enviar mensajes 	| Reemplaza otras aplicaciones de enviar mensajes, por ejemplo la de Facebook                                                                     	| Gratis                                                        	|
 
 # Herramientas que NO debe Usar
 
@@ -98,14 +107,14 @@ lugares donde puede reunirse con sus amigos antes de ir a la protesta.
 ## Antes 
 - No se marque a sí mismo como "Asistire" en Facebook.
   - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
+- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergencia SOS](https://support.apple.com/es-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922?hl=es-419#lockdown) (Android).
 - Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
 y las sesiones de navegación privada.
 - Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
 que todas sus aplicaciones estén actualizadas.
-  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439) o [iOS](https://support.apple.com/en-us/HT204204) para asegurarse de tener las últimas
+  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439?hl=es-419) o [iOS](https://support.apple.com/es-us/HT204204) para asegurarse de tener las últimas
   correcciones de seguridad.
-- Configure una cuenta de [Signal.](https://signal.org/en/)  Si no desea utilizar su número de teléfono personal, puede crear
+- Configure una cuenta de [Signal.](https://signal.org/es/)  Si no desea utilizar su número de teléfono personal, puede crear
 un nuevo número de teléfono con [Google Voice](https://voice.google.com) y registrarlo en Signal.
 - Encuentre un amigo (¡o varios!) con quien ir y conéctese a través de Signal para discutir planes.
 
@@ -196,7 +205,7 @@ todo el contenido será ilegible sin que su código de desbloqueo específico lo
 teléfono específico. 
 
 Para usar la encriptación de disco completo en un iPhone, simplemente configure un código de acceso
-a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función.
+a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función. 
 
 Para ver si su Android tiene la encriptación disponible y activada, puede **ir a Configuración, elegir
 Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedirá que active el cifrado.
@@ -207,7 +216,7 @@ Si su dispositivo Android se envió con [Android 6 o una versión anterior](http
 utilizar esta función. 
 
 ## AirDrop
-A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/en-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
 
 Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
 
@@ -227,8 +236,7 @@ de desbloqueo sean accesibles para las autoridades es potencialmente mayor que l
 comodidad.
 **No recomendamos el uso de copias de seguridad de iCloud.** 
 
-<!-- Different in the english version, needs to be retranslated -->
-_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
+_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
 claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
 contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
 en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
@@ -239,7 +247,6 @@ bloqueo protegida con un PIN, patrón o código de acceso.
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 
-<!-- End Retranslation -->
 
 {{< tabs >}}
 {{< tab "iPhone" >}}
@@ -249,7 +256,7 @@ Apple le ha dado prioridad a la seguridad en los últimos añosanos y han prove�
 específicasespecificas para el iPhone las cuales facilitan la seguridad de su móvil. Estos pasos
 pueden ser usados para asegurar razonablemente su móvil para una marcha.
 
-* [es] Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
+* [es] Set AirDrop to [Receiving Off](https://support.apple.com/es-us/HT204144#setoptions)
   * [es] *Settings → General → AirDrop*, select “Receiving Off”
 * Desactivar su receptor de GPS deshabilitando los servicios de localización. 
   * Aun en modo de vuelo, iOS mantendrá su receptor de GPS activo a menos que haga esto. 
@@ -282,12 +289,12 @@ Android tiene configuraciones flexibles que pueden ser usadas para asegurar tu t
     * Usted puede encender su data móvil sin dejar Modo de vuelo, si lo necesita. Presione el botón Data móvil en el panel de notificaciones después de activar el Modoactivar Modo de Vuelo. Esos dos botones se encuentran, frecuentemente, a la par.
     * Asegúrese que Bluetooth estéeste verdaderamente apagado. Android puedepuedo ser que lo mantenga encendido si los dispositivossi dispositivos de bluetooth están conectados. El botón en el panel de notificaciones debe ser gris/ sin color para indicar que estáesta apagado. 
 * Instalación de Pantalla de bloqueo
-	* Vaya a *Ajustes → Seguridad → Pantalla de Bloqueo* y seleccionar PIN o contraseña 
+  * Vaya a *Ajustes → Seguridad → Pantalla de Bloqueo* y seleccionar PIN o contraseña 
     * Se le dará la opción de decidir si quiere que las notificaciones sean mostradas en la pantalla en lo que su móvil estáesta bloqueado. La opción másmas segura es “Nunca”. Si eso no le funciona, escoja “ocultar notificaciones sensibles.”
-	* Toque el icono de ajustes para abrir el menú configuración:
-		* Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
-		* Marque la opción “Bloquear con tecla encendido” 
-	* Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
+  * Toque el icono de ajustes para abrir el menú configuración:
+    * Ajustar “Tiempo de espera de la pantalla” a Bloquear inmediatamente. 
+    * Marque la opción “Bloquear con tecla encendido” 
+  * Desactivar Smart Lock si lo tiene. Puede mantener su móvil desbloqueado cuando menos se lo espera, lo cual es peligroso durante una marcha. 
 * Vaya a *configuración → Pantalla y brillo → Avanzado → Bloqueo Automático* y escoja la opción más corta posible, normalmente 15 segundos. 
 {{< /tab >}}
 {{< /tabs >}}
@@ -453,5 +460,5 @@ cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lac
 [Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 
-![GitHub Logo](media/GitHub-Mark-32px.png) 
+![GitHub Logo](../media/GitHub-Mark-32px.png) 
 ¿Ve un error, o quiere ayudarnos mejorar este document? Contribuya al proyecto en [Github](https://github.com/InfosecForActivistsTeam/infosec-activists)

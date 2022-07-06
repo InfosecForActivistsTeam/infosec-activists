@@ -46,7 +46,7 @@ Need secure, private communications in a hurry?  Here are services you can switc
 | [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/)| Maps, Directions | Google Maps                                                  | Free                                |
 | [Firefox](https://www.mozilla.org/en-US/firefox/browsers/) | Web Browsing    | [Google Chrome](https://www.washingtonpost.com/technology/2019/06/21/google-chrome-has-become-surveillance-software-its-time-switch/), Safari, Internet Explorer, Edge                                        | Free                                |
 | [Jitsi](https://jitsi.org/)    							 | Online Meetings | Zoom, Google Meet, WebEx                                                              | Free                                |
-| [ProtonMail](https://protonmail.com/)                      | Email           | Gmail, yahoo, work email                                                              | Free, more features $5/mo           |
+| [ProtonMail](https://proton.me/mail)                      | Email           | Gmail, yahoo, work email                                                              | Free, more features $5/mo           |
 | [ProtonVPN](https://protonvpn.com/)         				 | VPN             | Protects your activity from your cable or mobile provider, who may share with police. | Free, more features $5/mo or $10/mo |
 | [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
 

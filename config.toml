@@ -13,12 +13,14 @@ enableGitInfo = true
 defaultContentLanguage = 'en'
 [languages]
   [languages.en]
+    contentDir = 'content/en'
     languageName = 'English'
     languageNameShort = 'En'
     title = 'Infosec for Activists'
     weight = 1
 
   [languages.es]
+    contentDir = 'content/es'
     languageName = 'Español'
     languageNameShort = 'Es'
     title = 'Infosec para Activistas'

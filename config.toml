@@ -33,3 +33,4 @@ defaultContentLanguage = 'en'
 [params]
   BookTheme = 'auto'
   BookComments = false
+  BookSection = "*"

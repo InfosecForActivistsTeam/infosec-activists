@@ -1,6 +1,6 @@
 title = "Infosec 101 for Activists"
 relativeURLs = true
-publishDir = "docs"
+publishDir = "public"
 
 # provides 'Last Modified' date
 enableGitInfo = true

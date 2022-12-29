@@ -53,39 +53,20 @@ hugo server
 We're working on it!
 
 ## Deployment Process
-This section describes the process of putting the website on the real, live Internet. We use GitHub Pages as our host. Whatever is in the `gh-pages` branch of this repository will be seen on `infosecforactivists.org`. We use hugo to render the code from the `main` branch into the final site which is then put on `gh-pages`. There are, of course, details, described below.
+This section describes the process of putting the website on the real, live Internet. We use GitHub Pages as our host. Whatever is in the `main` branch of this repository will be seen on `infosecforactivists.org`. We use GitHub Actions to render the code from the `main` branch into the final site.
 
 ### Phase 1: Render to Preview
-There is a second GitHub repository used to preview the site before it goes live on to the world. The preview site is also public to the internet, but it's at a different URL, so nobody should stumble onto it unless they're on the team. And now you, too, loyal reader!
+There is a [second GitHub repository](https://github.com/InfosecForActivistsTeam/infosec-activists-preview) used to preview the site before it goes live on to the world. The preview site is also public to the internet, but it's at a [different URL](https://preview.infosecforactivists.org), so nobody should stumble onto it unless they're on the team. And now you, too, loyal reader!
 
-To render the site, attach the `gh-pages` branch of your local repository to the `public` folder using `git worktree`:
+Simply push to the `main` branch of the preview repository, and it will appear on [`preview.infosecforactivists.org`](https://preview.infosecforactivists.org/). GitHub needs about a minute or two to run the process, so be patient.
 
-```
-rm -rf public
-git worktree add public gh-pages
-```
-*Note: you only have to do this once. The worktree will stay configured unless you use the `git worktree` command to remove it.*
-
-Now you can run `hugo`, and it will render the site into the `public` folder, which cleverly is now also the `gh-pages` branch, where we want it to be!
-
-```
-hugo
-```
-
-Change into the `public` directory, and the git environment will be on the `gh-pages` branch (thanks, worktree!). From here you can push the `gh-pages` branch to preview. 
-
-*Note: In this example, the preview repo is a git remote named `preview`.*
-
-```
-cd public
-git push preview
-```
+> Note: we no longer manipulate `gh-pages` branches directly. We let GitHub actions do it.
 
 ### Phase 2: Get Team Approval
 
 After a few minutes, the preview site will update to reflect the changes you've made. At this point
 the team can see it and review it. If it is approved with no changes to be made, you may make a pull
-request from your branch to the main branch on GitHub. You may also make this pull request ahead of
+request from your branch to the main branch on the primary GitHub repository: https://github.com/InfosecForActivistsTeam/infosec-activists. You may also make this pull request ahead of
 the review, but any changes would have to be re-pushed.
 
 ### Phase 3: Merge into main
@@ -95,4 +76,7 @@ automatically rebuild and deploy the site.
 
 For that reason, the `main` branch is protected. You cannot push to it directly. Any changes must be
 made through a pull request, that the team must approve.
+
+When the team approvces, and the pull request is merged into `main`, the changes will become live in
+a few minutes!
 

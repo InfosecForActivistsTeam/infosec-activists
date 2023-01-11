@@ -1,6 +1,8 @@
 ---
 title: "Infosec 101 for Activists"
 author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
+type: docs
+weight: 1
 ---
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
 

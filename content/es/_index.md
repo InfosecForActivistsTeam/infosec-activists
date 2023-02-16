@@ -9,43 +9,20 @@ Sitio web: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 Archivo digital (PDF): [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
 
 # Introducción
-América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
-levantamientos indígenas](https://themihs.info/calusa-period/) que ocurrieron antes de la fundación
-de los Estados Unidos. En este día, el activismo en los Estados Unidos continúa siendo una cuestión
-crucial. Las manifestaciones se han convertido en una herramienta esencial utilizada por los
-activistas para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las
-estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/)
-de [riesgo](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country).
-Por ejemplo, la publicidad puede resultar en acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/). 
+Estados Unidos tiene una tradición muy fuerte de activismo que se retrotrae a [las rebeliones de personas esclavizadas](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los levantamientos indígenas](https://themihs.info/calusa-period/), incluso antes de que se fundara como nación. Hoy endía, el activismo en EEUU sigue siendo fundamental. Las protestas callejeras son una herramienta esencial que les activistas utilizan para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/) de [riesgo] (https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country). Por ejemplo, la exposición  puede conducir al acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/).
 
-Su [información personal](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6)
-es más accesible que nunca. En este documento, hablaremos sobre cómo los grupos hostiles pueden
-utilizar información en contra de los activistas y lo que puede hacer usted para protegerse a sí
-mismo y a los demás. Este documento se enfoca en la seguridad digital y en la seguridad de la
-información para los activistas que tienen requisitos y riesgos especiales. Otros han escrito sobre
-[la seguridad durante las manifestaciones](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
-en [sentido general](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html)
-al igual que la [seguridad digital](https://www.wikihow.com/Protect-Personal-Information) diaria.
+Tu [información personal](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) es más accesible que nunca. En este documento, hablaremos sobre cómo los grupos hostiles pueden utilizar información en contra de les activistas y lo que puedes hacer para protegerte a tí misme y a les demás. Este documento se enfoca en la seguridad digital y en la seguridad de la información para les activistas que tienen requisitos y riesgos especiales. Otras personas han escrito sobre [la seguridad durante las manifestaciones](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0) en [sentido general](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html) al igual que la [seguridad digital](https://www.wikihow.com/Protect-Personal-Information) diaria. 
 
-**Si tiene prisa, comience con la tabla de herramientas que se encuentra abajo.** ¡Usted encontrará
-información que puede usar de inmediato! También hemos incluido sugerencias y conceptos para
-mantener su información privada más segura durante las marchas y en su vida diaria. 
+**Si tienes prisa, comienza con la tabla de herramientas que se encuentra abajo.** ¡Encontrarás información que puedes usar de inmediato! También hemos incluido sugerencias y conceptos para mantener tu información privada más segura durante las marchas y en tu vida diaria.
 
-**¿Por qué debería importarle?** Desafiando las estructuras de poder existentes siempre ha
-conllevado un factor de riesgo, pero el panorama digital inalámbrico que ha resultado de la
-tecnología actual, lo hace másmas riesgoso. Las autoridades normalmente trabajan con empresas de
-tecnología para acceder a los datos del usuario, los cuales el usuario (usted) creía que eran
-privados. La violación de datos expone nombres y otras clases de información personal, las cuales
-pueden tener repercusiones graves en su vida diaria. Nuestro objetivo es ayudar a que el activismo
-se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y amenazas innecesarias
-lleguen a su empleo o a la puerta de su casa. Este documento es una guía que le ayudará a mantener
-el control sobre su información confidencial. 
+**¿Por qué debería importarte?** Aunque desafiar las estructuras de poder existentes siempre ha conllevado un elemento de riesgo, el panorama digital actual lo hace mucho más arriesgado. Las autoridades normalmente trabajan con empresas de tecnología para acceder a los datos de les usuaries, los cuales el usuarie (tu) creía privados. La violación de datos expone nombres y otras clases de información personal, las cuales pueden tener repercusiones graves en su vida diaria. Nuestro objetivo es ayudar a que el activismo se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y amenazas innecesarias lleguen a tu empleo o a la puerta de tu casa. Este documento es una guía que te ayudará a mantener el control sobre tu información confidencial.
+ 
 
 # Herramientos para usar
 
-¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras.)
+¿Necesitas una comunicación segura y privada con urgencia? Aquí tienes servicios a los que puedes pasarte ahora mismo. (No recibimos comisiones de ninguna de estas empresas. Ni de nadie, en realidad).
 
-| Herramientos                                                                        	| Uso                             	| Lo que reemplaza, o lo que hace                                                                                                                 	| Lo que cuesta                                                 	|
+| Herramientas                                                                        	| Uso                             	| Lo que reemplaza, o lo que hace                                                                                                                 	| Lo que cuesta                                                 	|
 |-------------------------------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
 | [BitWarden](https://bitwarden.com/)                                                 	| Administrador de contraseñas    	| Guarda seguramente su contraseña para que pueda usar contraseñas fuertes y únicas                                                               	| Gratis, algunas partes cuestan $1 por mes                     	|
 | [DuckDuckGo](https://duckduckgo.com/)                                               	| Buscador de internet            	| Reemplaza el Buscador de Google                                                                                                                 	| Gratis                                                        	|

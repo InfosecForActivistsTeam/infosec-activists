@@ -160,11 +160,9 @@ Phones connect to towers periodically while on, even if they are not being activ
 connections are sufficiently accurate to place an individual on the same block as an action.
 This information can be accessible to law enforcement through a subpoena.
 
-All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was
-created for travel in an airplane, out of a concern that phones would interfere with the plane's
-operation. Today it is a reliable way for you to disable all three radios
-with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed in the 
-iPhone and Android setup instructions, below.
+Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable some of the
+radios. The exact behavior depends on which type of phone you have, so see the appropriate iOS or
+Android 
 
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will

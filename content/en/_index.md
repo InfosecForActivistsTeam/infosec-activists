@@ -148,21 +148,23 @@ occasionally send updates on your whereabouts to Google, Apple, or other app pub
 will want to turn the GPS receiver off, which prevents from the location data from being
 recorded at all. 
 
-**Bluetooth and WiFi** are common technologies that use short-range radio to communicate with
+**Bluetooth, WiFi, and UWB** are common technologies that use short-range radios to communicate with
 other devices. Unfortunately, their operation requires your phone to broadcast identifiable
 information about itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
-This type of surveillance is profoundly dangerous at an
-action, so we need to disable Bluetooth and WiFi whenever possible. 
+This type of surveillance is profoundly dangerous at an action, so we need to disable Bluetooth and
+WiFi whenever possible. 
 
 **Your mobile carrier** can track your location by when your phone contacts its radio towers.
 Phones connect to towers periodically while on, even if they are not being actively used. Towers
 connections are sufficiently accurate to place an individual on the same block as an action.
 This information can be accessible to law enforcement through a subpoena.
 
-Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable some of the
-radios. The exact behavior depends on which type of phone you have, so see the appropriate iOS or
-Android 
+Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable the cellular
+radio, and some or all of the other radios, present on the device. The exact behavior is dependent on
+which device you're using. The safest option for ensuring that all of your radios have been disabled
+is to both enable Airplane mode **and** ensure that the Bluetooth and WiFi radios are turned _Off_ in
+your devices Settings app.
 
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will
@@ -241,23 +243,30 @@ iPhone or Android below to see the instructions.
 Apple has prioritized personal security in recent years and now offers features to make securing
 your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
 
+If your device does not support *Face ID* as a biometric login method, you will see *Touch ID* on your
+device instead of *Face ID* where it is referenced below.
+
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
-	* *Settings → General → AirDrop*, select “Receiving Off”
+	* *Settings → General → AirDrop*, select **Receiving Off**
 * Disable your GPS receiver by turning off Location Services.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
-	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
-* Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
+	* Even in Airplane mode, iOS will keep the GPS receiver active unless Location Services is turned off.
+* Disable your Bluetooth radio
+	* *Settings → Bluetooth*, toggle the *Bluetooth* slider off.
+* Turn off WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
+	* If you disable Bluetooth *after* enabling Airplane mode, iOS will remember this, and disable
+		Bluetooth automatically the next time Airplane mode is used.
 * Lock screen setup
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
-		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
+		* *Settings → Face ID & Passcode*, set “Require Passcode” to “Immediately”
 	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
-		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
-	* Disable Touch ID and Face ID
-		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.   
+		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Biometric login will be disabled until the passcode is reentered.
+	* Disable *Face ID*
+		* *Settings → Face ID & Passcode*, under the section “Use Face ID For:”, toggle all
+		  the sliders to off.
 {{< /tab >}}
 
 {{< tab "Android" >}}

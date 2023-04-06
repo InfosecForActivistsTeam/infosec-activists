@@ -148,23 +148,27 @@ occasionally send updates on your whereabouts to Google, Apple, or other app pub
 will want to turn the GPS receiver off, which prevents from the location data from being
 recorded at all. 
 
-**Bluetooth, WiFi, and UWB** are common technologies that use short-range radios to communicate with
-other devices. Unfortunately, their operation requires your phone to broadcast identifiable
-information about itself. This information can be observed by a "beacon" or scanning device.
+**Bluetooth, WiFi, and Ultrawideband (UWB)** are common technologies that use short-range radios to communicate with
+other devices. Unfortunately, their operation requires your phone to broadcast information which can uniquely itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
-This type of surveillance is profoundly dangerous at an action, so we need to disable Bluetooth and
-WiFi whenever possible. 
+This type of surveillance is profoundly dangerous at an action, so these radios should be disabled
+whenever possible. 
 
-**Your mobile carrier** can track your location by when your phone contacts its radio towers.
-Phones connect to towers periodically while on, even if they are not being actively used. Towers
-connections are sufficiently accurate to place an individual on the same block as an action.
-This information can be accessible to law enforcement through a subpoena.
+**Your mobile carrier** can also track your location using your phone's contact with its cellular towers.
+Even if you are not actively in a call, texting, or browsing the internet over a celluar connection, there
+is still constant activity between your device and the towers to maintain a connection. These connections
+are sufficiently accurate to place an individual on the same block as an action.
+This location information is typically logged by your carrier, and can be accessible to law
+enforcement. [Some police departments](https://www.aclu.org/issues/privacy-technology/surveillance-technologies/stingray-tracking-devices-whos-got-them) also have access to devices known
+as cell site simulators, IMSI catchers, or a "Stingray". These devices can mimic a cellular tower,
+and provide the police with not only more accurate, but real-time, data.
 
 Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable the cellular
-radio, and some or all of the other radios, present on the device. The exact behavior is dependent on
+radio and some, or all, of the other radios present on the device. The exact behavior is dependent on
 which device you're using. The safest option for ensuring that all of your radios have been disabled
-is to both enable Airplane mode **and** ensure that the Bluetooth and WiFi radios are turned _Off_ in
-your devices Settings app.
+is to both enable Airplane mode **and** manually ensure that the Bluetooth and WiFi radios are
+turned _Off_ in your devices Settings app. See the [iOS](#iphone-setup) or [Android](#android-setup)
+section below for the specific details for your device.
 
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will
@@ -207,7 +211,8 @@ of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) featur
 enabled, your phone could leak personally identifiable information (PII) such as your phone number
 and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
  
-We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life
+unless you are actively sharing files with someone. 
 
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS

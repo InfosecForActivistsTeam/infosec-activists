@@ -100,35 +100,16 @@ Para ver si tu Android tiene la encriptación disponible y activada, puedes **ir
 
 Si tu dispositivo Android se envió con [Android 6 o una versión anterior](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no puedas utilizar esta función.
 
-## AirDrop
-A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+## AirDrop 
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).
 
-Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
+Recomendamos mantener AirDrop desactivado en todo momento cuando estés cerca o en una acción, y en la vida cotidiana, a menos que estés compartiendo activamente archivos con alguien.
 
-## Copias de seguridad del teléfono
+## Copias de seguridad del teléfono 
 
-Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
-seguridad integradas en la nube de iOS y Android representan un problema para los activistas. Las
-copias de seguridad realizadas con iCloud están encriptadas de tal manera que los empleados de Apple
-pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia
-de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más](https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las
-autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se
-almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que
-soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono.
-También ofrece una conveniencia, donde si el usuario olvida su código de desbloqueo, Apple aún puede
-recuperar el dispositivo. Para los activistas, el riesgo que representa el hecho de que sus claves
-de desbloqueo sean accesibles para las autoridades es potencialmente mayor que los beneficios de esa
-comodidad.
-**No recomendamos el uso de copias de seguridad de iCloud.** 
+Mantener copias de seguridad de tus datos importantes siempre es una buena idea, pero las copias de seguridad integradas en la nube de iOS y Android representan un problema para les activistas. Las copias de seguridad realizadas con iCloud están encriptadas de tal manera que les trabajadores de Apple pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más](https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono. También ofrece una conveniencia, donde si le usuarie olvida su código de desbloqueo, Apple aún puede recuperar el dispositivo. Para les activistas, el riesgo que representa el hecho de que sus claves de desbloqueo sean accesibles para las autoridades es potencialmente mayor que los beneficios de esa comodidad. **No recomendamos el uso de copias de seguridad de iCloud.**
 
-_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
-claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
-contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
-en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
-a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html)  sin la contraseña del usuario. Si su teléfono usa la
-versión 9 o más reciente, [esta función se activa automáticamente](https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
-bloqueo protegida con un PIN, patrón o código de acceso. 
-**No utilice copias de seguridad en la nube de Android anteriores a la versión 9.** 
+_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas, contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre en código “Pie” y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html) sin la contraseña de le usuarie. Si tu teléfono usa la versión 9 o más reciente, esta función se activa automáticamente siempre que tenga una pantalla de bloqueo protegida con un PIN, patrón o código de acceso. **No utilices copias de seguridad en la nube de Android anteriores a la versión 9.**
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 

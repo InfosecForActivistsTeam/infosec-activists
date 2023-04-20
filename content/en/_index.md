@@ -252,26 +252,30 @@ If your device does not support *Face ID* as a biometric login method, you will 
 device instead of *Face ID* where it is referenced below.
 
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
-	* *Settings → General → AirDrop*, select **Receiving Off**
+	* *Settings → General → AirDrop*, tap on **Receiving Off**
 * Disable your GPS receiver by turning off Location Services.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
 	* Even in Airplane mode, iOS will keep the GPS receiver active unless Location Services is turned off.
+* Turn off WiFi, and the cellular radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
+	* Bluetooth **will not** be disabled the first time you use Airplace Mode. If you disable
+		Bluetooth *after* enabling Airplane mode, iOS will remember this, and disable
+		Bluetooth automatically the next time Airplane mode is used.
 * Disable your Bluetooth radio
 	* *Settings → Bluetooth*, toggle the *Bluetooth* slider off.
-* Turn off WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
-	* If you disable Bluetooth *after* enabling Airplane mode, iOS will remember this, and disable
-		Bluetooth automatically the next time Airplane mode is used.
 * Lock screen setup
+	* Disable biometric login
+		* *Settings → Face ID & Passcode*, under the section “Use Face ID For:”, toggle all
+		  the sliders to off.
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
 		* *Settings → Face ID & Passcode*, set “Require Passcode” to “Immediately”
-	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
+	* Practice with iOS’ [Emergency SOS](https://support.apple.com/en-us/HT208076) mode, and
+  		disable the emergency auto-call features.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
-		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Biometric login will be disabled until the passcode is reentered.
-	* Disable *Face ID*
-		* *Settings → Face ID & Passcode*, under the section “Use Face ID For:”, toggle all
-		  the sliders to off.
+		* If you need to quickly lock down the device, press and hold the power button and either of 
+			the volume buttons until the Emergency SOS lock screen appears. At this point, biometric
+			login will be disabled until the passcode is reentered.
 {{< /tab >}}
 
 {{< tab "Android" >}}

@@ -6,3 +6,5 @@ github.com/alex-shpak/hugo-book v0.0.0-20220802105740-317ccae23b73 h1:RC76uULXrG
 github.com/alex-shpak/hugo-book v0.0.0-20220802105740-317ccae23b73/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/alex-shpak/hugo-book v0.0.0-20221111100854-d5b75f4fb3aa h1:VthswmcR+7NtpamidIRuFq+8JRAz4v+s7xVJ0MmeLqM=
 github.com/alex-shpak/hugo-book v0.0.0-20221111100854-d5b75f4fb3aa/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
+github.com/alex-shpak/hugo-book v0.0.0-20230213220505-036e037a63ba h1:GSDZxN4SjTRVylJjVwr2Mnn1oy/e2ngZG9m1ULJ2qFg=
+github.com/alex-shpak/hugo-book v0.0.0-20230213220505-036e037a63ba/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=

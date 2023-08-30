@@ -149,7 +149,7 @@ will want to turn the GPS receiver off, which prevents from the location data fr
 recorded at all. 
 
 **Bluetooth, WiFi, and Ultrawideband (UWB)** are common technologies that use short-range radios to communicate with
-other devices. Unfortunately, their operation requires your phone to broadcast information which can uniquely itself. This information can be observed by a "beacon" or scanning device.
+other devices. Unfortunately, their operation requires your phone to broadcast information which can uniquely identify itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
 This type of surveillance is profoundly dangerous at an action, so these radios should be disabled
 whenever possible. 

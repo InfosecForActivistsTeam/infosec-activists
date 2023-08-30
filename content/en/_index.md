@@ -161,7 +161,7 @@ are sufficiently accurate to place an individual on the same block as an action.
 This location information is typically logged by your carrier, and can be accessible to law
 enforcement. [Some police departments](https://www.aclu.org/issues/privacy-technology/surveillance-technologies/stingray-tracking-devices-whos-got-them) also have access to devices known
 as cell site simulators, IMSI catchers, or a "Stingray". These devices can mimic a mobile phone tower,
-and provide the police with not only more accurate, but real-time, data.
+and provide the police with more accurate, real-time data.
 
 Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable the cellular
 radio and some, or all, of the other radios present on the device. The exact behavior is dependent on

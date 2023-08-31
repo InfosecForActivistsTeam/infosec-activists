@@ -9,243 +9,107 @@ Sitio web: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 Archivo digital (PDF): [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
 
 # Introducción
-América tiene una tradición muy fuerte de activismo que se remonta a [las revueltas de esclavos](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los
-levantamientos indígenas](https://themihs.info/calusa-period/) que ocurrieron antes de la fundación
-de los Estados Unidos. En este día, el activismo en los Estados Unidos continúa siendo una cuestión
-crucial. Las manifestaciones se han convertido en una herramienta esencial utilizada por los
-activistas para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las
-estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/)
-de [riesgo](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country).
-Por ejemplo, la publicidad puede resultar en acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/). 
+Estados Unidos tiene una tradición muy fuerte de activismo que se retrotrae a [las rebeliones de personas esclavizadas](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los levantamientos indígenas](https://themihs.info/calusa-period/), incluso antes de que se fundara como nación. Hoy endía, el activismo en EEUU sigue siendo fundamental. Las protestas callejeras son una herramienta esencial que les activistas utilizan para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/) de [riesgo] (https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country). Por ejemplo, la exposición  puede conducir al acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/).
 
-Su [información personal](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6)
-es más accesible que nunca. En este documento, hablaremos sobre cómo los grupos hostiles pueden
-utilizar información en contra de los activistas y lo que puede hacer usted para protegerse a sí
-mismo y a los demás. Este documento se enfoca en la seguridad digital y en la seguridad de la
-información para los activistas que tienen requisitos y riesgos especiales. Otros han escrito sobre
-[la seguridad durante las manifestaciones](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
-en [sentido general](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html)
-al igual que la [seguridad digital](https://www.wikihow.com/Protect-Personal-Information) diaria.
+Tu [información personal](https://www.businessinsider.com/fbi-uses-instagram-etsy-linkedin-to-find-george-floyd-protester-2020-6) es más accesible que nunca. En este documento, hablaremos sobre cómo los grupos hostiles pueden utilizar información en contra de les activistas y lo que puedes hacer para protegerte a tí misme y a les demás. Este documento se enfoca en la seguridad digital y en la seguridad de la información para les activistas que tienen requisitos y riesgos especiales. Otras personas han escrito sobre [la seguridad durante las manifestaciones](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0) en [sentido general](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html) al igual que la [seguridad digital](https://www.wikihow.com/Protect-Personal-Information) diaria. 
 
-**Si tiene prisa, comience con la tabla de herramientas que se encuentra abajo.** ¡Usted encontrará
-información que puede usar de inmediato! También hemos incluido sugerencias y conceptos para
-mantener su información privada más segura durante las marchas y en su vida diaria. 
+**Si tienes prisa, comienza con la tabla de herramientas que se encuentra abajo.** ¡Encontrarás información que puedes usar de inmediato! También hemos incluido sugerencias y conceptos para mantener tu información privada más segura durante las marchas y en tu vida diaria.
 
-**¿Por qué debería importarle?** Desafiando las estructuras de poder existentes siempre ha
-conllevado un factor de riesgo, pero el panorama digital inalámbrico que ha resultado de la
-tecnología actual, lo hace másmas riesgoso. Las autoridades normalmente trabajan con empresas de
-tecnología para acceder a los datos del usuario, los cuales el usuario (usted) creía que eran
-privados. La violación de datos expone nombres y otras clases de información personal, las cuales
-pueden tener repercusiones graves en su vida diaria. Nuestro objetivo es ayudar a que el activismo
-se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y amenazas innecesarias
-lleguen a su empleo o a la puerta de su casa. Este documento es una guía que le ayudará a mantener
-el control sobre su información confidencial. 
+**¿Por qué debería importarte?** Aunque desafiar las estructuras de poder existentes siempre ha conllevado un elemento de riesgo, el panorama digital actual lo hace mucho más arriesgado. Las autoridades normalmente trabajan con empresas de tecnología para acceder a los datos de les usuaries, los cuales el usuarie (tu) creía privados. La violación de datos expone nombres y otras clases de información personal, las cuales pueden tener repercusiones graves en su vida diaria. Nuestro objetivo es ayudar a que el activismo se lleve a cabo de manera segura y evitar que vigilancia policial, violencia y amenazas innecesarias lleguen a tu empleo o a la puerta de tu casa. Este documento es una guía que te ayudará a mantener el control sobre tu información confidencial.
+ 
 
-# Herramientos para usar
+# Herramientas que debes utilizar
 
-¿Necesita modos comunicativos seguros y privados? Aquí se encuentran los servicios que puede usar inmediatamente. (No recibimos beneficios monetarios de ninguna ni de estas compañías, ni de otras.)
+¿Necesitas una comunicación segura y privada con urgencia? Aquí tienes servicios a los que puedes pasarte ahora mismo. (No recibimos comisiones de ninguna de estas empresas. Ni de nadie, en realidad).
 
-| Herramientos                                                                        	| Uso                             	| Lo que reemplaza, o lo que hace                                                                                                                 	| Lo que cuesta                                                 	|
+| Herramientas | Utilidad	| Lo que reemplaza, o lo que hace | Lo que cuesta |
 |-------------------------------------------------------------------------------------	|---------------------------------	|-------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------------------------------------------------	|
-| [BitWarden](https://bitwarden.com/)                                                 	| Administrador de contraseñas    	| Guarda seguramente su contraseña para que pueda usar contraseñas fuertes y únicas                                                               	| Gratis, algunas partes cuestan $1 por mes                     	|
-| [DuckDuckGo](https://duckduckgo.com/)                                               	| Buscador de internet            	| Reemplaza el Buscador de Google                                                                                                                 	| Gratis                                                        	|
-| [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) 	| Mapas, indicaciones             	| Reemplaza Google Maps                                                                                                                           	| Gratis                                                        	|
-| [Firefox](https://www.mozilla.org/es-MX/firefox/browsers/)                          	| Navegador de internet           	| Reemplaza Google Chrome, Safari, etc.                                                                                                           	| Gratis                                                        	|
-| [Jitsi](https://jitsi.org/)                                                         	| Reuniones virtuales en línea    	| Reemplaza Zoom, Google Meet, etc.                                                                                                               	| Gratis                                                        	|
-| [ProtonMail](https://proton.me/mail)                                                	| Correo electrónico              	| Reemplaza Gmail, yahoo, correo electrónico de trabajo                                                                                           	| Gratis, algunas partes cuestan cinco dólares por mes          	|
-| [ProtonVPN](https://protonvpn.com/)                                                 	| VPN (red privada virtual)       	| Es una red privada que protege tu actividad de tus proveedores de televisión o teléfono, los cuales pueden compartir información con la policía 	| Gratis, algunas partes cuestan 5 dólares o 10 dólares por mes 	|
-| [Signal](https://signal.org/es/)                                                    	| Aplicación para enviar mensajes 	| Reemplaza otras aplicaciones de enviar mensajes, por ejemplo la de Facebook                                                                     	| Gratis                                                        	|
+| [BitWarden](https://bitwarden.com/) | Administrador de contraseñas | Guarda de forma segura tus contraseñas para que puedas disponer de contraseñas firmes y únicas. | Gratis, algunas funciones cuestan 1 USD por mes |
+| [DuckDuckGo](https://duckduckgo.com/)| Buscador de internet | Reemplaza el Buscador de Google	| Gratis |
+| [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) 	| Mapas, indicaciones | Reemplaza Google Maps | Gratis |
+| [Firefox](https://www.mozilla.org/es-MX/firefox/browsers/)| Navegador de internet | Reemplaza Google Chrome, Safari, etc. | Gratis |
+| [Jitsi](https://jitsi.org/) | Reuniones virtuales en línea | Reemplaza Zoom, Google Meet, etc. | Gratis|
+| [ProtonMail](https://proton.me/mail)| Correo electrónico | Reemplaza Gmail, yahoo, correo electrónico de trabajo | Gratis, algunas funciones cuestan cinco USD por mes |
+| [ProtonVPN](https://protonvpn.com/)| VPN (red privada virtual)| Es una red privada que protege tu actividad de tus proveedores de televisión o teléfono, quienes pueden compartir información con la policía| Gratis, algunas funciones cuestan 5 USD o 10 USD por mes |
+| [Signal](https://signal.org/es/) | Aplicación para enviar mensajes 	| Reemplaza los mensajes de texto, Facebook Messenger, y otras aplicaciones inseguras de mensajería instantánea | Gratis |
 
-# Herramientas que NO debe Usar
+# Herramientas que NO debes Utilizar
 
-En este documento, hacemos recomendaciones en contra de algunas herramientas populares y comunes.
-Nuestras recomendaciones se basan todas en los mismos principios rectores. La lógica detrás de ellos
-es simple: evite las herramientas que recopilan su información; la almacenan fuera de su control o
-la dejan expuesta públicamente. El más desafiante probablemente sea Google Maps, el cual aconsejamos
-que evite mientras asiste a una marcha. Google Maps siempre rastrea a sus usuarios y Google mantiene
-estos datos de rastreo en detalle para siempre. Todos estos datos pueden ser [entregados a las
-autoridades](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been). [La policía y otras agencias](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) pueden usar los datos de alta precisión de Google para
-ubicar a una persona en una marcha. Aún más peligroso, pueden ubicar a una persona en áreas
-específicas dentro de una marcha o cerca de actos criminales, a unos pocos pies y sin perder tiempo.
-Nuestras sugerencias alternativas, [Apple Maps](https://maps.apple.com/go) y [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), no rastrean a sus usuarios de esta
-manera. También hacen todo lo posible por anonimizar los datos recopilados por los proveedores de
-mapas.
+En este documento, hacemos recomendaciones en contra de algunas herramientas populares y comunes. Todas nuestras recomendaciones se basan en los mismos principios fundamentales. . La lógica detrás de ellos es simple: evita las herramientas que recopilan tu información; la almacenan fuera de tu control o la dejan expuesta públicamente.El más desafiante es probablemente Google Maps, el cual consideramos que debe evitarse mientras se asiste a una acción. Google Maps siempre rastrea a sus usuaries, y Google guarda estos datos de rastreo detalladamente, para siempre.  Todos estos datos pueden [facilitarse a las fuerzas de seguridad.](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been) [entregados a las autoridades.](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been) [La policía y otros organismos] (https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html) pueden utilizar los datos de alta precisión de Google para ubicar a una persona en una acción. Y lo que es aún más peligroso, pueden localizar a una persona hasta zonas concretas dentro de una acción, o cerca de actos delictivos, con una precisión de unos pocos metros y hasta el minuto.  Nuestras sugerencias alternativas, [Apple Maps](https://maps.apple.com/go) y [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), no rastrean a sus usuaries de este modo. También se esfuerzan por anonimizar los datos recogidos por las empresas proveedoras de mapas.
 
-Otra herramienta popular [que no recomendamos](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) es Telegram, ya que tiene un historial de [problemas de
-seguridad](https://www.wired.com/story/telegram-encryption-whatsapp-settings/) . Aunque admite encriptación de extremo a extremo para mensajes entre personas (consulte
-[Mensajería con encriptación](#mensajería-con-Encriptación) abajo), no aplica esta seguridad a los
-mensajes grupales. Los mensajes grupales pueden ser reportados como "spam" o "abuso", y el personal
-y los contratistas de Telegram pueden revisar el contenido completo de los mensajes. Luego, esos
-datos se pueden compartir con las autoridades. Para empeorar las cosas, la técnica de encriptación
-completa no está activa para todas las conversaciones por defecto.
+Otra herramienta popular [que no recomendamos](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) es Telegram, ya que tiene un historial de [problemas de seguridad.](https://www.wired.com/story/telegram-encryption-whatsapp-settings/) Aunque es compatible con la encriptación de extremo a extremo de los mensajes entre personas (consulte [Mensajería con encriptación](https://infosecforactivists.org/es/#mensajer%c3%ada-con-Encriptaci%c3%b3n) abajo), no aplica esta seguridad a los mensajes grupales. Los mensajes grupales pueden ser reportados como “spam” o “abuso”, y el personal y contratistas de Telegram pueden revisar el contenido completo de los mensajes. Luego, esos datos se pueden compartir con las autoridades. Para empeorar las cosas, la técnica de encriptación completa no está activa para todas las conversaciones por defecto.
 
-WhatsApp, aunque es popular en algunos círculos de activistas,[tiene problemas similares](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/) y también
-recomendamos no utilizar ese servicio. Recomendamos [Signal,](https://signal.org/en/) que se
-construyó desde el principio para la seguridad personal.
+WhatsApp, aunque es popular en algunos círculos de activistas, [tiene problemas similares](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/) y también recomendamos no utilizar ese servicio. Recomendamos [Signal,](https://signal.org/en/) que se construyó desde el principio para la seguridad personal.
 
-Un razonamiento similar se aplica a todas las recomendaciones que hacemos en este documento. Si lo
-usa, probablemente hayamos investigado sus características de seguridad para este proyecto. Si hay
-herramientas a las que no está dispuesto a renunciar, le recomendamos que investigue sus políticas
-de privacidad y lo que puede hacer para proteger sus datos. 
+Aplicamos un razonamiento similar a todas las recomendaciones que hacemos en este documento. Si la utilizas, probablemente hemos investigado sus características de seguridad para este proyecto. Si hay herramientas a las que no estás en disposición de renunciar, te animamos a que investigues sus políticas de privacidad y lo que puedes hacer para proteger tus datos. 
 
-# Cosas que Debe Saber 
+# Cosas que Debes Saber
 
-Su teléfono es una mina de oro de datos, llena de información de rastreo e identificación. Esto
-incluye dónde ha estado, qué ha dicho y con quién se ha comunicado. Esta sección le ayudará a
-mantener esos datos seguros mientras asiste a una protesta, protegiéndose a usted y a quienes lo
-rodean. ¡Encuentra instrucciones para iPhone y Android a continuación! ¡Protéjase y prepárese para
-protestar ahora mismo!
+Tu teléfono es una mina de oro de datos, llena de información de rastreo e identificación. Esto incluye dónde has estado, qué has dicho y con quién te has comunicado. Esta sección te ayudará a mantener esos datos seguros mientras asistes a una protesta, protegiéndote a ti misme y a quienes te rodean. ¡Encuentra instrucciones para iPhone y Android a continuación! ¡Protéjete y prepárete para manifestarse ya!
 
-Suponga que la policía puede registrar y grabar cualquier mensaje que envíe, llamadas telefónicas
-que realice o cualquier otra cosa que envíe o reciba. Si su información está fuertemente encriptada,
-es posible que aún tengan acceso a ella, pero no pueden desencriptarla. Asegúrese de actualizar su
-teléfono al último sistema operativo (SO) compatible mucho antes de la marcha.
+Asume que cualquier mensaje que envíes, llamada telefónica que hagas o cualquier otra cosa que envíes o recibas puede ser registrada y grabada por la policía.  Si tu información está fuertemente encriptada, es posible que aún tengan acceso a ella, pero no pueden desencriptarla. Asegúrate de actualizar tu teléfono al último sistema operativo (SO, por sus siglas en inglés) compatible mucho antes de la marcha.
 
-Si tiene inquietudes sobre su privacidad y su teléfono ya no recibe actualizaciones de software,
-considere no traerlo. Si asiste a una protesta sin teléfono, no vaya solo. Organice horarios y
-lugares donde puede reunirse con sus amigos antes de ir a la protesta. 
+Si tienes inquietudes sobre tu privacidad y tu teléfono ya no recibe actualizaciones de software, considera no llevarlo. Si asistes a una protesta sin teléfono, no vayas sole. Organiza horarios y lugares donde puedes reunirte con tus amistades antes de ir a la protesta.
 
-# Asistir a una acción
+# Acudir a una acción 
+
 ## Antes 
-- No se marque a sí mismo como "Asistire" en Facebook.
-  - Tome nota de los detalles y guárdelos en un dispositivo personal o en una hoja de papel.
-- Practique la contraseña de su teléfono. Habilite y practique el uso de [Emergencia SOS](https://support.apple.com/es-us/HT208076) (iOS) y [el modo Lockdown](https://support.google.com/pixelphone/answer/6093922?hl=es-419#lockdown) (Android).
-- Si necesita buscar en Internet cualquier información relacionada con la protesta, use DuckDuckGo
-y las sesiones de navegación privada.
-- Asegúrese de que su dispositivo esté actualizado a la última versión de su sistema operativo y de
-que todas sus aplicaciones estén actualizadas.
-  - Verifique y actualice su versión de [Android](https://support.google.com/android/answer/7680439?hl=es-419) o [iOS](https://support.apple.com/es-us/HT204204) para asegurarse de tener las últimas
-  correcciones de seguridad.
-- Configure una cuenta de [Signal.](https://signal.org/es/)  Si no desea utilizar su número de teléfono personal, puede crear
-un nuevo número de teléfono con [Google Voice](https://voice.google.com) y registrarlo en Signal.
-- Encuentre un amigo (¡o varios!) con quien ir y conéctese a través de Signal para discutir planes.
+- Nunca te marques como "Voy" en Facebook.
+  - Anota los detalles y guárdalos en un dispositivo personal o en un papel.
+- Practica el código de acceso de tu teléfono. Activa y practica el uso del [SOS de Emergencia](https://support.apple.com/es-us/HT208076) (iOS) y del [modo Bloqueo](https://support.google.com/pixelphone/answer/6093922?hl=es-419#lockdown) (Android).
+- Si necesitas buscar en Internet cualquier información relacionada con la protesta, usa DuckDuckGo y las sesiones de navegación privada.
+- Asegúrate de que tu dispositivo esté actualizado a la última versión de su sistema operativo y de que todas tus aplicaciones estén al día.
+  - Verifica y actualiza tu versión de [Android](https://support.google.com/android/answer/7680439?hl=es-419) o [iOS](https://support.apple.com/es-us/HT204204) para asegurarte de tener las últimas correcciones de seguridad.
+- Configura una cuenta de [Signal.](https://signal.org/es/) Si no deseas utilizar tu número de teléfono personal, puedes crear un nuevo número de teléfono con [Google Voice](https://voice.google.com/) y registrarlo en Signal.
+- Busca une amigue (¡o un grupo!) con quien ir y conecta con elle/s a través de Signal para discutir los planes.
 
-## Durante
-- Utilice un compañero de protesta.
-- Confirme los planes de la reunión con sus compañeros de protesta antes de partir hacia el evento.
+## Durante 
+- Recurreune compañere de protesta.
+- Confirma los planes de la reunión con tus compañeres de protesta antes de partir hacia el evento.
   - Una vez que se reúnan, acuerden un lugar alternativo en caso de que se separen.
-- Utilice [Apple Maps](https://maps.apple.com/go) o [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) si necesita indicaciones para llegar a la ubicación de la
-protesta.
-  - Si puede, imprima las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo
-fuera de línea y no se podrá utilizar sin una conexión a Internet.
+- Utiliza [Apple Maps](https://maps.apple.com/go) o [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) si necesitas indicaciones para llegar a la ubicación de la protesta.
+  - Si puedes, imprime las instrucciones antes de partir para la marcha. Apple Maps no tiene un modo fuera de línea y no se podrá utilizar sin una conexión a Internet.
 
-## Después
-- Deje y elimine los grupos de señales creados para esa protesta.
-- ¡No publique sus fotos de protesta en las redes sociales!
+## Después 
+- Deja y elimina los grupos de señales creados para esa protesta.
+- ¡No publiques tus fotos de protesta en las redes sociales!
 
-# Preparando su teléfono
-Su teléfono es una herramienta poderosa, pero también un dispositivo de rastreo poderoso para las
-autoridades y otras entidades. Los teléfonos registran y comparten mucha información sobre su
-paradero y actividad con diferentes servicios. Esto suele ser algo bueno, ya que ayuda a que sus
-aplicaciones respondan a sus necesidades y situación. Pero cuando asiste a una acción, esas
-funciones pueden proporcionar una ruta de navegación digital abundante. Queremos evitar que se
-eliminen esas migas de pan digitales, y aquí hay algunos consejos sobre cómo hacerlo. 
+# Preparando tu teléfono 
+Tu teléfono es una herramienta poderosa, pero también es un dispositivo de rastreo potente para las autoridades y otras entidades. Los teléfonos registran y comparten mucha información sobre tu paradero y actividad con diferentes servicios. Esto suele ser algo bueno, ya que ayuda a que tus aplicaciones respondan a tus necesidades y situación. Pero cuando asistes a una acción, esas funciones pueden proporcionar un amplio rastro de migajas digitales. Queremos evitar que esas migajas digitales se caigan, y aquí tienes algunos consejos sobre cómo hacerlo.
+Asistir a una acción conlleva una amenaza adicional a la privacidad. Si tu teléfono se pierde o es confiscado por la policía, toda la información que contiene podría estar a su disposición. A continuación, compartiremos consejos para proteger tu teléfono contra intrusiones en caso de que caiga en manos de otra persona.
+Esta sección utiliza la palabra “teléfono” para referirse a un teléfono inteligente con iOS o Android, como los fabricados por Apple, Google, Samsung y otros. Si estás utilizando un teléfono más simple, es probable que tus riesgos sean menores.
 
-Asistir a una acción conlleva una amenaza adicional a la privacidad. Si su teléfono se pierde o es
-confiscado por la policía, toda la información que contiene podría estar disponible para la policía.
-A continuación, compartiremos consejos para proteger su teléfono contra intrusiones en caso de que
-caiga en manos de otra persona. 
+## Migajas Digitales 
 
-Esta sección utiliza la palabra "teléfono" para referirse a un teléfono inteligente con iOS o
-Android, como los fabricados por Apple, Google, Samsung y otros. Si está utilizando un teléfono más
-simple, es probable que sus riesgos sean menores. 
+Ya sea que tengas un iPhone o un Android, las amenazas a tu privacidad son las mismas. Tu teléfono tiene un receptor **GPS** integrado que permite que funcionen mapas y otras aplicaciones basadas en la ubicación. El propio teléfono mantendrá ese receptor GPS encendido en todo momento, registrando dónde te encuentras y, ocasionalmente, enviará actualizaciones sobre tu paradero a Google, Apple u otros editores de aplicaciones. Por lo tanto, queremos apagar el receptor GPS, lo que evita que los datos de ubicación se registren.
+**Bluetooth y WiFi** son tecnologías comunes que utilizan radio de corto alcance para comunicarse con otros dispositivos. Desafortunadamente, su funcionamiento requiere que tu teléfono transmita información identificable sobre sí mismo. Esta información puede ser observada por una “señal” o dispositivo de escaneo. Las tiendas, las agencias gubernamentales y la policía utilizan estos dispositivos para identificar a las personas que se encuentran cerca. Este tipo de vigilancia es profundamente peligrosa en una marcha, por lo que debemos desactivar Bluetooth y WiFi siempre que sea posible.
+**Tu operador de telefonía móvil** puede rastrear tu ubicación cuando tu teléfono contacta con sus torres de radio. Los teléfonos se conectan a las torres periódicamente mientras están encendidos, incluso si no se están utilizando activamente. Las conexiones de las torres son lo suficientemente precisas para colocar a una persona en la misma cuadra de una marcha. Esta información puede ser accesible por las autoridades a través de una citación.
+Todos los teléfonos tienen una opción para **“modo avión”,** que desactiva todas las radios. Esta función se creó para viajar en un avión, debido a la preocupación de que los teléfonos pudieran interferir con el funcionamiento del avión. Hoy en día, es una forma confiable de desactivar las tres radios con un solo botón: WiFi, Bluetooth y operador de telefonía móvil. Hay algunas advertencias leves, detalladas en las instrucciones de configuración de iPhone y Android, a continuación.
 
-## Migas de Pan Digitales
-Ya sea que tenga un iPhone o un Android, las amenazas a su privacidad son las mismas. Su teléfono
-tiene un receptor **GPS** integrado que permite que funcionen mapas y otras aplicaciones basadas en la
-ubicación. El propio teléfono mantendrá ese receptor GPS encendido en todo momento, registrando
-dónde se encuentra y, ocasionalmente, enviará actualizaciones sobre su paradero a Google, Apple u
-otros editores de aplicaciones. Por lo tanto, queremos apagar el receptor GPS, lo que evita
-que los datos de ubicación se registren. 
+## Protección contra intrusiones 
 
-**Bluetooth y WiFi** son tecnologías comunes que utilizan radio de corto alcance para comunicarse con
-otros dispositivos. Desafortunadamente, su funcionamiento requiere que su teléfono transmita
-información identificable sobre sí mismo. Esta información puede ser observada por una "señal" o
-dispositivo de escaneo. Las tiendas, las agencias gubernamentales y la policía utilizan estos
-dispositivos para identificar a las personas que se encuentran cerca. Este tipo de vigilancia es
-profundamente peligrosa en una marcha, por lo que debemos desactivar Bluetooth y WiFi siempre que
-sea posible.
+Si asistes a una marcha, existe el riesgo de que la policía confisque tu teléfono. Tendrán físicamente tu teléfono y pueden intentar extraer información. Todos los teléfonos tienen **pantallas de bloqueo,** que es la primera línea de defensa. En el uso diario, queremos que nuestra pantalla de bloqueo evite que une ladróne u otra persona desconocida abra fácilmente el teléfono. Con eso, los lectores de huellas dactilares y los escáneres faciales crean mecanismos de desbloqueo convenientes. La situación en una marcha es completamente diferente, ya que las autoridades pueden tener la capacidad de aplicar tu dedo o cara a tu teléfono para desbloquearlo, incluso si te resistes o si estás inconsciente. Por esta razón, **se deben evitar los mecanismos de desbloqueo biométrico durante una acción.** Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar un código. La policía (o cualquier persona) puede rastrear un deslizamiento, una forma o un código corto a las finas manchas que deja tu dedo en la pantalla. **Ingresar un código es lo más seguro.** El código debe ser lo suficientemente largo para evitar que sus huellas digitales lo revelen.
 
-**Su operador de telefonía móvil** puede rastrear su ubicación cuando su teléfono contacta con sus
-torres de radio. Los teléfonos se conectan a las torres periódicamente mientras están encendidos,
-incluso si no se están utilizando activamente. Las conexiones de las torres son lo suficientemente
-precisas para colocar a un individuo en la misma cuadra de una marcha. Esta información puede ser
-accesible por las autoridades a través de una citación. 
+Los teléfonos también te permiten seleccionar cuánto tiempo deben esperar antes de autobloquearse. Debes configurar este tiempo para que sea lo más corto posible, de modo que, si deja caer su teléfono o si es robado, el temporizador expirará y el teléfono se bloqueará antes de que alguien más pueda acceder a él. **El botón de encendido debe hacer que el teléfono se bloquee inmediatamente.**
 
-Todos los teléfonos tienen una opción para **"modo avión",** que desactiva todas las radios. Esta
-función se creó para viajar en un avión, debido a la preocupación de que los teléfonos pudieran
-interferir con el funcionamiento del avión. Hoy en día, es una forma confiable de desactivar las
-tres radios con un solo botón: WiFi, Bluetooth y operador de telefonía móvil. Hay algunas
-advertencias leves, detalladas en las instrucciones de configuración de iPhone y Android, a
-continuación. 
+Hay formas de acceder a los datos de un teléfono sin desbloquearlo. Una forma de defenderse de estos métodos es **la encriptación de disco completo,** donde toda la información del teléfono se almacena de forma cifrada. Esto impide que las fuerzas de seguridad puedan extraer los chips de almacenamiento de tu teléfono, ya que todo el contenido será ilegible si no se desbloquea en tu teléfono concreto mediante tu código de desbloqueo específico.
 
-## Protección contra intrusiones
-Si asiste a una marcha, existe el riesgo de que la policía confisque su teléfono. Tendrán
-físicamente su teléfono y pueden intentar extraer información. Todos los teléfonos tienen **pantallas
-de bloqueo**, que es la primera línea de defensa. En el uso diario, queremos que nuestra pantalla de
-bloqueo evite que un ladrón u otro extraño abra fácilmente el teléfono. Con eso, los lectores de
-huellas dactilares y los escáneres faciales crean mecanismos de desbloqueo convenientes. La
-situación en una marcha es completamente diferente, ya que las autoridades pueden tener la
-capacidad de aplicar su dedo o la cara a su teléfono para desbloquearlo, incluso si se resiste o
-está inconsciente. Por esta razón, 
-**se deben evitar los mecanismos de desbloqueo biométrico durante
-una acción**. Los otros mecanismos de desbloqueo generalmente implican dibujar una forma o ingresar
-un código. La policía (o cualquier persona) puede rastrear un deslizamiento, una forma o un código
-corto a partir de los aceites finos que deja el dedo en la pantalla. **Ingresar un código es lo más
-seguro.** El código debe ser lo suficientemente largo para evitar que sus huellas digitales lo
-revelen. 
+Para usar la encriptación de disco completo en un iPhone, simplemente configura un código de acceso a la pantalla de bloqueo. Si no tienes un código de acceso, no se activará la función.
 
-Los teléfonos también le permiten seleccionar cuánto tiempo deben esperar antes de auto bloquearse.
-Debe configurar este tiempo para que sea lo más corto posible, de modo que, si deja caer su teléfono
-o si es robado, el temporizador expirará y el teléfono se bloqueará antes de que alguien más pueda
-acceder a él. El **botón de encendido debe hacer que el teléfono se bloquee inmediatamente.** 
+Para ver si tu Android tiene la encriptación disponible y activada, puedes **ir a Configuración, elegir Seguridad y buscar la opción Encriptar teléfono.** Dirá “Cifrado” o te pedirá que actives el cifrado. Activar el cifrado tardará unas horas y tu dispositivo deberá estar conectado a su cargador. Esto es algo que solo se necesita hacer una vez.
 
-Hay formas de acceder a los datos de un teléfono sin desbloquearlo. Una forma de defenderse de estos
-métodos es **la encriptación de disco completo**, donde toda la información del teléfono se almacena de
-forma cifrada. Esto evita que la policía elimine los chips de almacenamiento de su teléfono, ya que
-todo el contenido será ilegible sin que su código de desbloqueo específico lo desbloquee en su
-teléfono específico. 
+Si tu dispositivo Android se envió con [Android 6 o una versión anterior](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no puedas utilizar esta función.
 
-Para usar la encriptación de disco completo en un iPhone, simplemente configure un código de acceso
-a la pantalla de bloqueo. Si no tiene un código de acceso, no activará la función. 
+## AirDrop 
+A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).
 
-Para ver si su Android tiene la encriptación disponible y activada, puede **ir a Configuración, elegir
-Seguridad y buscar la opción Encriptar teléfono.**  Dirá "Cifrado" o le pedirá que active el cifrado.
-Activar el cifrado tardará unas horas y su dispositivo deberá estar conectado a su cargador. Esto es
-algo que solo se necesita hacer una vez. 
+Recomendamos mantener AirDrop desactivado en todo momento cuando estés cerca o en una acción, y en la vida cotidiana, a menos que estés compartiendo activamente archivos con alguien.
 
-Si su dispositivo Android se envió con [Android 6 o una versión anterior](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html), es posible que no pueda
-utilizar esta función. 
+## Copias de seguridad del teléfono 
 
-## AirDrop
-A pesar del enfoque de Apple en la privacidad, aún hay puntos de vulnerabilidad con su software. Uno de ellos involucra la característica de [Airdrop](https://support.apple.com/es-us/HT204144). Cuando está activada, información personal puede salir del aparato, por ejemplo el número de teléfono y dirección electrónica, lo cual puede ser enviada a [otro aparato](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/). 
+Mantener copias de seguridad de tus datos importantes siempre es una buena idea, pero las copias de seguridad integradas en la nube de iOS y Android representan un problema para les activistas. Las copias de seguridad realizadas con iCloud están encriptadas de tal manera que les trabajadores de Apple pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más](https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono. También ofrece una conveniencia, donde si le usuarie olvida su código de desbloqueo, Apple aún puede recuperar el dispositivo. Para les activistas, el riesgo que representa el hecho de que sus claves de desbloqueo sean accesibles para las autoridades es potencialmente mayor que los beneficios de esa comodidad. **No recomendamos el uso de copias de seguridad de iCloud.**
 
-Recomendamos que lo mantenga desactivado cuando asista o esté cerca de una acción todo el tiempo, y en la vida diaria al menos de compartir archivos con alguien.
-
-## Copias de seguridad del teléfono
-
-Mantener copias de seguridad de sus datos importantes siempre es una buena idea, pero las copias de
-seguridad integradas en la nube de iOS y Android representan un problema para los activistas. Las
-copias de seguridad realizadas con iCloud están encriptadas de tal manera que los empleados de Apple
-pueden acceder a ellas. Esta debilidad se atribuye a [la presión del FBI](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT). Cualquier cosa en la copia
-de seguridad, que puede incluir fotos, contactos, mensajes sin cifrar [y más](https://oleb.net/2020/icloud-end-to-end-encryption/), se puede entregar a las
-autoridades. Las claves para desbloquear la encriptación de disco completo del teléfono también se
-almacenan en la copia de seguridad de iCloud. Este arreglo les permite a las autoridades que
-soliciten los datos de respaldo de Apple y así usar la clave para desbloquear todo el teléfono.
-También ofrece una conveniencia, donde si el usuario olvida su código de desbloqueo, Apple aún puede
-recuperar el dispositivo. Para los activistas, el riesgo que representa el hecho de que sus claves
-de desbloqueo sean accesibles para las autoridades es potencialmente mayor que los beneficios de esa
-comodidad.
-**No recomendamos el uso de copias de seguridad de iCloud.** 
-
-_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene
-claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas,
-contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre
-en código "Pie" y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo
-a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html)  sin la contraseña del usuario. Si su teléfono usa la
-versión 9 o más reciente, [esta función se activa automáticamente](https://thehackernews.com/2018/10/android-cloud-backup.html)  siempre que tenga una pantalla de
-bloqueo protegida con un PIN, patrón o código de acceso. 
-**No utilice copias de seguridad en la nube de Android anteriores a la versión 9.** 
+_[Android utiliza Google Drive](https://support.google.com/drive/answer/6305834?hl=es-419&co=GENIE.Platform%3DAndroid) para la copia de seguridad de datos, que generalmente no contiene claves de desbloqueo, pero incluye automáticamente datos de aplicaciones, datos de llamadas, contactos, eventos del calendario, videos y fotos. A partir de la versión 9 de Android (con nombre en código “Pie” y lanzado en 2018), Google ha ofrecido copias de seguridad encriptadas de un extremo a otro que [ni siquiera ellos pueden abrir](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html) sin la contraseña de le usuarie. Si tu teléfono usa la versión 9 o más reciente, esta función se activa automáticamente siempre que tenga una pantalla de bloqueo protegida con un PIN, patrón o código de acceso. **No utilices copias de seguridad en la nube de Android anteriores a la versión 9.**
 
 ## Instrucciones de configuración de su móvil 
 A continuación, tenemos pasos específicos para preparar su iPhone o Android. 

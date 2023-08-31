@@ -2,4 +2,4 @@ module github.com/InfosecForActivistsTeam/infosec-activists
 
 go 1.17
 
-require github.com/alex-shpak/hugo-book v0.0.0-20230213220505-036e037a63ba // indirect
+require github.com/alex-shpak/hugo-book v0.0.0-20230808113920-3f1bcccbfb24 // indirect

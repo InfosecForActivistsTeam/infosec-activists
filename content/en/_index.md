@@ -148,23 +148,27 @@ occasionally send updates on your whereabouts to Google, Apple, or other app pub
 will want to turn the GPS receiver off, which prevents from the location data from being
 recorded at all. 
 
-**Bluetooth and WiFi** are common technologies that use short-range radio to communicate with
-other devices. Unfortunately, their operation requires your phone to broadcast identifiable
-information about itself. This information can be observed by a "beacon" or scanning device.
+**Bluetooth, WiFi, and Ultrawideband (UWB)** are common technologies that use short-range radios to communicate with
+other devices. Unfortunately, their operation requires your phone to broadcast information which can uniquely identify itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
-This type of surveillance is profoundly dangerous at an
-action, so we need to disable Bluetooth and WiFi whenever possible. 
+This type of surveillance is profoundly dangerous at an action, so these radios should be disabled
+whenever possible. 
 
-**Your mobile carrier** can track your location by when your phone contacts its radio towers.
-Phones connect to towers periodically while on, even if they are not being actively used. Towers
-connections are sufficiently accurate to place an individual on the same block as an action.
-This information can be accessible to law enforcement through a subpoena.
+**Your mobile carrier** can also track your location using your phone's contact with its cellular towers.
+Even if you are not actively in a call, texting, or browsing the internet over a celluar connection, there
+is still constant activity between your device and the towers to maintain a connection. These connections
+are sufficiently accurate to place an individual on the same block as an action.
+This location information is typically logged by your carrier, and can be accessible to law
+enforcement. [Some police departments](https://www.aclu.org/issues/privacy-technology/surveillance-technologies/stingray-tracking-devices-whos-got-them) also have access to devices known
+as cell site simulators, IMSI catchers, or a "Stingray". These devices can mimic a mobile phone tower,
+and provide the police with more accurate, real-time data.
 
-All phones have an option for **"airplane mode,"** which disables *all* radios. This feature was
-created for travel in an airplane, out of a concern that phones would interfere with the plane's
-operation. Today it is a reliable way for you to disable all three radios
-with one button: WiFi, Bluetooth, and mobile carrier. There are some slight caveats, detailed in the 
-iPhone and Android setup instructions, below.
+Both iOS and Android phones have a feature named **"airplane mode,"** to quickly disable the cellular
+radio and some, or all, of the other radios present on the device. The exact behavior is dependent on
+which device you're using. The safest option for ensuring that all of your radios have been disabled
+is to both enable Airplane mode **and** manually ensure that the Bluetooth and WiFi radios are
+turned _Off_ in your devices Settings app. See the [iOS](#iphone-setup) or [Android](#android-setup)
+section below for the specific details for your device.
 
 ## Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will
@@ -207,7 +211,8 @@ of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) featur
 enabled, your phone could leak personally identifiable information (PII) such as your phone number
 and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
  
-We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life unless you are actively sharing files with someone. 
+We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life
+unless you are actively sharing files with someone. 
 
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
@@ -243,23 +248,34 @@ iPhone or Android below to see the instructions.
 Apple has prioritized personal security in recent years and now offers features to make securing
 your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
 
+If your device does not support *Face ID* as a biometric login method, you will see *Touch ID* on your
+device instead of *Face ID* where it is referenced below.
+
 * Set AirDrop to [Receiving Off](https://support.apple.com/en-us/HT204144#setoptions)
-	* *Settings → General → AirDrop*, select “Receiving Off”
+	* *Settings → General → AirDrop*, tap on **Receiving Off**
 * Disable your GPS receiver by turning off Location Services.
 	* *Settings → Privacy → Location Services*, toggle *Location Services* off.
-	* Even in Airplane mode, iOS will keep the GPS receiver active unless you do this.
-* Turn off Bluetooth, WiFi, and carrier radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
+	* Even in Airplane mode, iOS will keep the GPS receiver active unless Location Services is turned off.
+* Turn off WiFi, and the cellular radio by activating [Airplane Mode](https://support.apple.com/en-us/HT204234)
+	* Bluetooth **will not** be disabled the first time you use Airplace Mode. If you disable
+		Bluetooth *after* enabling Airplane mode, iOS will remember this, and disable
+		Bluetooth automatically the next time Airplane mode is used.
+* Disable your Bluetooth radio
+	* *Settings → Bluetooth*, toggle the *Bluetooth* slider off.
 * Lock screen setup
+	* Disable biometric login
+		* *Settings → Face ID & Passcode*, under the section “Use Face ID For:”, toggle all
+		  the sliders to off.
 	* Set your screen to auto-lock as quickly as possible, and require your passcode immediately.
 		* *Settings → Display & Brightness → Auto-Lock*, set to 30 seconds or 1 minute at the most
-		* *Settings → Touch ID & Passcode*, set “Require Passcode” to “Immediately”
-	* Practice with iOS’ Emergency SOS mode, and disable the emergency auto-call features.
+		* *Settings → Face ID & Passcode*, set “Require Passcode” to “Immediately”
+	* Practice with iOS’ [Emergency SOS](https://support.apple.com/en-us/HT208076) mode, and
+  		disable the emergency auto-call features.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
-		* Press and hold the power button and either of the volume buttons until the Emergency SOS lock screen appears. Face ID and Touch ID will be disabled until the passcode is reentered.
-	* Disable Touch ID and Face ID
-		* *Settings → Touch ID & Passcode*, under the section “Use Touch ID For:”, toggle all
-		  the sliders to off.   
+		* If you need to quickly lock down the device, press and hold the power button and either of 
+			the volume buttons until the Emergency SOS lock screen appears. At this point, biometric
+			login will be disabled until the passcode is reentered.
 {{< /tab >}}
 
 {{< tab "Android" >}}

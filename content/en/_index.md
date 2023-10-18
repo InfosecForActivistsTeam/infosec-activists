@@ -328,10 +328,22 @@ Virtual meetings over video calls are part of modern life and very common in act
 communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work
 and social meetups but do not offer the privacy activism requires. For that reason, we
 recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain
-the content of your meetings. Jitsi is free and does not even require a user account. You can
-start a meeting directly from their web page at [meet.jit.si](https://meet.jit.si/). No
-participants need to have accounts or give any personal information to use the
-platform. Jitsi takes security and personal anonymity seriously.
+the content of your meetings. Any data given during the meeting, including name given when 
+joining and chat, will be deleted at the conclusion of the meeting. 
+Jitsi is free and most participants do not need an account. 
+
+We say "most" because Jitsi now requires an account to *create* a meeting space, but joining that 
+space can still be done without an account and without providing any personal information. 
+The person who creates the meeting room must have a Jitsi account, or sign in using an account from 
+Google, GitHub or Facebook. Starting with the second person to join a meeting, no account and no 
+personal information is required. If you need to create a meeting space and require privacy, we 
+recommend you create a GitHub account using a burner email, and sign into Jitsi using that account.
+GitHub is a platform for software developers owned by Microsoft. It does not deeply verify accounts,
+and only collects the minimum user data necessary to run their services, per their 
+[privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+
+You can start a meeting directly from their web page at 
+[meet.jit.si](https://meet.jit.si/).  Jitsi takes security and personal anonymity seriously.
 You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety

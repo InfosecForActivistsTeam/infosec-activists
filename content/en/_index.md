@@ -337,10 +337,9 @@ space can still be done without an account and without providing any personal in
 The person who creates the meeting room must have a Jitsi account, or sign in using an account from 
 Google, GitHub or Facebook. Starting with the second person to join a meeting, no account and no 
 personal information is required. If you need to create a meeting space and require privacy, we 
-recommend you create a GitHub account using a burner email, and sign into Jitsi using that account.
-GitHub is a platform for software developers owned by Microsoft. It does not deeply verify accounts,
-and only collects the minimum user data necessary to run their services, per their 
-[privacy statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
+recommend you create a [GitHub account](https://github.com/signup) using a throwaway email address,
+and sign into Jitsi using that account. GitHub is a platform for software developers owned by Microsoft. 
+It does not deeply verify accounts. You can read their [privacy statement here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
 You can start a meeting directly from their web page at 
 [meet.jit.si](https://meet.jit.si/).  Jitsi takes security and personal anonymity seriously.

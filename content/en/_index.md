@@ -22,7 +22,8 @@ information against activists, and what you can do to protect yourself and other
 is focused on digital safety and information security for activists who have special requirements
 and risks.  Others have written about [protest safety](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
 in a [general sense](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html),
-as well as day-to-day [digital safety](https://www.wikihow.com/Protect-Personal-Information).  
+as well as day-to-day [digital safety](https://www.wikihow.com/Protect-Personal-Information).  We
+would be remiss if we did not remind you, [DON'T TALK TO THE POLICE](https://www.youtube.com/watch?v=nWEpW6KOZDs).
 
 
 **If you are in a hurry, please begin with the tools chart below.** You’ll find information you

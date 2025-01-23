@@ -22,7 +22,8 @@ information against activists, and what you can do to protect yourself and other
 is focused on digital safety and information security for activists who have special requirements
 and risks.  Others have written about [protest safety](https://www.dropbox.com/sh/7mrawvmzqzrpg34/AACJuakD-ZjAQ70KAWEMO5zAa?dl=0)
 in a [general sense](https://nymag.com/strategist/article/how-to-attend-george-floyd-protests-safely.html),
-as well as day-to-day [digital safety](https://www.wikihow.com/Protect-Personal-Information).  
+as well as day-to-day [digital safety](https://www.wikihow.com/Protect-Personal-Information).  We
+would be remiss if we did not remind you, [DON'T TALK TO THE POLICE](https://www.youtube.com/watch?v=nWEpW6KOZDs).
 
 
 **If you are in a hurry, please begin with the tools chart below.** You’ll find information you
@@ -461,6 +462,7 @@ Blake is a senior mobile developer, bringing technical expertise and an unhealth
 beer, & mead, and spending time with his dog, Lacey.
   
 ---
+Last updated on {{< current-date >}}.  
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
   

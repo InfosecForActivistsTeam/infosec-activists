@@ -462,7 +462,7 @@ Blake is a senior mobile developer, bringing technical expertise and an unhealth
 beer, & mead, and spending time with his dog, Lacey.
   
 ---
-Last updated on {{< current-date >}}.  
+Last updated on {{< last-modified >}}.
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
   

@@ -323,6 +323,8 @@ cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lac
 
 ---
 
+Última actualización el {{< last-modified >}}.
+
 [Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 

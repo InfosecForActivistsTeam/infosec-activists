@@ -243,7 +243,8 @@ are explained above. The buttons to press, however, are quite different between 
 iPhone or Android below to see the instructions. 
 
 {{< tabs >}}
-{{< tab "iPhone" >}}
+{{% tab "iPhone" %}}
+
 ### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
@@ -277,9 +278,10 @@ device instead of *Face ID* where it is referenced below.
 		* If you need to quickly lock down the device, press and hold the power button and either of 
 			the volume buttons until the Emergency SOS lock screen appears. At this point, biometric
 			login will be disabled until the passcode is reentered.
-{{< /tab >}}
+			
+{{% /tab %}}
+{{% tab "Android" %}}
 
-{{< tab "Android" >}}
 ### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
@@ -311,8 +313,10 @@ Click below to see steps to make your phone generally secure for the day of an a
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-{{< /tab >}}
+  
+{{% /tab %}}
 {{< /tabs >}}
+
 # Security Ideas
 This section is about keeping your information private in the rest of your life. In this
 document, “private” means only accessible to you, and not to anyone else without your permission.

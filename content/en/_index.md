@@ -6,8 +6,6 @@ weight: 1
 ---
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
 
-PDF: [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
-
 # Introduction
 America has a strong tradition of activism, dating back to [slave revolts](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) and
 [indigenous uprisings](https://themihs.info/calusa-period/) even before the founding of the

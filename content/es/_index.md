@@ -1,6 +1,5 @@
 ---
 title: "Infosec 101 para Activistas"
-author: "Drew Bjorn, Mark Sherman, Ph.D., y Blake Skinner"
 type: docs
 weight: 1
 ---
@@ -305,21 +304,7 @@ protesters' rights. ¡Para seguir las noticias del mundo de la privacidad y la l
 * [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
- 
-## Reconocimientos
-Blake, Drew, y Mark quieren agradecerles a Clare, Deb, Moe, Sasha, Stacy, y Vincent por su
-asistencia con este proyecto. También le agradecemos a nuestras mascotas, Lacey, Lily, Pico, y Roxy
-por su apoyo en estos tiempos difíciles. 
- 
-## Sobre el Autor
-Drew provee administración de proyectos y revisión lingüística para este medio. Cuando Drew no está
-enardeciendo a la multitud, le gusta pasear en bicicleta, hornear y leer. 
-Mark es un profesor de informática y se enfoca en la enseñanza informática, la democratización de
-computación y en recursos de ciudadanía digital. Cuando no estáesta trabajando para atajar un Elíseo
-social, Mark disfruta de D&D, monatr en bicicleta, manejar, cocinar y sus perros. 
-Blake es el Principal Desarrollador Móvil, ofrece conocimientos técnicos y un amor malsano de puns y
-Git a este proyecto. Cuando no estáesta atormentando el idioma inglés Ingles, éel disfruta de
-cocinar, fermentar Kombucha, cerveza y aguamiel y pasar tiempo con su perro, Lacey.
+
 
 ---
 

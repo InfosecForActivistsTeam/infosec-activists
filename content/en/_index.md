@@ -1,12 +1,9 @@
 ---
 title: "Infosec 101 for Activists"
-author: "Drew Bjorn, Mark Sherman, Ph.D., and Blake Skinner"
 type: docs
 weight: 1
 ---
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
-
-PDF: [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
 
 # Introduction
 America has a strong tradition of activism, dating back to [slave revolts](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) and
@@ -443,23 +440,6 @@ For ongoing news in the world of privacy and freedom of speech, check out the re
 * [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
-
-## Acknowledgments
-
-Blake, Drew, and Mark would like to thank Clare, Deb, Moe, Sasha, Stacy, and Vincent for their assistance with this project. 
-We also thank our pets, Lacey, Lily, Pico, and Roxy for their support in these challenging times. 
-
-## About the Authors
-Drew provides project management and language review for this resource. When not rabble rousing, 
-Drew enjoys bike rides, baking, and books. 
-
-Mark is a professor of computer science, focusing on computing education, democratization of computing, 
-and resources for digital citizenship. When not working to head off a societal Elysium, Mark enjoys 
-D&D, bike riding, cooking, and doggos.
-
-Blake is a senior mobile developer, bringing technical expertise and an unhealthy love of both puns 
-& Git to this project. When not tormenting the English language, he enjoys cooking, brewing kombucha, 
-beer, & mead, and spending time with his dog, Lacey.
   
 ---
 Last updated on {{< current-date >}}.  

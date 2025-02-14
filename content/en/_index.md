@@ -442,7 +442,7 @@ For ongoing news in the world of privacy and freedom of speech, check out the re
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
   
 ---
-Last updated on {{< current-date >}}.  
+Last updated on {{< last-modified >}}.
 
 [Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
   

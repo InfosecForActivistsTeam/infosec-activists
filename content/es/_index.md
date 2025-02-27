@@ -5,8 +5,6 @@ weight: 1
 ---
 Sitio web: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 
-Archivo digital (PDF): [https://infosecforactivists.org/Infosec_for_Activists.pdf](https://infosecforactivists.org/Infosec_for_Activists.pdf)
-
 # Introducción
 Estados Unidos tiene una tradición muy fuerte de activismo que se retrotrae a [las rebeliones de personas esclavizadas](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) y [los levantamientos indígenas](https://themihs.info/calusa-period/), incluso antes de que se fundara como nación. Hoy endía, el activismo en EEUU sigue siendo fundamental. Las protestas callejeras son una herramienta esencial que les activistas utilizan para crear conciencia y lograr cambios a nivel institucional. Dicho esto, desafiar las estructuras de poder existentes puede tener [un factor](https://www.icnl.org/usprotestlawtracker/) de [riesgo](https://www.aclu.org/issues/free-speech/rights-protesters/anti-protest-bills-around-country). Por ejemplo, la exposición  puede conducir al acoso, arresto o en [la divulgación de información privada](https://www.muo.com/what-is-doxxing/).
 

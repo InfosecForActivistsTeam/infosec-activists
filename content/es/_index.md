@@ -308,6 +308,8 @@ protesters' rights. ¡Para seguir las noticias del mundo de la privacidad y la l
 
 ---
 
+Última actualización el {{< last-modified >}}.
+
 [Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 

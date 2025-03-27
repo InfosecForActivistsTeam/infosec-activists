@@ -36,8 +36,9 @@ without bringing unnecessary police surveillance, violence, or threats to your e
 doorstep. This document is a guide to help you keep control over your own sensitive information.
 
 # Tools to Use
-Need secure, private communications in a hurry?  Here are services you can switch to right now! 
-(We do not receive kickbacks from any of these companies.  Or anybody, actually.)
+Need secure, private communications in a hurry? Here are services you can switch to right now! We
+chose the following options based on their security, privacy, cost, and accessibility for beginning
+users. We do not receive kickbacks from any of these companies. Or anybody, actually.
 
 | Tools                                                      | Use             | What it replaces, or what it does                                                     | What it costs                       |
 |------------------------------------------------------------|-----------------|---------------------------------------------------------------------------------------|-------------------------------------|

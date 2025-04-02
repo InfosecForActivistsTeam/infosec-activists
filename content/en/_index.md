@@ -3,7 +3,7 @@ title: "Infosec 101 for Activists"
 type: docs
 weight: 1
 ---
-Website: [https://infosecforactivists.org/](https://infosecforactivists.org/) 
+Website: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 
 # Introduction
 America has a strong tradition of activism, dating back to [slave revolts](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) and
@@ -63,23 +63,23 @@ to place a person at an action. Even more dangerous, they can then locate a pers
 specific areas within an action, or near criminal acts, within a few feet and down to the minute.
 Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
-track their users in this way. They also go out of their way to anonymize the data collected by the map providers. 
+track their users in this way. They also go out of their way to anonymize the data collected by the map providers.
 
 Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group messages
 may be reported as "spam" or "abuse", and the full contents of messages may be subject to review
 by Telegram staff and contractors. That data can then be provided to law enforcement. To make things
-worse, the full encryption technique is not active for all conversations by default.  
+worse, the full encryption technique is not active for all conversations by default.
 
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
-which was built from the ground up for personal security. 
+which was built from the ground up for personal security.
 
 Similar reasoning applies to all the recommendations we make in this document.  If you use it,
 we have probably researched its security features for this project. If there are tools you are not
 ready to give up, we encourage you to research their privacy policies and what you can do to
-protect your data. 
+protect your data.
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where
@@ -106,16 +106,16 @@ and places where you can meet up with your buddies before you go to the protest.
 * Make sure your device is updated to the latest version of your OS, and all your apps are up to date.
 	* Check and update your [Android](https://support.google.com/android/answer/7680439) or
 	  [iOS](https://support.apple.com/en-us/HT204204) version to make sure you have the latest
-	  security fixes. 
+	  security fixes.
 * Set up a [Signal](https://signal.org/en/) account. If you don’t want to use your personal
   phone number, you can create a new phone number with [Google Voice](https://voice.google.com) and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
 ## During
 * Use a protest buddy.
-* Confirm meetup plans with your protest buddies before leaving for the event. 
-	* Once you meet up, agree on a fallback location in case you get separated. 
-* Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest. 
+* Confirm meetup plans with your protest buddies before leaving for the event.
+	* Once you meet up, agree on a fallback location in case you get separated.
+* Use [Apple Maps](https://maps.apple.com/go) or [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/) if you need directions to the location of the protest.
 	* If you can, print the directions before leaving for the action. Apple Maps does not have an
 	  offline mode, and will not be usable without an internet connection.
 
@@ -133,11 +133,11 @@ some advice on how to do that.
 
 Attending an action brings an additional threat to privacy. If your phone is lost or confiscated
 by law enforcement, all the information on it could then be available to police. Below we will
-share advice to protect your phone against intrusion should it fall into someone else's hands. 
+share advice to protect your phone against intrusion should it fall into someone else's hands.
 
 This section uses the word "phone" to mean a smartphone running iOS or Android, such as those
 manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks
-are likely fewer. 
+are likely fewer.
 
 ## Digital Breadcrumbs
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone
@@ -145,13 +145,13 @@ has a built-in **GPS** receiver that enables maps and other location-based apps 
 The phone itself will keep that GPS receiver on at all times, recording where you are, and
 occasionally send updates on your whereabouts to Google, Apple, or other app publishers. So we
 will want to turn the GPS receiver off, which prevents from the location data from being
-recorded at all. 
+recorded at all.
 
 **Bluetooth, WiFi, and Ultrawideband (UWB)** are common technologies that use short-range radios to communicate with
 other devices. Unfortunately, their operation requires your phone to broadcast information which can uniquely identify itself. This information can be observed by a "beacon" or scanning device.
 Stores, government agencies, and police use these devices to identify people who are nearby.
 This type of surveillance is profoundly dangerous at an action, so these radios should be disabled
-whenever possible. 
+whenever possible.
 
 **Your mobile carrier** can also track your location using your phone's contact with its cellular towers.
 Even if you are not actively in a call, texting, or browsing the internet over a celluar connection, there
@@ -178,15 +178,15 @@ phone. With that, fingerprint readers and face scanners make for convenient unlo
 The situation at an action is starkly different, as law enforcement may have the ability to apply your finger or face to your phone to
 unlock it, even if you resist or are unconscious. For this reason,
 **biometric unlock mechanisms should be avoided during an action**. The other unlock mechanisms
-typically involve drawing a shape or entering a code. A swipe or, shape, or short code can be traced 
-by police (or anyone) from the thin oils your finger leaves on the screen. 
+typically involve drawing a shape or entering a code. A swipe or, shape, or short code can be traced
+by police (or anyone) from the thin oils your finger leaves on the screen.
 **Entering a code is the most secure.**  The code should be long enough to
-prevent your fingerprints from giving it away. 
+prevent your fingerprints from giving it away.
 
-Phones also let you select how long they should wait before auto-locking themselves. You should set 
-this time to be as short as possible, so that if you drop your phone or if is stolen, the timer will 
-expire and the phone will lock before anyone else can access it. 
-The **power button should make the phone immediately lock**. 
+Phones also let you select how long they should wait before auto-locking themselves. You should set
+this time to be as short as possible, so that if you drop your phone or if is stolen, the timer will
+expire and the phone will lock before anyone else can access it.
+The **power button should make the phone immediately lock**.
 
 There are ways to access data on a phone without unlocking it. One way to defend against these
 methods is **full-disk encryption**, where all the information on the phone is stored in encrypted form.
@@ -194,9 +194,9 @@ This prevents law enforcement from removing the storage chips from your phone,
 as all of the contents will be unreadable without being unlocked in your specific phone by your specific unlock code.
 
 To use full-disk encryption on an iPhone, simply set a lock screen passcode. If you don't have a
-passcode, it will not activate the feature. 
+passcode, it will not activate the feature.
 
-To see if your Android has encryption available and turned on, you can **go to Settings, choose Security, and find the Encrypt Phone option.** 
+To see if your Android has encryption available and turned on, you can **go to Settings, choose Security, and find the Encrypt Phone option.**
 It will say “Encrypted” or prompt you to turn on
 encryption. Turning on encryption will take a few hours, and your device will need to be plugged
 into its charger. This is something you only need to do once.
@@ -208,37 +208,37 @@ you may not be able to use this feature.
 Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
 of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
 enabled, your phone could leak personally identifiable information (PII) such as your phone number
-and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).  
- 
+and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/apples-airdrop-leaks-users-pii-and-theres-not-much-they-can-do-about-it/).
+
 We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life
-unless you are actively sharing files with someone. 
+unless you are actively sharing files with someone.
 
 ## Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
-and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that 
-employees at Apple can access them. This weakness is attributed to [pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT) 
-Anything in the backup, which may include photos, contacts, unencrypted messages, [and more,](https://oleb.net/2020/icloud-end-to-end-encryption/) 
-can be handed over to law enforcement. Keys to unlock the phone's full-disk encryption are also 
-stored in the iCloud backup. This arrangement allows law enforcement to request the backup data from 
-Apple and use the key to unlock the entire phone. It also offers a convenience, where if the user 
-forgets their unlock code, Apple can still recover the device. For activists, the risk posed by your 
-unlock keys being accessible to law enforcement is potentially greater than the benefits of that 
-convenience. 
+and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that
+employees at Apple can access them. This weakness is attributed to [pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT)
+Anything in the backup, which may include photos, contacts, unencrypted messages, [and more,](https://oleb.net/2020/icloud-end-to-end-encryption/)
+can be handed over to law enforcement. Keys to unlock the phone's full-disk encryption are also
+stored in the iCloud backup. This arrangement allows law enforcement to request the backup data from
+Apple and use the key to unlock the entire phone. It also offers a convenience, where if the user
+forgets their unlock code, Apple can still recover the device. For activists, the risk posed by your
+unlock keys being accessible to law enforcement is potentially greater than the benefits of that
+convenience.
 **We do not recommend using iCloud backups.**
 
 [Android leverages Google Drive](https://support.google.com/drive/answer/6305834?co=GENIE.Platform%3DAndroid)
-for data backup, which does not generally contain unlock keys, but does automatically include app data, 
-call data, contacts, calendar events, videos, and photos. Starting with Android version 9 (codenamed 
+for data backup, which does not generally contain unlock keys, but does automatically include app data,
+call data, contacts, calendar events, videos, and photos. Starting with Android version 9 (codenamed
 "Pie" and released in 2018), Google has offered end-to-end encrypted backups that [even they cannot
-open](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html) without the 
-user's passcode. If your phone uses version 9 or newer, [this feature is automatically active](https://thehackernews.com/2018/10/android-cloud-backup.html) 
+open](https://security.googleblog.com/2018/10/google-and-android-have-your-back-by.html) without the
+user's passcode. If your phone uses version 9 or newer, [this feature is automatically active](https://thehackernews.com/2018/10/android-cloud-backup.html)
 as long as you have a lock screen protected with a PIN, pattern, or passcode.
 **Do not use Android cloud backups prior to version 9.**
 
 ## Phone Setup Instructions
-Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and 
-are explained above. The buttons to press, however, are quite different between the two. Select 
-iPhone or Android below to see the instructions. 
+Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and
+are explained above. The buttons to press, however, are quite different between the two. Select
+iPhone or Android below to see the instructions.
 
 {{< tabs >}}
 {{% tab "iPhone" %}}
@@ -246,7 +246,7 @@ iPhone or Android below to see the instructions.
 ### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
-your iPhone easier. Following these steps will make your phone reasonably secure for an action. 
+your iPhone easier. Following these steps will make your phone reasonably secure for an action.
 
 If your device does not support *Face ID* as a biometric login method, you will see *Touch ID* on your
 device instead of *Face ID* where it is referenced below.
@@ -273,16 +273,16 @@ device instead of *Face ID* where it is referenced below.
   		disable the emergency auto-call features.
 		* *Disable Settings → Emergency SOS → Auto-call*
 		* *Disable Settings → Emergency SOS → Call with Side Button*
-		* If you need to quickly lock down the device, press and hold the power button and either of 
+		* If you need to quickly lock down the device, press and hold the power button and either of
 			the volume buttons until the Emergency SOS lock screen appears. At this point, biometric
 			login will be disabled until the passcode is reentered.
-			
+
 {{% /tab %}}
 {{% tab "Android" %}}
 
 ### Android Setup
 
-Android has flexible settings that can be used to make your phone secure and usable in a number of situations. 
+Android has flexible settings that can be used to make your phone secure and usable in a number of situations.
 Click below to see steps to make your phone generally secure for the day of an action.
 
 * Disable your GPS receiver by turning off Location Services.
@@ -298,20 +298,20 @@ Click below to see steps to make your phone generally secure for the day of an a
 	  buttons are often next to each other.
 	* Check that Bluetooth is really off. Android may keep it on if Bluetooth devices are
 	  connected. The button in the notification panel should be grayed/uncolored to indicate it
-	  is off. 
+	  is off.
 * Lock screen setup
 	* Go to *Settings → Security → Screen Lock* and select PIN or Password.
 	* You will be asked if you want notifications to be shown on screen while the phone is
 	  locked. The safest option is “Don’t show any notifications at all.” If that does not work
 	  for you, choose “Hide sensitive notification content.”
-	* Click the gear to enter Screen Lock settings: 
+	* Click the gear to enter Screen Lock settings:
 		* Set "Lock after screen timeout" to Immediately.
 		* Turn on "Power button instantly locks".
 	* Disable Smart Lock if you have it. It can keep your phone unlocked when you don't expect
 	  it, which is dangerous at an action.
 * Go to *Settings → Display → Advanced → Screen timeout* and set it to the shortest possible
   time, usually 15 seconds.
-  
+
 {{% /tab %}}
 {{< /tabs >}}
 
@@ -331,36 +331,36 @@ Virtual meetings over video calls are part of modern life and very common in act
 communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work
 and social meetups but do not offer the privacy activism requires. For that reason, we
 recommend [Jitsi](https://jitsi.org/). Unlike other platforms, Jitsi does not record or retain
-the content of your meetings. Any data given during the meeting, including name given when 
-joining and chat, will be deleted at the conclusion of the meeting. 
-Jitsi is free and most participants do not need an account. 
+the content of your meetings. Any data given during the meeting, including name given when
+joining and chat, will be deleted at the conclusion of the meeting.
+Jitsi is free and most participants do not need an account.
 
-We say "most" because Jitsi now requires an account to *create* a meeting space, but joining that 
-space can still be done without an account and without providing any personal information. 
-The person who creates the meeting room must have a Jitsi account, or sign in using an account from 
-Google, GitHub or Facebook. Starting with the second person to join a meeting, no account and no 
-personal information is required. If you need to create a meeting space and require privacy, we 
+We say "most" because Jitsi now requires an account to *create* a meeting space, but joining that
+space can still be done without an account and without providing any personal information.
+The person who creates the meeting room must have a Jitsi account, or sign in using an account from
+Google, GitHub or Facebook. Starting with the second person to join a meeting, no account and no
+personal information is required. If you need to create a meeting space and require privacy, we
 recommend you create a [GitHub account](https://github.com/signup) using a throwaway email address,
-and sign into Jitsi using that account. GitHub is a platform for software developers owned by Microsoft. 
+and sign into Jitsi using that account. GitHub is a platform for software developers owned by Microsoft.
 It does not deeply verify accounts. You can read their [privacy statement here](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement).
 
-You can start a meeting directly from their web page at 
+You can start a meeting directly from their web page at
 [meet.jit.si](https://meet.jit.si/).  Jitsi takes security and personal anonymity seriously.
 You can read more on their [security page](https://jitsi.org/security/).
 
 ## Password Safety
 The password is the primary mechanism used to secure your online accounts, but it is also a
-significant point of vulnerability. How can we manage this? 
+significant point of vulnerability. How can we manage this?
 
-* Turn on two-factor authentication (2FA) everywhere it’s offered. 
-* Use long and strong passwords that are not easily guessed. 
-* Use a password manager to securely store your passwords, then use a unique password for each service. 
+* Turn on two-factor authentication (2FA) everywhere it’s offered.
+* Use long and strong passwords that are not easily guessed.
+* Use a password manager to securely store your passwords, then use a unique password for each service.
 
-## Two-Factor Authentication (2FA) 
+## Two-Factor Authentication (2FA)
 This adds a second check, whenever you log in, that it’s really you. The second factor can be an
 app on your phone, an email, or text message. A one-time-use code is sent to you, which you then
 enter into the service to prove you control that second factor. Not all channels are equal in
-their security, but **any 2FA is worlds better than none at all.**  
+their security, but **any 2FA is worlds better than none at all.**
 
 When choosing a 2FA method, an authenticator app such as [Google Authenticator](https://www.tomsguide.com/us/google-authenticator-how-to-use,news-26819.html) provides a good balance
 between convenience and security. Google Authenticator is free, and available from both the [Google Play Store](https://play.google.com/store/apps/details?id=com.google.android.apps.authenticator2), and [Apple's App Store](https://apps.apple.com/us/app/google-authenticator/id388497605).
@@ -382,7 +382,7 @@ instantly, but a 10-character password would take hours. XKCD did a fun explanat
 best technique right now is to use a passphrase of multiple words that are easy for you to
 remember but so long that it would take centuries for a hacker to crack. You can use a technique
 called [Diceware](https://en.wikipedia.org/wiki/Diceware) to come up with a random but memorable
-passphrase. Doug Muth built a nice online Diceware tool below.  
+passphrase. Doug Muth built a nice online Diceware tool below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
@@ -399,7 +399,7 @@ control), then your password could be released to the hacker community, often ri
 email. It's shockingly easy for hackers to try using those leaked credentials with other
 services, including with variations to the password. This is the most common way for people's
 accounts to be breached. This vulnerability is neutralized if the password used with the hacked
-service is totally unique.  
+service is totally unique.
 
 With a password manager, you can set every service to use a totally
 unguessable, randomly generated, unique password, like `7Xg*2BMVxCo!uY`. Most password managers
@@ -408,10 +408,10 @@ they stay securely recorded inside your personal vault within the manager. Our r
 [BitWarden](https://bitwarden.com/), an open-source and easy-to-use password manager that uses
 widely-agreed-upon encryption standards for your passwords.
 
-## Security Questions 
+## Security Questions
 Services often use personal questions as a backup system, should you need to reset your
 password. These questions often ask for personal information, like the name of your childhood
-pet or mother’s maiden name. This information, however, is often accessible to others.  
+pet or mother’s maiden name. This information, however, is often accessible to others.
 
 When you respond to security questions, try **using code phrases instead of answering them honestly**,
 so that nobody familiar with your life could guess it and force a password reset without your
@@ -423,33 +423,33 @@ These tips don't just protect you, but protect the safety and privacy of others 
 
 * Think carefully about who you can safely share your involvement in activism with.
 * Don’t use email for protest related conversation.
-* Google your full name occasionally and see what comes up. 
+* Google your full name occasionally and see what comes up.
 * Do not “check in” to a protest on Facebook or any other service. You don’t want to give third parties evidence that you were there. Police use subpoenas to get user information from Facebook and other social media companies all the time.
 * Don’t take anyone’s photo without permission.
 * If you take any photos, don’t post them on social media. Images have extra information hidden in them that includes the time and place they were taken. If you send photos or videos out at all, only send them to people you trust, over secure means, long after and far away from the protest.
 * Have a protest buddy and use Signal to communicate with them.
 * When using Signal, enable “Disappearing Messages” for any sensitive conversations.
 
-# Closing 
+# Closing
 We hope that you have found this resource helpful. While at first these materials may seem
 intimidating, we are confident you can master them with a little time and practice. The world of
 information security changes frequently and quickly - while we will do our best to keep this
-page up to date, we encourage you to diversify your information sources.  
+page up to date, we encourage you to diversify your information sources.
 
 If you'd like to continue learning, Malwarebyte's [Lock and Code](https://blog.malwarebytes.com/podcast/)
 podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/),
 and the ACLU tackles [ongoing threats to protesters' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
-For ongoing news in the world of privacy and freedom of speech, check out the resources below!  
+For ongoing news in the world of privacy and freedom of speech, check out the resources below!
 
 * [Techdirt](https://www.techdirt.com)
 * [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
 * [Arstechnica](https://arstechnica.com)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
-  
+
 ---
 Last updated on {{< last-modified >}}.
 
-[Send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)  
-  
-![GitHub Logo](media/GitHub-Mark-32px.png)  
-See a mistake, or want to help us improve this document? Contribute to the project on [Github](https://github.com/InfosecForActivistsTeam/infosec-activists).  
+Contact us at [contact@infosecforactivists.org](mailto:contact@infosecforactivists.org) or [send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)
+
+![GitHub Logo](media/GitHub-Mark-32px.png)
+See a mistake, or want to help us improve this document? Contribute to the project on [Github](https://github.com/InfosecForActivistsTeam/infosec-activists).

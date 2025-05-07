@@ -449,7 +449,9 @@ For ongoing news in the world of privacy and freedom of speech, check out the re
 ---
 Last updated on {{< last-modified >}}.
 
-Contact us at [contact@infosecforactivists.org](mailto:contact@infosecforactivists.org) or [send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link) (Uses a google form. Do not submit personal or sensitive information.)
+Contact us at [contact@infosecforactivists.org](mailto:contact@infosecforactivists.org) or
+[send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
+(Uses a google form. Do not submit personal or sensitive information.)
 
 ![GitHub Logo](media/GitHub-Mark-32px.png)
 See a mistake, or want to help us improve this document? Contribute to the project on [Github](https://github.com/InfosecForActivistsTeam/infosec-activists).

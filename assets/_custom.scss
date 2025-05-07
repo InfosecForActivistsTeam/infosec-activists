@@ -1,0 +1,13 @@
+@media print {
+    .book-icon {
+        display: none;
+    }
+
+    #TableOfContents {
+        display: none;
+    }
+
+    .book-tabs-content {
+        display: block !important;
+    }
+}

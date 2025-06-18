@@ -1,4 +1,11 @@
 @media print {
+    @page {
+        margin-top: 0.25in;
+        margin-bottom: 0.25in;
+        margin-left: 0.25in;
+        margin-right: 0.25in;
+    }
+
     .book-icon {
         display: none;
     }
@@ -8,6 +15,28 @@
     }
 
     .book-tabs-content {
-        display: block !important;
+        display: inline !important;
+        break-before: page;
+        break-inside: avoid;
+    }
+
+    h1#security-ideas {
+        break-before: always;
+    }
+
+    h1#tools-to-use {
+        break-before: always;
+    }
+
+    h2#tools-not-to-use {
+        break-before: always;
+    }
+
+    div.book-tabs {
+        display: inline !important;
+    }
+
+    label {
+        display: none !important;
     }
 }

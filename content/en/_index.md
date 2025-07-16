@@ -436,9 +436,7 @@ intimidating, we are confident you can master them with a little time and practi
 information security changes frequently and quickly - while we will do our best to keep this
 page up to date, we encourage you to diversify your information sources.
 
-If you'd like to continue learning, Malwarebyte's [Lock and Code](https://blog.malwarebytes.com/podcast/)
-podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebytes.com/podcast/2021/01/data-privacy-day-lock-and-code-special/),
-and the ACLU tackles [ongoing threats to protesters' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
+# More Resources
 For ongoing news in the world of privacy and freedom of speech, check out the resources below!
 
 * [Activist Handbook: Security](https://activisthandbook.org/tools/security)

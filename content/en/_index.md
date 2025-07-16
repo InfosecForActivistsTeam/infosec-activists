@@ -441,9 +441,9 @@ podcast has an episode on [Why Data Privacy Day matters](https://blog.malwarebyt
 and the ACLU tackles [ongoing threats to protesters' rights](https://www.aclu.org/podcast/deray-mckesson-threat-protesters-rights-ep-99).
 For ongoing news in the world of privacy and freedom of speech, check out the resources below!
 
-* [Techdirt](https://www.techdirt.com)
-* [Wired: Privacy](https://www.wired.com/tag/privacy/page/1/)
-* [Arstechnica](https://arstechnica.com)
+* [Activist Handbook: Security](https://activisthandbook.org/tools/security)
+* [Privacy Guides: Why Privacy Matters](https://www.privacyguides.org/en/basics/why-privacy-matters/)
+* [404 Media](https://404media.co/)
 * [EFF Deeplinks](https://www.eff.org/deeplinks)
 
 ---

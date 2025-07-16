@@ -432,13 +432,10 @@ These tips don't just protect you, but protect the safety and privacy of others 
 
 # Closing
 We hope that you have found this resource helpful. While at first these materials may seem
-intimidating, we are confident you can master them with a little time and practice. The world of
-information security changes frequently and quickly - while we will do our best to keep this
-page up to date, we encourage you to diversify your information sources.
+intimidating, we are confident you can master them with a little time and practice. You can take your
+learning journey further with the links below.
 
 # More Resources
-For ongoing news in the world of privacy and freedom of speech, check out the resources below!
-
 * [Activist Handbook: Security](https://activisthandbook.org/tools/security)
 * [Privacy Guides: Why Privacy Matters](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 * [404 Media](https://404media.co/)

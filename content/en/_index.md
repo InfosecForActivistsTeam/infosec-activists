@@ -55,6 +55,13 @@ users. We do not receive kickbacks from any of these companies. Or anybody, actu
 In this document, we make recommendations against some popular and commonplace tools. Our recommendations
 are all based on the same guiding principles. The logic behind them is simple – **avoid tools
 that collect your information, store it outside of your control, or leave it publicly exposed.**
+
+Similar reasoning applies to all the recommendations we make in this document.  If you use it,
+we have probably researched its security features for this project. If there are tools you are not
+ready to give up, we encourage you to research their privacy policies and what you can do to
+protect your data.
+
+### (Do not use) Google Maps
 The most challenging is likely Google Maps, which we believe should be avoided while attending an
 action. Google Maps always tracks its users, and Google keeps this tracking data in detail,
 forever. All of this data can be [given to law enforcement](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been).
@@ -65,6 +72,7 @@ Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers.
 
+### (Do not use) Telegram
 Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group messages
@@ -72,14 +80,33 @@ may be reported as "spam" or "abuse", and the full contents of messages may be s
 by Telegram staff and contractors. That data can then be provided to law enforcement. To make things
 worse, the full encryption technique is not active for all conversations by default.
 
+### (Do not use) WhatsApp
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
 which was built from the ground up for personal security.
+ 
+### (Do not use) Discord
+Discord is growing in popularity among activists. It feels nice, as it is community-oriented, with 
+individual "servers" for people to join around common interests. **Nothing on Discord is secure,**
+meaning content (messages, images, etc.) posted to a Discord server can easily be seen by others outside
+that server, and in some situations outside Discord entirely. 
+[Discord provides data to law enforcement](https://discord.com/safety/360044157931-Working-with-law-enforcement) 
+when requested. It is Discord's policy to notify users when such a request was executed, but there 
+are occasions where laws allow for notice to be skipped.
 
-Similar reasoning applies to all the recommendations we make in this document.  If you use it,
-we have probably researched its security features for this project. If there are tools you are not
-ready to give up, we encourage you to research their privacy policies and what you can do to
-protect your data.
+Discord collects information about all its users, including actions outside the Discord app.**
+According to the [Discord privacy policy](https://discord.com/privacy/#3), they collect your content
+(messages, images, actions, etc), information about your device,
+and some things you are doing outside the Discord app, like games you are playing, other apps you are 
+using, and in some circumstances, websites you are visiting. Even if you sign up with Discord using
+a psyeudonym, the data about your device and actions [could be enough for to 
+re-identify you](https://news.mit.edu/2013/how-hard-it-de-anonymize-cellphone-data) 
+by cross-referencing with other data sources.
+
+Discord does not collect everything at all times, and their [data retention policy](https://support.discord.com/hc/en-us/articles/5431812448791-How-long-Discord-keeps-your-information) is relatively 
+pro-consumer, but the conditions under which data can be collected, kept, and delivered to law 
+enforcement, in our opinion, sums to an unacceptable risk for activist use.
+
 
 # Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where

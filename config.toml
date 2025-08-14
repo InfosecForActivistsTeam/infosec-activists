@@ -34,3 +34,4 @@ defaultContentLanguage = 'en'
   BookTheme = 'auto'
   BookComments = false
   BookSection = "*"
+  BookSearch = false

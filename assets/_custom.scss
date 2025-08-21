@@ -40,3 +40,9 @@
         display: none !important;
     }
 }
+
+// Make sure that the label next to the languages toggle
+// gets a visible outline when the checkbox is focused
+input.toggle:focus + label {
+    outline: auto;
+}

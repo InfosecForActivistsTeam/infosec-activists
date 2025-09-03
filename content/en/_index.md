@@ -5,7 +5,7 @@ weight: 1
 ---
 Website: [https://infosecforactivists.org/](https://infosecforactivists.org/)
 
-# Introduction
+## Introduction
 America has a strong tradition of activism, dating back to [slave revolts](https://www.history.com/topics/black-history/slavery-iv-slave-rebellions#section_1) and
 [indigenous uprisings](https://themihs.info/calusa-period/) even before the founding of the
 United States. Today, activism in the US remains critical. Street protests are an essential tool
@@ -35,7 +35,7 @@ have ramifications in your everyday life. Our goal is to help you conduct activi
 without bringing unnecessary police surveillance, violence, or threats to your employment to your
 doorstep. This document is a guide to help you keep control over your own sensitive information.
 
-# Tools to Use
+## Tools to Use
 Need secure, private communications in a hurry? Here are services you can switch to right now! We
 chose the following options based on their security, privacy, cost, and accessibility for beginning
 users. We do not receive kickbacks from any of these companies. Or anybody, actually.
@@ -51,7 +51,7 @@ users. We do not receive kickbacks from any of these companies. Or anybody, actu
 | [ProtonVPN](https://protonvpn.com/)         				 | VPN             | Protects your activity from your cable or mobile provider, who may share with police. | Free, more features $5/mo or $10/mo |
 | [Signal](https://signal.org/en/)                           | Messaging       | Text messages, facebook messenger, other insecure instant messaging apps              | Free                                |
 
-## Tools NOT to Use
+### Tools NOT to Use
 In this document, we make recommendations against some popular and commonplace tools. Our recommendations
 are all based on the same guiding principles. The logic behind them is simple – **avoid tools
 that collect your information, store it outside of your control, or leave it publicly exposed.**
@@ -61,7 +61,7 @@ we have probably researched its security features for this project. If there are
 ready to give up, we encourage you to research their privacy policies and what you can do to
 protect your data.
 
-### (Do not use) Google Maps
+#### (Do not use) Google Maps
 The most challenging is likely Google Maps, which we believe should be avoided while attending an
 action. Google Maps always tracks its users, and Google keeps this tracking data in detail,
 forever. All of this data can be [given to law enforcement](https://www.eff.org/deeplinks/2019/04/googles-sensorvault-can-tell-police-where-youve-been).
@@ -72,7 +72,7 @@ Our alternative suggestions, [Apple Maps](https://maps.apple.com/go) and
 [DuckDuckGo Maps](https://help.duckduckgo.com/duckduckgo-help-pages/features/maps/), do not
 track their users in this way. They also go out of their way to anonymize the data collected by the map providers.
 
-### (Do not use) Telegram
+#### (Do not use) Telegram
 Another popular tool [we must recommend against](https://gizmodo.com/why-you-should-stop-using-telegram-right-now-1782557415) is Telegram, as it has a track record of
 [security issues](https://www.wired.com/story/telegram-encryption-whatsapp-settings/). While it
 supports end-to-end encryption for messages between individuals (see [Messaging with Encryption](#messaging-with-encryption) below), it does not apply this security to group messages. Group messages
@@ -80,12 +80,12 @@ may be reported as "spam" or "abuse", and the full contents of messages may be s
 by Telegram staff and contractors. That data can then be provided to law enforcement. To make things
 worse, the full encryption technique is not active for all conversations by default.
 
-### (Do not use) WhatsApp
+#### (Do not use) WhatsApp
 WhatsApp, while popular in some activist circles, [has similar issues](https://theintercept.com/2016/06/22/battle-of-the-secure-messaging-apps-how-signal-beats-whatsapp/),
 and we recommend against that service as well. We recommend [Signal](https://signal.org/en/),
 which was built from the ground up for personal security.
  
-### (Do not use) Discord
+#### (Do not use) Discord
 Discord is growing in popularity among activists. It feels nice, as it is community-oriented, with
 individual "servers" for people to join around common interests. **Nothing on Discord is secure,**
 meaning content (messages, images, etc.) posted to a Discord server can easily be seen by others outside
@@ -108,7 +108,7 @@ pro-consumer, but the conditions under which data can be collected, kept, and de
 enforcement, in our opinion, sums to an unacceptable risk for activist use.
 
 
-# Things to Know
+## Things to Know
 Your phone is a data goldmine, full of tracking and identifying information. This includes where
 you have been, what you have said, and with whom you have communicated with. This section will help
 you keep that data safe while you are attending a protest, protecting you AND those around you.
@@ -123,8 +123,8 @@ If you have privacy concerns and your phone is no longer receiving software upda
 not bringing it. If you are attending a protest without a phone, don’t go alone. Arrange times
 and places where you can meet up with your buddies before you go to the protest.
 
-# Attending an Action
-## Before
+## Attending an Action
+### Before
 * Do not mark yourself as “Going” on Facebook.
 	* Make note of the details, and save them on a personal device or piece of paper.
 * Practice your phone passcode. Enable and practice using [Emergency SOS](https://support.apple.com/en-us/HT208076) (iOS) and [Lockdown mode](https://support.google.com/pixelphone/answer/6093922#lockdown) (Android).
@@ -138,7 +138,7 @@ and places where you can meet up with your buddies before you go to the protest.
   phone number, you can create a new phone number with [Google Voice](https://voice.google.com) and register that with Signal.
 * Find a friend (or several!) to go with and connect over Signal to discuss plans.
 
-## During
+### During
 * Use a protest buddy.
 * Confirm meetup plans with your protest buddies before leaving for the event.
 	* Once you meet up, agree on a fallback location in case you get separated.
@@ -146,11 +146,11 @@ and places where you can meet up with your buddies before you go to the protest.
 	* If you can, print the directions before leaving for the action. Apple Maps does not have an
 	  offline mode, and will not be usable without an internet connection.
 
-## After
+### After
 * Leave and delete Signal groups set up for that protest.
 * Don’t post your protest photos on social media!
 
-# Preparing Your Phone
+## Preparing Your Phone
 Your phone is a powerful tool but also a powerful tracking device for law enforcement and other
 entities. Phones record and share lots of information about your whereabouts and activity with
 different services. This is usually a good thing, as it helps your apps respond to your needs
@@ -166,7 +166,7 @@ This section uses the word "phone" to mean a smartphone running iOS or Android, 
 manufactured by Apple, Google, Samsung, and others. If you are using a simpler phone, your risks
 are likely fewer.
 
-## Digital Breadcrumbs
+### Digital Breadcrumbs
 Whether you have an iPhone or an Android, the threats to your privacy are the same. Your phone
 has a built-in **GPS** receiver that enables maps and other location-based apps to work.
 The phone itself will keep that GPS receiver on at all times, recording where you are, and
@@ -196,7 +196,7 @@ is to both enable Airplane mode **and** manually ensure that the Bluetooth and W
 turned _Off_ in your devices Settings app. See the [iOS](#iphone-setup) or [Android](#android-setup)
 section below for the specific details for your device.
 
-## Intrusion Protection
+### Intrusion Protection
 If you attend an action, there is a risk that your phone may be seized by police. They will
 physically have your phone and may attempt to extract information from it. All phones have
 **lock screens**, which is the first line of defense. In day-to-day use, we want our lock screen
@@ -231,7 +231,7 @@ into its charger. This is something you only need to do once.
 If your Android device was shipped with [Android 6 or lower](https://www.computerworld.com/article/2995437/google-makes-full-disk-encryption-and-secure-boot-mandatory-for-some-android-60-devices.html),
 you may not be able to use this feature.
 
-## AirDrop
+### AirDrop
 Despite Apple’s focus on privacy, there are still points of vulnerability with their software. One
 of these involves the [AirDrop](https://support.apple.com/en-us/HT204144) feature. When AirDrop is
 enabled, your phone could leak personally identifiable information (PII) such as your phone number
@@ -240,7 +240,7 @@ and email address to [nearby devices](https://arstechnica.com/gadgets/2021/04/ap
 We recommend keeping AirDrop disabled at all times when near or at an action, and in everyday life
 unless you are actively sharing files with someone.
 
-## Phone Backups
+### Phone Backups
 Keeping backups of your important data is always a good idea, but the built-in cloud backups of iOS
 and Android pose a problem for activists. Backups made with iCloud are encrypted in such a way that
 employees at Apple can access them. This weakness is attributed to [pressure from the FBI.](https://www.reuters.com/article/us-apple-fbi-icloud-exclusive/exclusive-apple-dropped-plan-for-encrypting-backups-after-fbi-complained-sources-idUSKBN1ZK1CT)
@@ -262,7 +262,7 @@ user's passcode. If your phone uses version 9 or newer, [this feature is automat
 as long as you have a lock screen protected with a PIN, pattern, or passcode.
 **Do not use Android cloud backups prior to version 9.**
 
-## Phone Setup Instructions
+### Phone Setup Instructions
 Below we have specific steps to prepare your iPhone or Android. The goals for both are the same, and
 are explained above. The buttons to press, however, are quite different between the two. Select
 iPhone or Android below to see the instructions.
@@ -270,7 +270,7 @@ iPhone or Android below to see the instructions.
 {{< tabs >}}
 {{% tab "iPhone" %}}
 
-### iPhone Setup
+#### iPhone Setup
 
 Apple has prioritized personal security in recent years and now offers features to make securing
 your iPhone easier. Following these steps will make your phone reasonably secure for an action.
@@ -307,7 +307,7 @@ device instead of *Face ID* where it is referenced below.
 {{% /tab %}}
 {{% tab "Android" %}}
 
-### Android Setup
+#### Android Setup
 
 Android has flexible settings that can be used to make your phone secure and usable in a number of situations.
 Click below to see steps to make your phone generally secure for the day of an action.
@@ -342,18 +342,18 @@ Click below to see steps to make your phone generally secure for the day of an a
 {{% /tab %}}
 {{< /tabs >}}
 
-# Security Ideas
+## Security Ideas
 This section is about keeping your information private in the rest of your life. In this
 document, “private” means only accessible to you, and not to anyone else without your permission.
 
-## Messaging with Encryption
+### Messaging with Encryption
 To encrypt your personal communication (like messages with other people), you want *end-to-end*
 encryption (E2EE). Many apps claim “encryption” but only a few truly guarantee that your
 information stays encrypted all the way to your recipient’s phone. The “end-to-end” means it is
 only readable by you and your recipient. Without the “end-to-end” property, copies of messages
 may be sent through and saved on a central server, which the provider company has full access to.
 
-## Meeting Online
+### Meeting Online
 Virtual meetings over video calls are part of modern life and very common in activist
 communities. Solutions like Zoom, Google Meet, and Microsoft Teams are popular choices for work
 and social meetups but do not offer the privacy activism requires. For that reason, we
@@ -375,7 +375,7 @@ You can start a meeting directly from their web page at
 [meet.jit.si](https://meet.jit.si/).  Jitsi takes security and personal anonymity seriously.
 You can read more on their [security page](https://jitsi.org/security/).
 
-## Password Safety
+### Password Safety
 The password is the primary mechanism used to secure your online accounts, but it is also a
 significant point of vulnerability. How can we manage this?
 
@@ -383,7 +383,7 @@ significant point of vulnerability. How can we manage this?
 * Use long and strong passwords that are not easily guessed.
 * Use a password manager to securely store your passwords, then use a unique password for each service.
 
-## Two-Factor Authentication (2FA)
+### Two-Factor Authentication (2FA)
 This adds a second check, whenever you log in, that it’s really you. The second factor can be an
 app on your phone, an email, or text message. A one-time-use code is sent to you, which you then
 enter into the service to prove you control that second factor. Not all channels are equal in
@@ -400,7 +400,7 @@ If the above options are not available for your service, you may be able to use 
 or phone (via SMS) to receive one-time codes. These are not as secure as the above options, but,
 as stated above, any 2FA is worlds better than none at all.
 
-## Strong Passwords
+### Strong Passwords
 Longer passwords are harder to break, regardless of the types of characters they contain. Modern
 hackers’ tools can try every possible character in every order for an 8-character password
 instantly, but a 10-character password would take hours. XKCD did a fun explanation of this: https://xkcd.com/936/
@@ -413,7 +413,7 @@ passphrase. Doug Muth built a nice online Diceware tool below.
 
 Diceware Password Generator: https://diceware.dmuth.org/
 
-## Password Managers
+### Password Managers
 Password managers are apps that work like personal vaults for your passwords. They can save the
 username, password, and other information for each app and/or site that you use. This vault is
 heavily encrypted and can only be unlocked by a master password. All you need to remember is
@@ -435,7 +435,7 @@ they stay securely recorded inside your personal vault within the manager. Our r
 [BitWarden](https://bitwarden.com/), an open-source and easy-to-use password manager that uses
 widely-agreed-upon encryption standards for your passwords.
 
-## Security Questions
+### Security Questions
 Services often use personal questions as a backup system, should you need to reset your
 password. These questions often ask for personal information, like the name of your childhood
 pet or mother’s maiden name. This information, however, is often accessible to others.
@@ -445,7 +445,7 @@ so that nobody familiar with your life could guess it and force a password reset
 consent. For instance, for the question “Where did you attend school in the sixth grade?” you
 could instead respond with your favorite cartoon character from the sixth grade.
 
-# Other Tips
+## Other Tips
 These tips don't just protect you, but protect the safety and privacy of others as well!
 
 * Think carefully about who you can safely share your involvement in activism with.
@@ -457,12 +457,12 @@ These tips don't just protect you, but protect the safety and privacy of others 
 * Have a protest buddy and use Signal to communicate with them.
 * When using Signal, enable “Disappearing Messages” for any sensitive conversations.
 
-# Closing
+## Closing
 We hope that you have found this resource helpful. While at first these materials may seem
 intimidating, we are confident you can master them with a little time and practice. You can take your
 learning journey further with the links below.
 
-# More Resources
+## More Resources
 * [Activist Handbook: Security](https://activisthandbook.org/tools/security)
 * [Privacy Guides: Why Privacy Matters](https://www.privacyguides.org/en/basics/why-privacy-matters/)
 * [404 Media](https://404media.co/)

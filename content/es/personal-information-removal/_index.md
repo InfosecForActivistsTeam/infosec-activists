@@ -1,9 +1,9 @@
 ---
+title: "Guía de eliminación de información personal"
 type: docs
 weight: 2
 ---
 
-# Guía de eliminación de información personal
 Tras una nueva campaña o un momento viral en Internet, quienes se dedican al activismo pueden ser
 especialmente vulnerables. Tu información personal -nombre legal, dirección, número de teléfono,
 correo electrónico e incluso cuentas de redes sociales- es recopilada por empresas de marketing de

@@ -1,9 +1,9 @@
 ---
+title: "Personal Information Removal Guide"
 type: docs
 weight: 2
 ---
 
-# Personal Information Removal Guide
 In the wake of a new campaign, or viral moment on the internet, activists can be uniquely vulnerable.
 Your personal information– your legal name, address, phone number, email, and even social media
 handles– are collected by consumer marketing firms and just a Google search away from bad actors

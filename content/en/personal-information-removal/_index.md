@@ -24,6 +24,8 @@ You can either remove the information yourself, or pay for a professional servic
 this can be emotionally stressful work that can be easier to perform with a friend or small group of
 trusted activists.
 
+For more information on DeleteMe, see [this 2024 review from PCMag](https://www.pcmag.com/reviews/abine-deleteme).
+
 Michael Bazzell has compiled a free and comprehensive list of peoplesearch engines, with
 step-by-step instructions for each. The workbook is available in both [PDF](https://inteltechniques.com/data/workbook.pdf)
 and [HTML](https://inteltechniques.com/workbook.html) formats, so you can print it out, or work from

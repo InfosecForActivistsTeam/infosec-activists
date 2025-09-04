@@ -24,6 +24,8 @@ You can either remove the information yourself, or pay for a professional servic
 this can be emotionally stressful work that can be easier to perform with a friend or small group of
 trusted activists.
 
+For more information on DeleteMe, see [this 2024 review from PCMag](https://www.pcmag.com/reviews/abine-deleteme).
+
 Michael Bazzell has compiled a free and comprehensive list of peoplesearch engines, with
 step-by-step instructions for each. The workbook is available in both [PDF](https://inteltechniques.com/data/workbook.pdf)
 and [HTML](https://inteltechniques.com/workbook.html) formats, so you can print it out, or work from
@@ -31,6 +33,11 @@ the list online.
 
 The workbook is 32 pages, with six peoplesearch engines per page. If you spend 15-20 minutes per
 day, it should take you about a month to complete, or 8-10 hours total.
+
+## PimEyes
+You should remove yourself from [PimEyes](https://pimeyes.com). PimEyes is a commercially available facial recognition database. One can upload a photo of someone, and PimEyes will scan the web to find matching results. Pro-Israel protesters in the Boston area have identified some pro-Palestine protesters, most likely using PimEyes, and have targeted them for harassment.
+
+[Use this form to opt out of PimEyes.](https://pimeyes.com/en/opt-out-request-form)
 
 ## VOIP Numbers
 If you’re an organizer, you’re probably regularly in contact with people you don’t know well, via a

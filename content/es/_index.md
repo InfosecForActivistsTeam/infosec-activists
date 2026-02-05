@@ -308,7 +308,7 @@ protesters' rights. ¡Para seguir las noticias del mundo de la privacidad y la l
 
 Última actualización el {{< last-modified >}}.
 
-[Envíenos sugerencias:](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
+[Envíenos sugerencias:](https://cryptpad.fr/form/#/2/form/view/JOEbSEOXhDxT9peER7PeiOxFPRu5Qgc45YP0xO2dEwk/)
 (Este enlace usa un formulario de Google. No ponga información personal.)
 
 ![GitHub Logo](../media/GitHub-Mark-32px.png) 

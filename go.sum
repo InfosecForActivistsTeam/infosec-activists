@@ -20,3 +20,5 @@ github.com/alex-shpak/hugo-book v0.0.0-20250815075559-80da168330a7 h1:zxGxqYjCcR
 github.com/alex-shpak/hugo-book v0.0.0-20250815075559-80da168330a7/go.mod h1:L4NMyzbn15fpLIpmmtDg9ZFFyTZzw87/lk7M2bMQ7ds=
 github.com/bskinner/hugo-book/v11 v11.0.2 h1:RqQGrtbAE351FEaiULFNs9bqjUCVhgNd4U01F0aUM6Q=
 github.com/bskinner/hugo-book/v11 v11.0.2/go.mod h1:M26yF0Xs+DD7Ucby6cnH8RpBYJw0K/3EzBbjMo8aklg=
+github.com/bskinner/hugo-book/v13 v13.0.1 h1:QWW6m4AcrvkLX0R1jX2pjulMDZgeYd0XRJ0zy4yu/Js=
+github.com/bskinner/hugo-book/v13 v13.0.1/go.mod h1:LIo3RAvkRCUTEylMcXAzYtPNugyYnnKowtaDdOqUQuA=

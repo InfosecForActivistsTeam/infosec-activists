@@ -472,7 +472,7 @@ learning journey further with the links below.
 Last updated on {{< last-modified >}}.
 
 Contact us at [contact@infosecforactivists.org](mailto:contact@infosecforactivists.org) or
-[send us feedback](https://docs.google.com/forms/d/e/1FAIpQLSdmvPAGVEVwe2ImXvjGoLQH2MZS34aoiveJRO8FnW4fE-1VEg/viewform?usp=sf_link)
+[send us feedback](https://cryptpad.fr/form/#/2/form/view/JOEbSEOXhDxT9peER7PeiOxFPRu5Qgc45YP0xO2dEwk/)
 (Uses a google form. Do not submit personal or sensitive information.)
 
 ![GitHub Logo](media/GitHub-Mark-32px.png)

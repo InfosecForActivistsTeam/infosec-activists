@@ -27,7 +27,7 @@ weight = 2
 
 [module]
 [[module.imports]]
-path = "github.com/bskinner/hugo-book/v11"
+path = "github.com/bskinner/hugo-book/v13"
 
 [params]
 BookTheme = 'auto'

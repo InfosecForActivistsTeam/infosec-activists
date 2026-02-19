@@ -46,3 +46,12 @@
 input.toggle:focus + label {
     outline: auto;
 }
+
+// Darken background color in dark mode
+// for better text contrast
+@media (prefers-color-scheme: dark) {
+  // extra specificity to defeat base book theme
+  :root:root {
+    --body-background: hsl(0, 0%, 10%);
+  }
+}
